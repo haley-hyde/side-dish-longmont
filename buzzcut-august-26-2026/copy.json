@@ -1,0 +1,114 @@
+{
+  "clips": {
+    "clip_01": {
+      "instagram": {
+        "caption": "Two major Longmont employers just held ribbon cuttings for big expansions. Ursa Major opened a new manufacturing facility for 125 employees building aerospace propulsion systems, and Stored Energy Systems expanded to 105,000 square feet. This is exactly the kind of growth the city needs. Full episode link in bio.",
+        "hashtags": [
+          "#Longmont",
+          "#LongmontColorado",
+          "#LongmontBusiness",
+          "#ColoradoAerospace",
+          "#EconomicDevelopment",
+          "#SideDishLongmont"
+        ]
+      },
+      "facebook": {
+        "post": "Two Longmont companies just celebrated major expansions, and it's the kind of news that shows real momentum in the local economy. Ursa Major opened a new manufacturing facility that will employ 125 people working on aerospace propulsion systems and hypersonics. Meanwhile, Stored Energy Systems, which started in the Bay Area in the '90s and has called Longmont home for years, just expanded to 105,000 square feet out on Disc Drive. These aren't just facilities, they're jobs and signs that Longmont is building something lasting. What sectors do you think Longmont should be attracting next as the city continues to grow?"
+      },
+      "bluesky": {
+        "post": "Ursa Major just opened a 125-employee aerospace manufacturing facility in Longmont, and Stored Energy Systems expanded to 105,000 sq ft. Real job growth in sectors that actually build things."
+      },
+      "discord": {
+        "message": "New clip up: two ribbon cuttings for major employer expansions in Longmont. Ursa Major's building aerospace propulsion systems with 125 employees, and Stored Energy Systems just hit 105,000 square feet. Actual concrete economic development wins. Link in the usual spot, curious what y'all think about this kind of growth."
+      }
+    },
+    "clip_02": {
+      "instagram": {
+        "caption": "Landline is closed, but there's a silver lining: a really good operator is coming to that spot. Can't share details yet, but it's worth the wait. Full episode link in bio 🎧",
+        "hashtags": [
+          "#Longmont",
+          "#LongmontColorado",
+          "#LongmontEats",
+          "#SideDishLongmont",
+          "#LongmontRestaurants",
+          "#LongmontFoodie"
+        ]
+      },
+      "facebook": {
+        "post": "Landline closed its doors last week after a final day that drew lines out the door and down the block. But there's something to look forward to: the space is under contract with a really good operator coming in. We can't spill the details just yet, but if you loved watching that community show up for Landline's goodbye, you're going to want to keep an eye on what's next. What do you hope to see in that space?"
+      },
+      "bluesky": {
+        "post": "Landline is closed, but a really good operator is coming to the space. Can't say who yet, but it's worth getting excited about."
+      },
+      "discord": {
+        "message": "New clip up: Landline closed last week (lines out the door on the final day), but the space is under contract with a solid operator coming in. No details yet, but sounds promising. Give it a listen if you're curious what's next for that spot."
+      }
+    },
+    "clip_03": {
+      "instagram": {
+        "caption": "Longmont's Bus Rapid Transit is coming in early 2028, and it'll run Boston to Hoover. But first: a grade-level crossing to finally connect the two Bostons. Full episode link in bio.",
+        "hashtags": [
+          "#LongmontColorado",
+          "#Longmont",
+          "#BRT",
+          "#LongmontTransit",
+          "#SideDishLongmont",
+          "#PublicTransit"
+        ]
+      },
+      "facebook": {
+        "post": "If you've ever tried to get from one side of Boston Avenue to the other in Longmont, you know it's weirdly complicated. Right now there's no direct crossing over the tracks, so you have to loop around on Price Road. That's about to change: the city is planning a grade-level crossing to connect the two Bostons, and it matters because that's where the Bus Rapid Transit route will run when it launches in early 2028. Boston to Hoover, not Ken Pratt. We broke down the timeline and the quirks in this week's episode. How often do you actually use Boston Avenue to get around town?"
+      },
+      "bluesky": {
+        "post": "Longmont's BRT is coming Q1 2028, Boston to Hoover. First step: finally connecting the two Bostons with a grade-level crossing over the tracks. If you know, you know."
+      },
+      "discord": {
+        "message": "New clip up: Longmont's Bus Rapid Transit timeline just got clearer. Launch is set for early 2028, running Boston to Hoover. They're also building a grade-level crossing this year to connect the two sides of Boston Avenue, which is long overdue if you've ever gotten stuck looping around on Price. Curious what y'all think about the route choice—Boston instead of Ken Pratt is interesting."
+      }
+    },
+    "clip_04": {
+      "instagram": {
+        "caption": "Boulder Valley School District just closed six schools, affecting 16 school communities across the region. Capacity reduction: nearly 2,000 students. Full episode link in bio.",
+        "hashtags": [
+          "#Longmont",
+          "#LongmontColorado",
+          "#BoulderValley",
+          "#BVSD",
+          "#ColoradoSchools",
+          "#LocalNews"
+        ]
+      },
+      "facebook": {
+        "post": "Boulder Valley School District announced closures yesterday that will affect families across the region: six schools closed, 16 school communities impacted, and a capacity reduction of more than 1,900 students. The closures include consolidations in Broomfield and reconfigurations in Louisville, a decision that's been building for a while as enrollment shifts. It's a big change for a lot of neighborhoods and families trying to plan ahead. If your school community is one of the ones affected, how are you and your neighbors handling the transition?"
+      },
+      "bluesky": {
+        "post": "Boulder Valley closed 6 schools yesterday, affecting 16 communities and nearly 2,000 students. A big shift for families across the region."
+      },
+      "discord": {
+        "message": "New clip up: Boulder Valley School District's closures. Six schools shuttered, 16 communities affected, capacity reduction of almost 2,000 students. We break down what happened in Broomfield and Louisville and what it means for the region. Curious what y'all think about this one—lots of families navigating some big changes."
+      }
+    },
+    "clip_05": {
+      "instagram": {
+        "caption": "If you say no to one corporate sponsor, why do you say yes to another? A sharp take from our latest episode on why Longmont schools' stance on robotics partnerships doesn't quite add up. Full episode link in bio.",
+        "hashtags": [
+          "LongmontColorado",
+          "Longmont",
+          "SideDishLongmont",
+          "LongmontSchools",
+          "EducationPolicy",
+          "STEM"
+        ]
+      },
+      "facebook": {
+        "post": "\"Don't pretend like we don't have corporate partners behind the entire curriculum ecosystem of the district.\" This week's episode dug into the Longmont school district's decision to move away from VEX robotics due to concerns about being tied to one corporate partner. But as our guests point out, Apple already provides iPads as sponsorships, and plenty of big-money corporations are embedded in the curriculum. So what makes one partnership acceptable and another not? It's a sharp, thoughtful challenge to the district's reasoning. Do you think schools can avoid corporate partnerships entirely, or is it more about being honest about which ones we choose and why?"
+      },
+      "bluesky": {
+        "post": "\"Don't pretend we don't have corporate partners behind the entire curriculum.\" New clip on the contradiction in Longmont schools saying no to VEX but yes to Apple sponsorships. Worth a listen."
+      },
+      "discord": {
+        "message": "New clip just dropped: why does the school district reject VEX robotics over corporate partnership concerns but happily accept Apple iPad sponsorships and tons of other corporate-backed curriculum? It's a pointed, debate-worthy take. Clip is up on the usual channels. Curious what y'all think about this one."
+      }
+    }
+  }
+}

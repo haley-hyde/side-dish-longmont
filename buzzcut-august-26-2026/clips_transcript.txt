@@ -1,0 +1,73 @@
+SIDEDISH LONGMONT - TRANSCRIPT FOR EACH SELECTED CLIP ONLY
+============================================================
+
+This shows the exact transcript for just the stretches of audio used
+in each clip below - not the whole episode. Check these for a
+misheard word or name; you can ignore everything else in the episode
+for caption-accuracy purposes.
+
+To fix something: edit transcript_words.json in this same folder -
+find the word in question and correct its "punctuated_word" value.
+(See highlights_review.txt if you also want to change a clip's
+timing or on-screen headline.)
+
+============================================================
+
+CLIP 1 (clip_01) - 5:15 to 7:05 - "Two major Longmont employers just expanded big time"
+------------------------------------------------------------
+[314.5 - 315.0] Speaker 1: Buzz?
+[316.2 - 425.3] Speaker 0: Well, in some employment news, which I think is very exciting, and I'm happy for Longmont about this. I think you probably saw this, but two different ribbon cuttings for some expansions of employers in Longmont happened recently. One is for Ursa Major Mhmm. Which is funny. That was, they opened basically a new manufacturing facility in Longmont, which is very exciting. And is this the one I don't exactly know where they opened the facility, but it's somewhere out there, and this is gonna be for a 125 employees for avionics and in space prop propulsion systems, and additional hypersonics and solid rocket motor capacity in Berthoud. So they so so they already were in Berthoud. I think they expanded their foot footprint in Berthoud, and then also expanded into Longmont, is my understanding of that. And I'm very happy for that. That's very exciting. Yeah. That's exciting. Stuff we've been targeting, you know, like, for in terms of, like, the economic development strategy and what they what kinds of employers they want to attract. This falls right within that, and that's a big deal. So congrats on that. And then the other one was for SENS, Stored Energy Systems, who's already been in Longmont, but they did an expansion, and they've just been continuing to expand since they arrived in Longmont in 1992. They relocated with just a few, employees from the Bay Area, which is something that you kinda hear sometimes. You're like, oh, we do we have you know, when I'm, like, touring small spaces or whatever, so, like, we're out in, you know, Palo Alto or whatever, and we're gonna put a few employees here and see how it goes and then slowly expand. And that's what this was starting in '92. So while and then they did expanded in 2020, they expanded in '25, and then, in '26. So they are now in a 105,000 square feet, which is huge, out there on Disk Drive, which is where Seagate is. Mhmm. So, Which I
+[425.3 - 425.5] Speaker 1: love
+
+============================================================
+
+CLIP 2 (clip_02) - 8:36 to 9:09 - "Landline closes but a great operator is coming"
+------------------------------------------------------------
+[515.6 - 516.0] Speaker 1: peace.
+[516.0 - 520.7] Speaker 0: Rip in peace. Yeah. Their last day was, what, yesterday, August 26?
+[520.7 - 522.5] Speaker 1: I think so. Yeah. Yeah. 2526.
+[522.5 - 525.9] Speaker 0: I know. I took a picture because I was astonished at the line out the door and down
+[525.9 - 526.1] Speaker 1: the block. It was
+[526.4 - 532.0] Speaker 0: That's crazy. Crazy. Yeah. It was awesome. Yeah. I know. But something great is coming.
+[532.0 - 533.8] Speaker 1: Something great is coming. Do you have the digs on there or is it
+[534.1 - 549.4] Speaker 0: I do. I can't quite share it yet, but, it's under contract, and there's a really good operator coming to that spot, and everybody should be really excited. So as as sad as we are to leave Landline, I think there is a good ending to that story because we're gonna get a great operator in there.
+
+============================================================
+
+CLIP 3 (clip_03) - 11:42 to 12:52 - "Connecting the two Bostons: BRT coming 2028"
+------------------------------------------------------------
+[701.7 - 702.0] Speaker 1: Mhmm.
+[702.1 - 704.9] Speaker 0: That connects the two Bostons, the two disparate Bostons.
+[704.9 - 706.0] Speaker 1: Two two Boston.
+[706.2 - 716.5] Speaker 0: Yeah. Right now, the only way to get to Boston, if you're coming, like, east or coming from the east, where where left hand is, say, is to hit up Price Road, and then that turns into Boston.
+[716.5 - 717.3] Speaker 1: It's weird.
+[717.4 - 726.8] Speaker 0: Yeah. Otherwise, Boston meets Main Street Mhmm. You know, but you can't connect the two Boston. So they're gonna do a crossing over that track
+[728.2 - 738.1] Speaker 0: in order oh, yeah, a little construction here. In order to connect the Bostons, and that's relevant because the BRT route will be Mhmm. Boston to Hover Which is not Ken Pratt.
+[738.1 - 742.7] Speaker 1: Do you know the timeline? Because we heard a timeline that it was supposed to start, I think, this year. But what I
+[742.7 - 745.0] Speaker 0: That's what I'm saying. Quarter one two thousand twenty eight.
+[745.0 - 747.0] Speaker 1: Okay. I missed that. I was listening to
+[747.0 - 763.9] Speaker 0: the quarters. So so but that but for BRT to be functional in 2028, all those things I just mentioned need to be done. They're all on track. What's not on track is we haven't even broken ground on the 1st And Main Transit Center, which is where it terminates. And I think that what they do have to have done and is the plan for the phase one is the parking garage.
+[764.3 - 764.6] Speaker 1: Mhmm.
+[764.6 - 771.8] Speaker 0: So the parking garage will be first, and that has to be finished by the end of twenty twenty seven to be ready for quarter one BRT.
+
+============================================================
+
+CLIP 4 (clip_04) - 24:51 to 25:47 - "Boulder Valley closes 6 schools, 16 communities impacted"
+------------------------------------------------------------
+[1490.8 - 1491.2] Speaker 0: they,
+[1492.8 - 1495.8] Speaker 0: they merged like Eldorado and Monarch and,
+[1497.3 - 1547.0] Speaker 0: basically six to eight school communities and attendance areas as I call them. And they, they've been very strategic about this. They're trying to, like, keep schools that are within, you know, two miles. Those are the ones that are consolidating, if it can make sense or whatever. They're closing Douglas Elementary, which is out, like, East 75th kind of, or East Arapaho or whatever that is. And that's, like, a relatively new school. It's a little surprising. And then they are relocating High Peaks. Anyway, blah blah blah. And then closing they consolidated Bear Creek in Mesa. So big, big shake up. I mean, there was I think Boulder Reporting Lab did a nice piece on this expecting about four schools to three or four schools to be announced as closed. I don't know if that people expected this much impact overall, but, they said their capacity reduction is 1,906. So pupils, I would imagine. Mhmm.
+
+
+============================================================
+
+CLIP 5 (clip_05) - 34:56 to 35:55 - "Why do schools reject one corporate partner but embrace others?"
+------------------------------------------------------------
+[2095.5 - 2109.2] Speaker 1: It's like corporate politics getting in the way of, like, educational opportunity. And I'm I I would be in favor of using something that wasn't so monolithic. I like the idea of sort of go be plucky. Yeah. UV print your own thing.
+[2109.2 - 2109.5] Speaker 0: Yeah.
+[2109.5 - 2110.2] Speaker 1: Do what you can.
+[2110.2 - 2110.5] Speaker 0: It should
+[2110.5 - 2122.2] Speaker 1: be affordable. It should be open to more people. You don't have to use this pipeline to get your equipment. I'm I'm all in on that, but, you know, it is hard to make that transition. Twitter's still around, I think. It is hard. When something
+[2122.2 - 2154.6] Speaker 0: is that strange. But I also feel like there's some incongruence with the idea that we're we don't wanna be tied with one corporate partner. Hi. Apple has, like, a like, whatever on the district with all of these iPads that they provide for free as a sponsorship. And there are so so many corporations behind a lot of the curriculum, and it's big money, by the way. So it's like, don't pretend like we don't have corporate partners behind the entire curriculum ecosystem of the district and that we're, like, so allergic to Vex at this point that we wanna move away from it.
+
+============================================================
