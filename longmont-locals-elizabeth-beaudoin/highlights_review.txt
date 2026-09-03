@@ -1,0 +1,67 @@
+SIDEDISH LONGMONT - HIGHLIGHT CLIPS (before rendering)
+============================================================
+
+Claude selected 5 clip(s) from this episode. Read through them
+below before the video clips get rendered.
+
+To change a clip's start/end time or on-screen headline: edit
+highlights.json in this same folder (start_time/end_time are in
+seconds, hook is the headline).
+
+To fix a misheard word or name before it shows up in captions: edit
+transcript_words.json in this same folder - find that word and correct
+its "punctuated_word" value.
+
+When you're happy with everything, run the SAME command again WITHOUT
+--review. It will draft the social copy, render the videos, and build
+the review page.
+
+============================================================
+
+Clip 1 (clip_01) - 6:12 to 7:26 (59.93s)
+  (made of 2 joined segments - a stretch was cut out of the middle:)
+    - 6:12 to 6:21
+    - 6:35 to 7:26
+Hook / headline: Longmont's 1950s Flight: First Plane Bombing in History
+Speakers: Speaker 2, Speaker 1, Speaker 0
+Why selected: Dramatic, compelling local story that's surprising and has strong narrative arc. Self-contained with setup and resolution. Features the curator's expertise and connects to current events (recent plane crash discussion).
+Social angle: surprising
+Transcript excerpt:
+  "Speaker 2: There was a a very important kind of lot changing flight crash that happened in the nineteen fifties here. United Flight, crashed into a field between Longmont and Frederick, and it was the first time a flight had ever been bombed... A young man, planted a bomb in his mother's suitcase... he bought insurance on his mother and planted a bomb in her suitcase. He had a lot of grievances towards her... Speaker 1: So did he, like, take the money and go home? Speaker 2: No. They caught him. They caught him almost immediately... Everyone on this flight died, by the way."
+------------------------------------------------------------
+
+Clip 2 (clip_02) - 21:34 to 22:04 (29.8s)
+Hook / headline: Longmont's Unsolved Murder: Son Accused, Never Convicted
+Speakers: Speaker 2, Speaker 1, Speaker 0
+Why selected: Spooky local history with dramatic storytelling. Great mystery element that's standalone and intriguing. Ties to visible downtown building (303 Kaufman) that listeners can visit.
+Social angle: local_story
+Transcript excerpt:
+  "Speaker 1: So he was murdered there? Speaker 2: He was murdered there. Yeah. Speaker 0: Just, like, super grizzly, like a grizzly thing? Speaker 2: Been solved... No. He was it's like sitting in the parlor of his house, him and his wife, and a bullet came through the front window and, killed him pretty much instantly... Almost immediately, his son Rienzi was arrested... the theory was that maybe his son murdered his father in order to get some kind of inheritance."
+------------------------------------------------------------
+
+Clip 3 (clip_03) - 27:15 to 28:11 (56.1s)
+Hook / headline: Why Did Longmont Brick Over Beautiful Old Windows?
+Speakers: Speaker 0, Speaker 2
+Why selected: Relatable frustration about 1960s Main Street renovations. Creates curiosity about downtown buildings listeners walk past. Features expert opinion on preservation vs progress with nuance.
+Social angle: community_issue
+Transcript excerpt:
+  "Speaker 0: Has anybody tried to break some of those open? Have they been re added? Or is it just kinda like once that's done, that's a permanent fixture in there? Speaker 2: I think it was pretty permanent... in the nineteen sixties, it's like, why did you tear down this building that was made with, like, old hewn wood and brick and, like, real materials to then we have so much that's made of, like, plastic or composites... I think newer is not always better, but older isn't always better either... a lot of the buildings that were built, the the cheap buildings of the nineteenth century don't usually survive."
+------------------------------------------------------------
+
+Clip 4 (clip_04) - 35:48 to 37:07 (78.9s)
+Hook / headline: Longmont Had Colorado's First Library—Before Denver
+Speakers: Speaker 2, Speaker 0, Speaker 1
+Why selected: Surprising fact that elevates Longmont's historical importance. Strong payoff line about bringing learning to the Wild West. Self-contained story with humor and local pride angle.
+Social angle: surprising
+Transcript excerpt:
+  "Speaker 2: We had the first library in Longmont. I think that's a really interesting story... It's not it's not it's the first library in all Colorado... It's not just like the first library of Longmont. And it was short lived... Elizabeth Thompson... funded what I like to term scholarships to the colony... she also gave the money for this library and a bunch of books and prints... I like to joke, leave it up to a woman from New England to fund the first library in Colorado and be like, you folks in the Wild West, you're you're gonna be learned."
+------------------------------------------------------------
+
+Clip 5 (clip_05) - 41:20 to 41:57 (36.7s)
+Hook / headline: When Longmont Was Dry: Bars Six Blocks North
+Speakers: Speaker 2, Speaker 1, Speaker 0
+Why selected: Funny and surprising local history that contrasts with Longmont's current brewery reputation. Very visual and relatable—people can imagine walking six blocks for a drink. Good humor throughout.
+Social angle: funny
+Transcript excerpt:
+  "Speaker 2: Yeah. And there was. And when when Longmont was dry, the liquor stores were in or the bars at the very least, North Of 9th was North Longmont. It was a different community. Speaker 0: That's crazy. So you'd be on you'd be on 3rd And Main. If it was six blocks to the boozer. Speaker 2: Yeah. But and then, like, say you're walking back say you're walking down Main Street to get back to your home in regular Longmont, if the police picked you up for drunkenness, like, you are now drunk in Longmont. So you had to be careful."
+------------------------------------------------------------

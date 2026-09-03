@@ -1,0 +1,88 @@
+{
+  "clips": [
+    {
+      "start_time": 372.3,
+      "end_time": 446.1,
+      "speakers": [
+        "Speaker 2",
+        "Speaker 1",
+        "Speaker 0"
+      ],
+      "transcript_excerpt": "Speaker 2: There was a a very important kind of lot changing flight crash that happened in the nineteen fifties here. United Flight, crashed into a field between Longmont and Frederick, and it was the first time a flight had ever been bombed... A young man, planted a bomb in his mother's suitcase... he bought insurance on his mother and planted a bomb in her suitcase. He had a lot of grievances towards her... Speaker 1: So did he, like, take the money and go home? Speaker 2: No. They caught him. They caught him almost immediately... Everyone on this flight died, by the way.",
+      "hook": "Longmont's 1950s Flight: First Plane Bombing in History",
+      "selection_reason": "Dramatic, compelling local story that's surprising and has strong narrative arc. Self-contained with setup and resolution. Features the curator's expertise and connects to current events (recent plane crash discussion).",
+      "social_angle": "surprising",
+      "clip_id": "clip_01",
+      "duration": 59.93,
+      "segments": [
+        {
+          "start": 372.3,
+          "end": 380.84
+        },
+        {
+          "start": 394.71,
+          "end": 446.1
+        }
+      ]
+    },
+    {
+      "start_time": 1294.0,
+      "end_time": 1323.8,
+      "speakers": [
+        "Speaker 2",
+        "Speaker 1",
+        "Speaker 0"
+      ],
+      "transcript_excerpt": "Speaker 1: So he was murdered there? Speaker 2: He was murdered there. Yeah. Speaker 0: Just, like, super grizzly, like a grizzly thing? Speaker 2: Been solved... No. He was it's like sitting in the parlor of his house, him and his wife, and a bullet came through the front window and, killed him pretty much instantly... Almost immediately, his son Rienzi was arrested... the theory was that maybe his son murdered his father in order to get some kind of inheritance.",
+      "hook": "Longmont's Unsolved Murder: Son Accused, Never Convicted",
+      "selection_reason": "Spooky local history with dramatic storytelling. Great mystery element that's standalone and intriguing. Ties to visible downtown building (303 Kaufman) that listeners can visit.",
+      "social_angle": "local_story",
+      "clip_id": "clip_02",
+      "duration": 29.8
+    },
+    {
+      "start_time": 1635.3,
+      "end_time": 1691.4,
+      "speakers": [
+        "Speaker 0",
+        "Speaker 2"
+      ],
+      "transcript_excerpt": "Speaker 0: Has anybody tried to break some of those open? Have they been re added? Or is it just kinda like once that's done, that's a permanent fixture in there? Speaker 2: I think it was pretty permanent... in the nineteen sixties, it's like, why did you tear down this building that was made with, like, old hewn wood and brick and, like, real materials to then we have so much that's made of, like, plastic or composites... I think newer is not always better, but older isn't always better either... a lot of the buildings that were built, the the cheap buildings of the nineteenth century don't usually survive.",
+      "hook": "Why Did Longmont Brick Over Beautiful Old Windows?",
+      "selection_reason": "Relatable frustration about 1960s Main Street renovations. Creates curiosity about downtown buildings listeners walk past. Features expert opinion on preservation vs progress with nuance.",
+      "social_angle": "community_issue",
+      "clip_id": "clip_03",
+      "duration": 56.1
+    },
+    {
+      "start_time": 2147.7,
+      "end_time": 2226.6,
+      "speakers": [
+        "Speaker 2",
+        "Speaker 0",
+        "Speaker 1"
+      ],
+      "transcript_excerpt": "Speaker 2: We had the first library in Longmont. I think that's a really interesting story... It's not it's not it's the first library in all Colorado... It's not just like the first library of Longmont. And it was short lived... Elizabeth Thompson... funded what I like to term scholarships to the colony... she also gave the money for this library and a bunch of books and prints... I like to joke, leave it up to a woman from New England to fund the first library in Colorado and be like, you folks in the Wild West, you're you're gonna be learned.",
+      "hook": "Longmont Had Colorado's First Library—Before Denver",
+      "selection_reason": "Surprising fact that elevates Longmont's historical importance. Strong payoff line about bringing learning to the Wild West. Self-contained story with humor and local pride angle.",
+      "social_angle": "surprising",
+      "clip_id": "clip_04",
+      "duration": 78.9
+    },
+    {
+      "start_time": 2480.0,
+      "end_time": 2516.7,
+      "speakers": [
+        "Speaker 2",
+        "Speaker 1",
+        "Speaker 0"
+      ],
+      "transcript_excerpt": "Speaker 2: Yeah. And there was. And when when Longmont was dry, the liquor stores were in or the bars at the very least, North Of 9th was North Longmont. It was a different community. Speaker 0: That's crazy. So you'd be on you'd be on 3rd And Main. If it was six blocks to the boozer. Speaker 2: Yeah. But and then, like, say you're walking back say you're walking down Main Street to get back to your home in regular Longmont, if the police picked you up for drunkenness, like, you are now drunk in Longmont. So you had to be careful.",
+      "hook": "When Longmont Was Dry: Bars Six Blocks North",
+      "selection_reason": "Funny and surprising local history that contrasts with Longmont's current brewery reputation. Very visual and relatable—people can imagine walking six blocks for a drink. Good humor throughout.",
+      "social_angle": "funny",
+      "clip_id": "clip_05",
+      "duration": 36.7
+    }
+  ]
+}

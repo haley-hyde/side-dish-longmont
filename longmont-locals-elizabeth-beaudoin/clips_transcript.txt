@@ -1,0 +1,85 @@
+SIDEDISH LONGMONT - TRANSCRIPT FOR EACH SELECTED CLIP ONLY
+============================================================
+
+This shows the exact transcript for just the stretches of audio used
+in each clip below - not the whole episode. Check these for a
+misheard word or name; you can ignore everything else in the episode
+for caption-accuracy purposes.
+
+To fix something: edit transcript_words.json in this same folder -
+find the word in question and correct its "punctuated_word" value.
+(See highlights_review.txt if you also want to change a clip's
+timing or on-screen headline.)
+
+============================================================
+
+CLIP 1 (clip_01) - 6:12 to 7:26 - "Longmont's 1950s Flight: First Plane Bombing in History"
+------------------------------------------------------------
+[373.9 - 375.0] Speaker 1: What do you mean by bomb?
+[375.0 - 378.0] Speaker 2: It was it was bombed, and bomb was planted in a suitcase.
+[378.1 - 378.6] Speaker 0: Woah.
+[378.8 - 380.8] Speaker 2: So, you can look this up on Wikipedia.
+      ...(cut)...
+[394.7 - 429.3] Speaker 2: A young man, planted a bomb in his mother's suitcase. He was in his twenties, and it was back in the time that you could buy insurance, life insurance, at the airport. They had these little kiosks because flying was seen as being very scary and potentially dangerous. So to make people feel better, they're like, well, you can always buy, like, just buy insurance at this kiosk. So he bought insurance on his mother and planted a bomb in her suitcase. He had a lot of grievances towards her for I she gave him up as a young child, and he, he may have had some some real issues mentally.
+[429.8 - 432.6] Speaker 0: Yeah. You'd think if you're trying to blow your mom up. Yeah. And
+[432.6 - 439.6] Speaker 2: this was in the nineteen fifties, and no one had done that purposely. So they actually didn't have any laws against it because no one had had imagined it.
+[440.3 - 443.2] Speaker 1: So did he, like, take the money and go home? Like
+[443.4 - 445.4] Speaker 2: No. They caught him. They caught him almost immediately.
+[445.7 - 446.1] Speaker 1: Oh, okay.
+
+============================================================
+
+CLIP 2 (clip_02) - 21:34 to 22:04 - "Longmont's Unsolved Murder: Son Accused, Never Convicted"
+------------------------------------------------------------
+[1293.8 - 1302.0] Speaker 2: Dickens House, which is also called the Coffman House at Coffman and 3rd. Mhmm. He was murdered there. So at least there's a good reason
+[1302.0 - 1302.3] Speaker 0: for that
+[1302.3 - 1302.5] Speaker 2: to happen.
+[1302.5 - 1303.0] Speaker 0: 303
+[1303.0 - 1306.1] Speaker 1: Coffman, the which is now, like, the passenger?
+[1306.3 - 1308.6] Speaker 2: It's kinda like a boarding house of sorts.
+[1308.6 - 1310.4] Speaker 1: Yeah. Yeah. 303 Coffman. Yeah.
+[1310.4 - 1311.2] Speaker 2: Micro apartments.
+[1311.4 - 1313.1] Speaker 0: Oh, over there. Yeah. Okay. Gotcha.
+[1314.2 - 1315.4] Speaker 1: So he was murdered there?
+[1315.4 - 1316.8] Speaker 2: He was murdered there. Yeah.
+[1316.8 - 1319.6] Speaker 0: Just, like, super grizzly, like a grizzly thing?
+[1320.7 - 1322.8] Speaker 2: Was it dynamite in a Suitcase? It's actually never been solved.
+[1323.1 - 1323.8] Speaker 0: Oh. Such a
+[1323.8 - 1324.2] Speaker 2: very interesting story.
+
+============================================================
+
+CLIP 3 (clip_03) - 27:15 to 28:11 - "Why Did Longmont Brick Over Beautiful Old Windows?"
+------------------------------------------------------------
+[1635.2 - 1640.1] Speaker 2: love this, like, yellowy brick. They bricked over a lot of the windows.
+[1640.1 - 1640.6] Speaker 0: Oof.
+[1641.2 - 1644.9] Speaker 2: And it's just, yeah. It's very questionable.
+[1645.2 - 1651.4] Speaker 0: Has anybody tried to break some of those open? Have they been re added? Or is it just kinda like once that's done, that's a permanent fixture in there?
+[1651.4 - 1658.1] Speaker 2: I think it was pretty permanent. The a good example of a a building that got renovated and renovated again is the arcade building.
+[1659.5 - 1660.2] Speaker 0: Were quarters?
+[1660.2 - 1680.6] Speaker 2: Yeah. Quarters. Yeah. Yeah. So that building got all its kind of it was like sort of this neoclassical looking building. It was where all the telephone operators were located. And so in the sixties, all of the kind of cornices were lopped off, and then all the windows on the side oh, what is that? Fourth right? Is that fourth or fifth?
+[1680.7 - 1681.3] Speaker 0: It's fifth.
+[1681.3 - 1691.4] Speaker 2: Fifth. Fifth. All got blocked in, and then they did this very modern glass front. We only have a couple pictures of that. And then in the nineties, you'll notice the name Hanson is on the building.
+
+============================================================
+
+CLIP 4 (clip_04) - 35:48 to 37:07 - "Longmont Had Colorado's First Library—Before Denver"
+------------------------------------------------------------
+[2147.2 - 2147.7] Speaker 2: Colorado.
+[2148.7 - 2149.2] Speaker 0: Oh, wow.
+[2149.2 - 2170.3] Speaker 2: Yeah. It's it's not just like the first library of Longmont. And it was short lived. So Elizabeth Thompson, who is the same woman who funded the Thompson Park well, the park was named to honor her. She funded what I like to term scholarships to the colony. So there was a membership fee to join the colony. It was a $150, which was quite a lot in that time. It was probably, like, 5 or $6,000 today.
+[2170.3 - 2170.8] Speaker 0: Wow.
+[2171.7 - 2226.6] Speaker 2: So she funded a certain number of those. She also gave the money for this library and a bunch of books and prints. We don't know what happened to those. Mhmm. And it I mean, you have to think I was like, is that really true? Is that the first living in Colorado before Denver? We had to remember a lot of the communities in Denver were mining camps. Like, it was all about extracting as much valuable minerals out of the ground as fast as possible. And it was mostly men. And Longmont was really founded as a a family community. The families would come here and set down roots. The plan was, you know, there was already the the the mines here. So they needed food so you could be a farmer and farm and sell your crops to the to the mining towns. But, yeah, I like to joke, leave it up to a woman from New England to fund the first library in Colorado and be like, you folks in the Wild West, you're you're gonna be learned.
+
+============================================================
+
+CLIP 5 (clip_05) - 41:20 to 41:57 - "When Longmont Was Dry: Bars Six Blocks North"
+------------------------------------------------------------
+[2480.0 - 2482.5] Speaker 2: Oh, yeah. Definitely. The college was was around.
+[2483.1 - 2484.2] Speaker 0: Wild. I
+[2484.2 - 2489.6] Speaker 1: mean, because I I've been to dry towns in The United States, and it's always like, well, there's a liquor store right past city limits. Yeah.
+[2489.7 - 2499.8] Speaker 2: Yeah. And there was. And when when Longmont was dry, the liquor stores were in or the bars at the very least, North Of 9th was North Longmont. It was a different community.
+[2499.8 - 2505.3] Speaker 0: That's crazy. So you'd be on you'd be on 3rd And Main. If it was six blocks to the boozer.
+[2505.5 - 2516.7] Speaker 2: Yeah. But and then, like, say you're walking back say you're walking down Main Street to get back to your home in regular Longmont, if the police picked you up for drunkenness, like, you are now drunk in Longmont. So you had to be careful.
+
+============================================================
