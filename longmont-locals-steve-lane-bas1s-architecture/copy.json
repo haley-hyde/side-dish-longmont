@@ -1,0 +1,70 @@
+{
+  "clips": {
+    "clip_01": {
+      "instagram": {
+        "caption": "That old gas station lot across from the pump house downtown? It's becoming a full community square. On this week's Longmont Locals episode, we got the details on 600 Main: mobile stage, shade structures, shipping container bathrooms, hackberry and maple trees, and a visitor center. Full episode link in bio.",
+        "hashtags": [
+          "#Longmont",
+          "#LongmontColorado",
+          "#600Main",
+          "#DowntownLongmont",
+          "#LDDA",
+          "#LongmontDevelopment"
+        ]
+      },
+      "facebook": {
+        "post": "Remember that gravel lot across from the pump house on Main Street? The one that used to be a gas station? It's about to become something much better. This week on Longmont Locals, we dive into the 600 Main project: a new downtown community square designed around input from Roosevelt Park sessions a couple of years back. We're talking mobile stage for events, shipping container bathrooms and a visitor center, shade structures, and trees (hackberries and maples, specifically, though they'll take a minute to grow). The LDDA bought the site, remediated all the old tanks, and now it's becoming the kind of public gathering space downtown has needed. What events would you want to see hosted there once it's open?"
+      },
+      "bluesky": {
+        "post": "Old gas station lot across from the pump house is becoming a community square: mobile stage, shade structures, shipping container bathrooms, trees. 600 Main is happening."
+      },
+      "discord": {
+        "message": "New clip up from the Longmont Locals episode: that gravel lot at 600 Main (the old gas station across from the pump house) is turning into a legit community square. Mobile stage, visitor center, shade structures, the works. Pretty cool to hear the full breakdown of what's actually going in there. Curious what y'all think about this one."
+      }
+    },
+    "clip_03": {
+      "instagram": {
+        "caption": "Ever wonder why it takes years for a new building to go up? This week on Longmont Locals, we break down the real timeline: land contracts, entitlements, design, city approvals, and only then can you get funding. It's not just red tape—it's the actual process. Full episode link in bio.",
+        "hashtags": [
+          "#Longmont",
+          "#LongmontColorado",
+          "#RealEstateDevelopment",
+          "#CityPlanning",
+          "#Architecture",
+          "#DevelopmentProcess"
+        ]
+      },
+      "facebook": {
+        "post": "Why does every new building project in Longmont seem to take forever? On this week's Longmont Locals episode, we walk through what actually happens between 'let's build something' and breaking ground. Spoiler: you can't get financing until you know what the city will allow, and you can't know that without spending money on architects and engineers first. Then interest rates can shift while you're waiting for approvals. The whole cycle takes a couple of years, minimum, for any decent-sized project. It's a helpful primer if you've ever looked at an empty lot and wondered what's taking so long. What's a project in Longmont you've been watching and waiting on?"
+      },
+      "bluesky": {
+        "post": "Why new buildings take forever: you need city approval before you can get financing, but you need architects and engineers before you can get approval. Then rates change while you wait. Minimum two years for anything real."
+      },
+      "discord": {
+        "message": "New clip from the Longmont Locals episode with Steve Lane and Bas1S Architecture: a really clear breakdown of why development projects take years, from land acquisition through entitlements, design, city approvals, and financing. Useful context next time you're staring at an empty lot wondering what's taking so long. Link in the channel."
+      }
+    },
+    "clip_05": {
+      "instagram": {
+        "caption": "An architect breaks down the building codes that sound smart on paper but backfire in real life. Motion sensors that shut off your phone charger, daylight systems people immediately override... what's the point if everyone just works around them? Full episode link in bio.",
+        "hashtags": [
+          "#Longmont",
+          "#LongmontColorado",
+          "#SideDishLongmont",
+          "#BuildingCodes",
+          "#Architecture",
+          "#ColoradoConstruction"
+        ]
+      },
+      "facebook": {
+        "post": "This week on SideDish Longmont, we're talking to a local architect about the building codes that drive him up the wall. Take the energy code requirement for motion-sensor outlets: sounds efficient, until you realize your phone won't charge because you've been sitting still too long. Or the automatic daylight dimming systems that people walk over and manually override the second they kick in. The kicker? These systems cost real money to install, save almost nothing in actual energy, and most people figure out a workaround within a week. What's a building regulation you've encountered that seemed to miss the point entirely?"
+      },
+      "bluesky": {
+        "post": "Architect: building codes now require motion-sensor outlets so your phone charger turns off if you sit too still. Everyone just plugs a power strip into the one normal outlet instead."
+      },
+      "discord": {
+        "message": "New clip up from the Longmont Locals episode with Bas1S Architecture. An architect walks through the building codes that cost a ton of money, are supposed to save energy, but everyone just overrides them immediately. Motion-sensor outlets that kill your phone charger, daylight systems people turn right back on... curious what y'all think about this one. Link in #clips"
+      }
+    }
+  }
+}

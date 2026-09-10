@@ -1,0 +1,46 @@
+{
+  "clips": [
+    {
+      "start_time": 636.5,
+      "end_time": 700.3,
+      "speakers": [
+        "Speaker 2",
+        "Speaker 1"
+      ],
+      "transcript_excerpt": "Speaker 2: The biggest Longmont project we have is, 600 Main. So the local square, right across from the pump house. It's, amazing. The LDDA purchased a the piece of ground, couple years ago. What was on this, lot? Gas station. Yeah. Right? So former gas station Whatever. Gas mat. Right? Yeah. And all the tanks have been removed and remediated and all that other fun, boring stuff. And so they've been we've been working on some concepts. They had had a whole bunch of, sessions out at Roosevelt Park a couple years ago asking people what they wanted to see, you know, what kind of fun things they wanted to have incorporated, and then we get working on a design for a community square. So it's gonna be very, very cool. Gonna turn that gravel space into essentially a public park with, a mobile stage for events. There'll be a shipping container bathroom. There'll be a shipping container, couple buildings for, like, a visitor center, that kind of thing. Shade structures because it will be sort of hot. It does remain on the shade. Yeah. There's no shade. We will have trees, but trees take a while to grow as we know. Do you know what trees will be planted yet? Yeah. What what trees? What yeah. Yeah. The I'm not even a landscape architect, but I've been through this enough. There are some hackberries. Uh-huh. There are, some maples.",
+      "hook": "Old Gas Station Becomes New Downtown Community Square",
+      "selection_reason": "This is a major Longmont development project with concrete details about location, timeline, and features. It's a complete story with setup and payoff, and gives listeners actionable information about what's coming to downtown.",
+      "social_angle": "local_story",
+      "clip_id": "clip_01",
+      "duration": 63.8
+    },
+    {
+      "start_time": 1613.3,
+      "end_time": 1692.3,
+      "speakers": [
+        "Speaker 1",
+        "Speaker 2"
+      ],
+      "transcript_excerpt": "Speaker 1: you acquire or at least get under contract on on some parcel. You come up with a project. Right? You propose it, then you put your team together. You bring in the Steves, and you bring in your structural people, and you start working with the city, and you go through the development process, and you get this land ready to where you can actually build what you wanna build and you're allowed to do it. We call it the this is called entitlements. Right? And so you get through that period and you have to spend money on the Steves of the world to put together what you need in order to say, this is my project. Can I do it? City of Longmont, can I do it? And they take a really long time to say yes or no. But when they finally do say yes or no, it's like, awesome. We can do it. And now that you have a product or, like, a project, you go get money. Yeah. And it seems like it would be the other way around, but you can't get an investor to invest in something that you don't know what it is, and you can't figure out what it is until you figure out what the city allows you to do. Right. And you don't know when you you you have to know when you're ready because the bank doesn't wanna just give you money Forever. They want they have rules about this stuff. Right? And so when you're ready, then you go talk to them, and then they say, okay. Based on now that you're ready, these are the rates. Right. Right? So rates change, and and these projects take, you know, any kind of decent sized project, will take a couple of years at least to get through this entire process. And so rates change over that period of time.",
+      "hook": "Why New Buildings Take Forever: The Real Story",
+      "selection_reason": "This is genuinely useful information that demystifies a common frustration. Annie breaks down the development process in plain language, helping listeners understand why projects take so long and why 'just build it' isn't simple.",
+      "social_angle": "useful_info",
+      "clip_id": "clip_03",
+      "duration": 79
+    },
+    {
+      "start_time": 2408.4,
+      "end_time": 2491.1,
+      "speakers": [
+        "Speaker 1",
+        "Speaker 2"
+      ],
+      "transcript_excerpt": "Speaker 1: Okay. So give us a example even though you're resistant to complaining, fair, about a building code that you think doesn't make sense or that you deal with all the time. Alright. That I can say that a lot of the, components in the energy code that relate to electrical systems are really annoying. For example, there's there's a lot of daylight harvesting systems that automatically turn lights off Mhmm. If if the space gets too bright Mhmm. Except that that's a broad brush thing. So then what do people do? They walk over and they turn the lights back on because it annoys them, and then they figure out how to get rid of that. And so they they override the system, but you have to spend a bunch of money putting that system in. Another one is plug loads. Right? Now in the energy code, you have to have certain plugs that are tied to a occupancy sensor. So they only work if somebody's in the room. But can you imagine having some piece of electronic device on a plug that would go that would turn everything off if you weren't moving enough? Right. Everybody sat in a room where you got Why isn't my phone charged? Yeah. Yeah. Well and no one and the idea is that it's gonna save electricity over the course of the night when the things are plugged in, but these loads are just minuscule. They're gonna be nothing. Right. Right. Right. Right? And it costs a boat ton of money to wire all these circuits separately, and then people just override them. They they don't use that plug. They plug what they're gonna do is they're gonna plug into the one outlet that actually works. They're gonna plug a a, you know, power strip into that and plug everything else into it.",
+      "hook": "Architect: These Building Codes Make No Sense",
+      "selection_reason": "A strong, specific opinion from an expert about building codes that waste money and don't work. It's relatable (everyone has experienced motion sensors failing) and shows insider knowledge that challenges conventional wisdom.",
+      "social_angle": "strong_opinion",
+      "clip_id": "clip_05",
+      "duration": 82.7
+    }
+  ]
+}
