@@ -1,0 +1,33 @@
+{
+  "clips": [
+    {
+      "start_time": 746.1,
+      "end_time": 830.6,
+      "speakers": [
+        "Speaker 1",
+        "Speaker 0",
+        "Speaker 2"
+      ],
+      "transcript_excerpt": "The TC line is ending... Okay. So for context, I'm sure you all know, but this is the TC. This is the time's call, what they call the TC line. It was established... Twenty five years ago. I mean, it's still long ago. And it was this opportunity they left this open phone line where people could come in and leave anonymous messages. They were generally about Longmont, although they often went off the rails and were about all kinds of things. And then they would take these comments and type them up and print them in the newspaper. And this is just so archaic. Even as I say it out loud, it's hilarious... It it was kinda like, yes. And every single time you had a thing, I'm like, no. You're hitting all the points. It turned into a dumpster fire. And it was, very often not so subtly racist. Like, the the place was just a trash heap that had somehow smoldered into... But the TC line is officially in.",
+      "hook": "Times Call's Infamous TC Line Ends After 25 Years",
+      "selection_reason": "This is a locally significant story about the end of a bizarre, beloved/hated Longmont institution. The hosts' description of it as a 'dumpster fire' is both funny and accurate cultural commentary.",
+      "social_angle": "local_story",
+      "clip_id": "clip_04",
+      "duration": 84.5
+    },
+    {
+      "start_time": 946.4,
+      "end_time": 1005.9,
+      "speakers": [
+        "Speaker 2",
+        "Speaker 1"
+      ],
+      "transcript_excerpt": "If you lived in an apartment long in Longmont, or I guess, actually, honestly, anywhere in the country, where they do the thing where they won't tell you what rent is. They'll say it starts at some number, and then you have to put in an application before they tell you what the final rent is. And then they give you the option to say, like, do I wanna rent this for eight months or nine months or ten months or twelve months or thirteen months or sixteen months? And it's a different price for every single one of those options. That apartment complex was using a piece of software called RealPage... RealPage recently settled a lawsuit with the Federal Trade Commission for price fixing and for engaging in a nationwide price fixing scheme to raise rents across the country.",
+      "hook": "Longmont Apartment Complexes Caught in Price Fixing Scandal",
+      "selection_reason": "This is surprising, important news about multiple Longmont apartment complexes involved in a nationwide scandal. It directly affects many local renters.",
+      "social_angle": "surprising",
+      "clip_id": "clip_05",
+      "duration": 59.5
+    }
+  ]
+}

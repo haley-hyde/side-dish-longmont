@@ -1,0 +1,37 @@
+SIDEDISH LONGMONT - TRANSCRIPT FOR EACH SELECTED CLIP ONLY
+============================================================
+
+This shows the exact transcript for just the stretches of audio used
+in each clip below - not the whole episode. Check these for a
+misheard word or name; you can ignore everything else in the episode
+for caption-accuracy purposes.
+
+To fix something: edit transcript_words.json in this same folder -
+find the word in question and correct its "punctuated_word" value.
+(See highlights_review.txt if you also want to change a clip's
+timing or on-screen headline.)
+
+============================================================
+
+CLIP 1 (clip_04) - 12:26 to 13:51 - "Times Call's Infamous TC Line Ends After 25 Years"
+------------------------------------------------------------
+[746.1 - 746.6] Speaker 0: Okay.
+[746.7 - 748.3] Speaker 1: The TC line is ending.
+[748.5 - 750.4] Speaker 2: Oh, good. riddance.
+[750.4 - 751.1] Speaker 0: Yeah. Yeah.
+[751.6 - 809.1] Speaker 1: Okay. So for context, I'm sure you all know, but this is the TC. This is the time's call, what they call the TC line. It was established Mhmm. Twenty five years ago. I mean, it's still long ago. And it was this opportunity they left this open phone line where people could come in and leave anonymous messages. They were generally about Longmont, although they often went off the rails and were about all kinds of things. And then they would take these comments and type them up and print them in the newspaper. And this is just so archaic. Even as I say it out loud, it's hilarious. And it's just been this bizarre, weird, beloved, hated Yeah. Thing, feature of the Times Call forever. And it's really turned into a dumpster fire in this, like, divisive age, like, even worse than it always was. Even though it was so like, I remember reading this Sunday morning. Like, we would go through TC line in the paper all the time. It was just fascinating to see what they and then they would publish, like, the good ones. You know? Like, it was still garbage. And, like, he imagined the bad ones that those people will listen to. It's so funny. So I mean it is sunsetting.
+[809.2 - 825.9] Speaker 0: It it was kinda like, yes. And every single time you had a thing, I'm like, no. You're hitting all the points. It turned into a dumpster fire. And it was, very often not so subtly racist. Like, the the place was just a trash heap that had somehow smoldered into
+[825.9 - 829.3] Speaker 1: a different places. It was, But the TC line is officially in.
+[829.3 - 830.7] Speaker 0: Yep. So that one's well, what
+
+============================================================
+
+CLIP 2 (clip_05) - 15:46 to 16:46 - "Longmont Apartment Complexes Caught in Price Fixing Scandal"
+------------------------------------------------------------
+[945.9 - 946.4] Speaker 2: RealPage.
+[946.6 - 947.1] Speaker 1: Mhmm.
+[947.3 - 997.5] Speaker 2: RealPage recently settled a lawsuit with the Federal Trade Commission for price fixing and for engaging in a nationwide price fixing scheme to raise rents across the country. And the way that the software fundamentally worked is they took in the rents from every single one of their clients, compared them all, and then sent a message back to every single one of those companies and said, hey. You should raise your rents by this amount. Because they know that everyone else in the same geography who happens to be using their same software is also going to raise their rents by that amount. This is price fixing. It is classically illegal. Mhmm. Some example apartment complexes that I know of off the top of my head that use RealPage in Longmont, and it's a lot of them, is Alpine Prairie Village, Roosevelt Park, the 1st And Main, South Main Station. Those that those are all part of this settlement. Tracks.
+[997.5 - 997.8] Speaker 0: Yeah.
+[997.8 - 1005.9] Speaker 2: So if you have lived in a big apartment complex in the past ten years, go to realpagerentalsettlement.com
+
+============================================================
