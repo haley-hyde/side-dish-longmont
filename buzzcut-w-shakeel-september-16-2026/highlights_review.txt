@@ -1,0 +1,288 @@
+SIDEDISH LONGMONT - CLIP SHORTLIST (before rendering)
+============================================================
+
+Episode: Buzzcut w/Shakeel: September 16, 2026
+Claude proposed 9 clip(s), strongest first, from the topics you picked:
+T2 [Must clip] Westbound and Down brewery replacing Bootstrap (3:27 to 6:13)
+T5 [Must clip] Trend Homes history: sixties housing boom (10:28 to 17:02)
+T7 [Maybe] City advisory boards overview and recruitment (18:22 to 27:10)
+T8 [Maybe] Technology Policy Advisory Board details (27:10 to 29:50)
+T11 [Maybe] Historic Preservation and Callahan House boards (37:56 to 43:39)
+T12 [Maybe] Airport ethics complaint: Sean McCoy controversy (43:39 to 54:44)
+
+Before rendering, open highlights.json and delete any clips you don't want.
+You can also change a clip's start_time/end_time (seconds) or its hook
+(the on-screen headline). Proposed internal cuts are listed below but are
+NOT applied by the render script yet.
+
+To fix a misheard word or name in captions: check clips_transcript.txt,
+then correct that word's "punctuated_word" in transcript_words.json.
+
+Save both JSON files into output/buzzcut-w-shakeel-september-16-2026/ and run your normal
+pipeline command WITHOUT --review.
+
+============================================================
+
+#1 (clip_01) Westbound and Down replacing Bootstrap taproom
+Status: Ready to use
+Time: 3:39 to 4:20 (41.8s)
+Topic: T2. Westbound and Down brewery replacing Bootstrap
+Hook / headline: Idaho Springs brewery takes over Bootstrap taproom
+Opening line: "Bootstrap is going to be westbound and down."
+Speakers: Annie Larner, Brady Stifle, Shakeel Dalal
+Why it works: Timely news about a new business in downtown Longmont. Annie's enthusiasm and the backstory about Westbound and Down being a sought-after Colorado brewery creates interest. The conversation is energetic and accessible to Longmont residents who care about the local brewery scene.
+Editing notes: Clean cut capturing Annie's excitement about the news and the brewery's background. 42 seconds, well under the limit.
+Transcript excerpt:
+  "Bootstrap is going to be westbound and down.
+
+Westbound and down. Load up and trucking.
+
+If you know, you know, baby.
+
+Yeah.
+
+It's like an amazing brewery.
+
+I don't know that brewery for obvious reasons. I know Westbound and Down.
+
+They're very good.
+
+Eastbound and Down?
+
+Do you... Anyone? Anyone? This is all crickets in here. Nobody knows Westbound and Down?
+
+I... I've literally never heard of this brewery. No.
+
+Okay. Well, they are awesome, and their brewery... Their beers are really good. And there was a period of time there, especially when the boom was happening with all craft beer in Colorado. They started in, I think, Colorado, Idaho Springs, where you could not get into westbound and down. Like, it was impossible."
+------------------------------------------------------------
+
+#2 (clip_02) Ukulele, Euchre, and Eucharist nights
+Status: Ready to use
+Time: 5:23 to 6:13 (50.5s)
+Topic: T2. Westbound and Down brewery replacing Bootstrap
+Hook / headline: What will replace Bootstrap's ukulele night?
+Opening line: "And so they're gonna take over that physical space for taproom and try to do more food and whatnot."
+Speakers: Annie Larner, Shakeel Dalal, Brady Stifle
+Why it works: Funny wordplay moment where Brady riffs on 'uke' words, landing on Eucharist as a brewery night theme. The absurdity of the suggestion and the hosts' reactions create a memorable, quotable exchange. Shows the podcast's humor and local personality.
+Editing notes: 50 seconds. The wordplay payoff with 'Eucharist' and the sacrilege joke is the hook. Could potentially trim earlier setup but the concern about ukulele night provides necessary context.
+Transcript excerpt:
+  "And so they're gonna take over that physical space for taproom and try to do more food and whatnot. Now the only... I mean, I'm I'm I'm net excited for this, but I am, like, concerned about the loss of the ukulele night, and I really hope they continue that tradition.
+
+I I have heard that the ukulele night was very popular. I feel like it was that and Euchre night where I feel like defining aspects of Bootstrap Taproom.
+
+Totally. Both really important.
+
+Do we just need to get them other uke words that they can then theme around? What other uke words are you aware of? I don't know.
+
+Those are the only two.
+
+Cucumber? Ki uke? Eucharist.
+
+Eucharist. Yeah.
+
+Yeah. Nice. That was a lot of
+
+Yeah. Do some communion down there at the Tabernacle.
+
+I don't know how people feel about sacrilege. I feel like I feel like that might make some enemies. Whatever.
+
+Well, anyway, I'm excited about West Vernon. That's one piece of buzz."
+------------------------------------------------------------
+
+#3 (clip_03) Cheap Trend homes now expensive
+Status: Ready to use
+Time: 11:41 to 12:41 (59.4s)
+Topic: T5. Trend Homes history: sixties housing boom
+Hook / headline: Longmont's cheap prefab homes are now pricey
+Opening line: "And now they're very highly desirable homes because single family homes in Longmont are hard to come by."
+Speakers: Shakeel Dalal, Brady Stifle, Annie Larner
+Why it works: Insightful discussion about housing affordability and how 'starter homes' evolve over time. The circular economics of cheap homes becoming expensive is relevant to current housing debates in Longmont. Shakeel's explanation is clear and Brady's personal example grounds it.
+Editing notes: 59 seconds. Captures the key insight about housing evolution. Could work as a standalone on housing policy or affordability.
+Transcript excerpt:
+  "And now they're very highly desirable homes because single family homes in Longmont are hard to come by. Right? I mean, this is this is the story of, like, how things that start as starter homes, which is what these were Mhmm. Become, like, the expensive single family homes that people are like, oh, why can't we build things like that anymore? And very often, it is because, actually, we never built that way. You build a thing and then you're like... Your family gets wealthier and you, like, add a room, you add a kitchen, you decide to make a second floor. Right?
+
+Yeah.
+
+Things incrementally evolve into nicer, fancier things.
+
+Right? This is very much the case for my neighborhood in in Old Town because a lot of that... Houses that were built for me... Like, my house is built without footers. So it just was like... But we've we've been fixing it because we can afford to do that. And, like, we've done stuff, and there's an addition on our house that our neighbors don't have. And then there's this thing, and then there's these all these different things. And they evolved into their own things over eighty, eighty five, ninety years. People keep adding it, and people go, oh, it's so eclectic. It's like, yeah. One guy probably came in and built half these houses.
+
+But it doesn't The Strauss Brothers.
+
+Well, not those, but the Trent Homes. Yeah."
+------------------------------------------------------------
+
+#4 (clip_04) All-electric Trend homes were ahead of their time
+Status: Needs Haley's review
+Time: 12:55 to 14:16 (61.4s)
+Topic: T5. Trend Homes history: sixties housing boom
+Hook / headline: Longmont built all-electric homes in the sixties
+Opening line: "One other interesting tidbit about those Trent homes is that most of them were all electric."
+Speakers: Annie Larner, Brady Stifle, Shakeel Dalal
+Why it works: Fascinating local history detail that connects to current electrification debates. Annie's personal story about the lamppost sensors and the full-circle journey from electric to gas back to electric is engaging and relevant to housing/energy policy discussions.
+Editing notes: 81 seconds, over the limit. Needs trimming. Could cut the lamppost detail (808.2-828.2) to get under 60 seconds, but that's a charming detail. Alternatively, start later at 828.4 'they were all electric' but loses setup.
+Proposed cut: remove 13:28 to 13:48 (Remove lamppost anecdote to get under 60 seconds while preserving the main electrification story)
+Transcript excerpt:
+  "One other interesting tidbit about those Trent homes is that most of them were all electric.
+
+Oh.
+
+I know. And I find that interesting. So, like, the house I grew up in was one of these homes up in... There were... The two neighborhoods and those of you who know about more about this, correct us if I'm wrong, but I think Southmore, down there. And the homes that I grew up in were up, like, kind of first and, like, twenty first to twenty second and, like, Grant, Lincoln, Bowen, all those up there. And you you can always identify these homes. They were made by the same manufacturer because they have these funny lampposts in front of every house.
+
+Oh, yeah. With the cute. Yeah. Is that with the meters on?
+
+With the meters. Yeah. Yep. Exactly. And so we would... As kids, we would put our thumb over the, sensor and try to turn the light on in the middle of the day because that was a funny trick. But all of those homes were built about the same time, like late sixties, early seventies, a lot of tri levels and bi levels, and they were all electric. And this was like a thing or whatever. They had no gas in the homes, but they also had baseboard heating.
+
+Yeah.
+
+And so what happened is over time... I mean, they're highly inefficient and they were really expensive to heat your homes over the winter with just baseboard. But it was cool. I feel like it was a little bit ahead of its time because we, like, went full circle. Everybody started introducing gas. Like, my dad installed gas so we could have a gas stove, and then we put in a pellet stove because the whole house was easier to heat with that and less expensive than...
+
+Yeah. I mean,
+
+this is like all pre oil crisis. Right? Before energy prices skyrocketed.
+
+Exactly. And then now we're going back to the electrification. It's just kind of funny."
+------------------------------------------------------------
+
+#5 (clip_05) Apply for city boards even if you don't know enough
+Status: Ready to use
+Time: 19:45 to 20:33 (47.8s)
+Topic: T7. City advisory boards overview and recruitment
+Hook / headline: You don't need expertise to join city boards
+Opening line: "The other thing I'll say is that, I think a lot of people are very worried about, like, well, but I don't know enough to serve on one of these boards."
+Speakers: Shakeel Dalal, Brady Stifle, Annie Larner
+Why it works: Directly addresses the barrier people feel about civic engagement. Shakeel's encouragement that boards are undersubscribed and designed for learning is actionable and empowering. Timely with October 16 application deadline.
+Editing notes: 47 seconds. Clean, actionable clip encouraging civic participation. Could pair with info about how to apply.
+Transcript excerpt:
+  "The other thing I'll say is that, I think a lot of people are very worried about, like, well, but I don't know enough to serve on one of these boards. Like, literally, these opportunities are in part designed as a way to learn about the city and how it operates. You do not need to be an expert going into
+
+And there's gonna be people that think that they know more than you and probably don't will apply for these things and then be guiding. And if you have that appetite to learn, you're... I think you're good to go.
+
+That is absolutely correct. And one of the sad things in my opinion is that very often these boards are undersubscribed. So if this is a thing that you wanna do and you're thinking about putting in an application and you put in an application, you will probably get to serve on the board that you're interested in.
+
+What is the commitment?
+
+The commitment is two to five years depending on which board you serve on.
+
+Wow. That's a long time."
+------------------------------------------------------------
+
+#6 (clip_06) Tech board could have prevented AI scam purchase
+Status: Ready to use
+Time: 28:00 to 29:00 (59.6s)
+Topic: T8. Technology Policy Advisory Board details
+Hook / headline: New board aims to stop city from buying scam tech
+Opening line: "Providing feedback on request for information that the city is putting out."
+Speakers: Shakeel Dalal, Annie Larner
+Why it works: Concrete example of why the new Technology Policy Advisory Board matters. The AI crime scene reconstruction scam is a memorable, relatable cautionary tale that shows the board's practical value. Makes tech governance accessible.
+Editing notes: 59 seconds. Annie's question at the end provides a good button. The scam example is the key hook that makes this work.
+Transcript excerpt:
+  "Providing feedback on request for information that the city is putting out. So, like, when the city wants to go buy a technology, part of that process is, like, they issued this document called a request for information or request for proposals about, like RFP. Yeah. Like, what what technologies are out there? This is the problem we're trying to solve. What what solutions do different companies have? And, like, academics can respond to these too with information about research. So this board will have the ability to provide feedback on requests for information and requests for proposals. And so it's a way for this board to be directly involved in the procurement process and ensure that we don't make mistakes like, oh, yeah. This, so, like, there there was a podcast. It was actually a Canadian podcast where they talked about this company that was marketing AI's ability to reconstruct crime scenes based on, like, grainy cameras and stuff. And this was, like, a 100% a scam. Longmont was one of the early adopters of this, though, because the city staff that were reviewing it were like, well, you know, this company says it works. It could be great for crime, you know, solving crimes, but it was all garbage. And so, like, the experts who sit on this board would have the opportunity to say, don't don't don't give these people your money. Right? This is, like, technologically impossible what they're proposing. Mhmm.
+
+I thought you said you don't have to be an expert to be on a board.
+
+You don't have to be an expert to be you don't have to be an expert about city government to be on a board."
+------------------------------------------------------------
+
+#7 (clip_07) Does Callahan House need its own board?
+Status: Needs a better cut
+Time: 40:02 to 41:45 (67s)
+Topic: T11. Historic Preservation and Callahan House boards
+Hook / headline: City spends resources on Callahan House advisory board
+Opening line: "The last board, and I... If you care about the Callahan House, send us an email at sidedishlongmont@gmail.com."
+Speakers: Shakeel Dalal, Brady Stifle, Annie Larner
+Why it works: Annie's surprised reaction when she realizes a city event venue has its own advisory board with full resources is genuinely funny. Her shift from reverence to skepticism captures a moment of civic awakening. The comparison to major boards like technology policy makes the point land.
+Editing notes: 103 seconds, way over limit. Needs significant trimming. The payoff is Annie's monologue starting at 2465.5. Could start there but loses Shakeel's setup about Parks and Rec managing other venues. Runs 67s, over the 60s max.
+Proposed cut: remove 40:26 to 41:02 (Cut back-and-forth about Historical Society and Parks and Rec to focus on Annie's reaction)
+Transcript excerpt:
+  "The last board, and I... If you care about the Callahan House, send us an email at sidedishlongmont@gmail.com. And tell me more about the Callahan House advisory board and why I should care more about it. But I think this is possibly an opportunity for a board that maybe doesn't need that. This is why we need video in the studio. Because Annie, I swear to god, like, her sides are gonna fly off. She's just splitting.
+
+Okay. Continue, and then I'll weigh in.
+
+Yeah. Yeah. This board advises the city on what to do with the Callahan House, which is basically an event venue that's owned by the city that was donated to the city by the Callahan family. And I'm pretty sure that the only reason it has a board is because we're obligated to.
+
+It's a nice space, I guess. I don't know. It is
+
+a nice space. Some very good friends of mine got married at the Callahan House. It's beautiful.
+
+You did a photo shoot over there. It's...
+
+My dog loves the garden. She loves to sniff around. I love the gardens. It's beautiful. Yeah.
+
+What do you think is a better entity or body for holding the Callaghan... Callaghan House if you even think there's... It's worth preserving?
+
+Parks and Rec. Parks and Rec already manages venues for the city that you can rent out.
+
+I see. Interesting.
+
+Send your angry email to steal the wall. Historical Society will be... Well, the Historical Society isn't a part of the city. No. No. They're they're not public. Yeah. Right. So the land is owned by the city, and so it's gotta be a city thing.
+
+I see. Gotcha.
+
+That's hilarious. I've just, okay. Fair. Yep.
+
+Tell tell me about your feelings at the Callahan House, Sandy.
+
+Well... Because your your size...
+
+I'm just cracking up because I feel like the Callahan House is just part of the the vernacular of of Longmont life. Like, you just it's just there. It always has been and it always will be, and it's the place where you go get pictures or your friend has a small wedding or, like, whatever. It's just it's there, and it... It's just unquestionable. I've never taken a moment in my whole life to pause and wonder what value does the Callahan House. It just does and it is and it was and it always will be. It's like a deity and I'm just... And I've... And I thank you for this moment, but it's also tickling me to be like, what is the point of the Callahan? Is this that important? I mean, it's... Yes. It is important, but is it that important? And to your point, it's like I has this on board? Like, what? Yeah."
+------------------------------------------------------------
+
+#8 (clip_08) Airport ethics complaint: sidewalk shoveling threat
+Status: Needs Haley's review
+Time: 46:00 to 47:07 (35.5s)
+Topic: T12. Airport ethics complaint: Sean McCoy controversy
+Hook / headline: Ethics complaint includes sidewalk shoveling threat
+Opening line: "Dan, in this process, also made this weirdly personal by reaching out to Sean and saying that he was so upset by this that he was going to stop shoveling Sean's sister's sidewalk in the winter because they are neighbors."
+Speakers: Shakeel Dalal, Annie Larner, Brady Stifle
+Why it works: The sidewalk shoveling threat is an absurd, memorable detail that makes the airport dispute relatable and entertaining. Brady and Annie's reactions ('it's amazing', 'Judge Judy') capture the small-town drama quality. Good audio clickbait.
+Editing notes: 67 seconds, slightly over but close. Could trim the explanation of ethics process to tighten. The sidewalk detail is the hook that makes this shareable.
+Proposed cut: remove 46:22 to 46:54 (Trim detailed explanation of ethics complaint process to focus on the absurd sidewalk threat and reactions)
+Transcript excerpt:
+  "Dan, in this process, also made this weirdly personal by reaching out to Sean and saying that he was so upset by this that he was going to stop shoveling Sean's sister's sidewalk in the winter because they are neighbors.
+
+Yeah. It's amazing.
+
+I love... Yeah. I love the I love the detail. That's a good one.
+
+So when someone files an ethics complaint like this, the city, again, has to spend resources hiring an independent investigator who researches the conduct as it was and determines whether or not there is a problem or a violation of the city's ethics code and then, makes recommendation to city council. And then they do a hearing at Longmont City Council of the ethics complaint where, like, Dan, the complainant, gets to spend ten minutes talking and then Sean gets ten minutes to respond to the thing and they get to go back and forth.
+
+Back to Judge Judy.
+
+Oh my god. Please listen to the Longmont City Council recap episode. Like..."
+------------------------------------------------------------
+
+#9 (clip_09) Council member trying to figure out how to apologize
+Status: Ready to use
+Time: 50:25 to 51:24 (58.9s)
+Topic: T12. Airport ethics complaint: Sean McCoy controversy
+Hook / headline: I'm trying to figure out how to truly apologize
+Opening line: "Yeah. And so what the city council members decided to institute as the punishment is Sean must issue a written apology to Sean or Sean must issue a written apology to Levi Brown apologizing for his conduct."
+Speakers: Shakeel Dalal, Annie Larner, Brady Stifle
+Why it works: The quote 'I'm trying to figure out how to truly apologize' is perfectly awkward and reveals the insincerity. The hosts' reactions and predictions about a non-apology apology are relatable. Shows small-town politics drama in an accessible way.
+Editing notes: 59 seconds. Clean cut with good setup and payoff. The quote is the hook and the hosts' commentary drives it home.
+Transcript excerpt:
+  "Yeah. And so what the city council members decided to institute as the punishment is Sean must issue a written apology to Sean or Sean must issue a written apology to Levi Brown apologizing for his conduct. And I'm just gonna quote London Lyle's article here where she quotes Sean saying, quote, I'm trying to figure out how to truly apologize to Levi.
+
+And so I'm sure this will be an extremely sincere apology.
+
+I'm...
+
+Yeah.
+
+What's the word? I forgot. It's
+
+real, man. You don't need to look the guy in the eye. You just, like, write it out. I don't know.
+
+Yeah. I mean, a a lot of Sean's statements basically say, it it makes me suspect that the form of the apology will be, I'm sorry that I said the thing that I did.
+
+Yeah. Right. Exactly.
+
+Not actually sorry for it, but Yeah. It's too bad I got caught or whatever.
+
+Oh, I mean...
+
+It's just such a goofy, like, small town politics kind of...
+
+It's definitely some schoolyard stuff."
+------------------------------------------------------------

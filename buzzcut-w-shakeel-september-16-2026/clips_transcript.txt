@@ -1,0 +1,150 @@
+SIDEDISH LONGMONT - TRANSCRIPT FOR EACH PROPOSED CLIP ONLY
+============================================================
+
+This is exactly what a listener hears in each clip. Check it for a
+misheard word or name, and to confirm the clip makes sense on its own.
+To fix a word: edit transcript_words.json and correct its
+"punctuated_word" value.
+
+============================================================
+
+#1 (clip_01) 3:39 to 4:20 - "Idaho Springs brewery takes over Bootstrap taproom"
+------------------------------------------------------------
+[218.5 - 220.7] Annie Larner: Bootstrap is going to be Westbound and Down.
+[221.6 - 224.4] Brady Stifle: Westbound and Down. Load up and trucking.
+[224.7 - 225.9] Annie Larner: If you know, you know, baby.
+[225.9 - 226.2] Brady Stifle: Yeah.
+[226.2 - 227.8] Annie Larner: It's like an amazing brewery.
+[228.5 - 233.9] Brady Stifle: I don't know that brewery for obvious reasons. I know Westbound and Down.
+[233.9 - 234.4] Annie Larner: They're very good.
+[234.4 - 235.1] Brady Stifle: Eastbound and Down?
+[235.1 - 238.4] Annie Larner: Do you... Anyone? Anyone? This is all crickets in here. Nobody knows Westbound and Down?
+[238.4 - 240.3] Shakeel Dalal: I... I've literally never heard of this brewery. No.
+[240.3 - 260.5] Annie Larner: Okay. Well, they are awesome, and their brewery... Their beers are really good. And there was a period of time there, especially when the boom was happening with all craft beer in Colorado. They started in, I think, Colorado, Idaho Springs, where you could not get into Westbound and Down. Like, it was impossible. And if you're out there, Tory, I know you're a listener, he can give us
+
+============================================================
+
+#2 (clip_02) 5:23 to 6:13 - "What will replace Bootstrap's ukulele night?"
+------------------------------------------------------------
+[322.7 - 337.0] Annie Larner: And so they're gonna take over that physical space for taproom and try to do more food and whatnot. Now the only... I mean, I'm I'm I'm net excited for this, but I am, like, concerned about the loss of the ukulele night, and I really hope they continue that tradition.
+[337.4 - 344.2] Shakeel Dalal: I I have heard that the ukulele night was very popular. I feel like it was that and Euchre night where I feel like defining aspects of Bootstrap Taproom.
+[344.3 - 345.6] Annie Larner: Totally. Both really important.
+[345.6 - 352.5] Brady Stifle: Do we just need to get them other uke words that they can then theme around? What other uke words are you aware of? I don't know.
+[352.5 - 353.1] Annie Larner: Those are the only
+[353.1 - 356.1] Brady Stifle: two. Cucumber? Ki uke? Eucharist.
+[357.6 - 358.4] Brady Stifle: Eucharist. Yeah.
+[358.4 - 360.2] Annie Larner: Yeah. Nice. That was a lot
+[360.2 - 362.5] Brady Stifle: of Yeah. Do some communion down there at the Tabernacle.
+[362.8 - 369.2] Shakeel Dalal: I don't know how people feel about sacrilege. I feel like I feel like that might make some enemies. Whatever.
+[369.2 - 373.2] Annie Larner: Well, anyway, I'm excited about Westbown. That's one piece of buzz. Go. You got anything else?
+
+============================================================
+
+#3 (clip_03) 11:41 to 12:41 - "Longmont's cheap prefab homes are now pricey"
+------------------------------------------------------------
+[701.2 - 726.2] Shakeel Dalal: And now they're very highly desirable homes because single family homes in Longmont are hard to come by. Right? I mean, this is this is the story of, like, how things that start as starter homes, which is what these were Mhmm. Become, like, the expensive single family homes that people are like, oh, why can't we build things like that anymore? And very often, it is because, actually, we never built that way. You build a thing and then you're like... Your family gets wealthier and you, like, add a room, you add a kitchen, you decide to make a second floor. Right?
+[726.2 - 726.4] Brady Stifle: Yeah.
+[726.4 - 729.9] Shakeel Dalal: Things incrementally evolve into nicer, fancier things.
+[729.9 - 756.7] Brady Stifle: Right? This is very much the case for my neighborhood in in Old Town because a lot of that... Houses that were built for me... Like, my house is built without footers. So it just was like... But we've we've been fixing it because we can afford to do that. And, like, we've done stuff, and there's an addition on our house that our neighbors don't have. And then there's this thing, and then there's these all these different things. And they evolved into their own things over eighty, eighty five, ninety years. People keep adding it, and people go, oh, it's so eclectic. It's like, yeah. One guy probably came in and built half these houses.
+[757.0 - 758.8] Shakeel Dalal: But it doesn't The Strauss Brothers.
+[758.8 - 760.6] Annie Larner: Well, not those, but the Trend Homes. Yeah.
+[760.6 - 760.8] Brady Stifle: But
+
+============================================================
+
+#4 (clip_04) 12:55 to 14:16 - "Longmont built all-electric homes in the sixties"
+------------------------------------------------------------
+[774.4 - 774.9] Annie Larner: electric.
+[775.6 - 776.1] Brady Stifle: Oh.
+[776.2 - 805.5] Annie Larner: I know. And I find that interesting. So, like, the house I grew up in was one of these homes up in... There were... The two neighborhoods and those of you who know about more about this, correct us if I'm wrong, but I think Southmore, down there. And the homes that I grew up in were up, like, kind of first and, like, twenty first to twenty second and, like, Grant, Lincoln, Bowen, all those up there. And you you can always identify these homes. They were made by the same manufacturer because they have these funny lampposts in front of every house.
+[805.5 - 808.2] Brady Stifle: Oh, yeah. With the cute. Yeah. Is that with the meters on?
+[808.2 - 828.2] Annie Larner: With the meters. Yeah. Yep. Exactly. And so we would... As kids, we would put our thumb over the, sensor and try to turn the light on in the middle of the day because that was a funny trick. But all of those homes were built about the same time, like late sixties, early seventies, a lot of tri levels and bi levels, and they were all electric. And this was like a thing or whatever. They had no gas in the homes, but they also had baseboard heating.
+[828.2 - 828.4] Brady Stifle: Yeah.
+[828.4 - 849.0] Annie Larner: And so what happened is over time... I mean, they're highly inefficient and they were really expensive to heat your homes over the winter with just baseboard. But it was cool. I feel like it was a little bit ahead of its time because we, like, went full circle. Everybody started introducing gas. Like, my dad installed gas so we could have a gas stove, and then we put in a pellet stove because the whole house was easier to heat with that and less expensive than...
+[849.0 - 849.3] Brady Stifle: Yeah. I mean,
+[849.3 - 852.4] Shakeel Dalal: this is like all pre oil crisis. Right? Before energy prices skyrocketed.
+[852.8 - 856.2] Annie Larner: Exactly. And then now we're going back to the electrification. It's just kind of funny.
+
+============================================================
+
+#5 (clip_05) 19:45 to 20:33 - "You don't need expertise to join city boards"
+------------------------------------------------------------
+[1185.0 - 1202.0] Shakeel Dalal: The other thing I'll say is that, I think a lot of people are very worried about, like, well, but I don't know enough to serve on one of these boards. Like, literally, these opportunities are in part designed as a way to learn about the city and how it operates. You do not need to be an expert going into
+[1202.5 - 1212.8] Brady Stifle: And there's gonna be people that think that they know more than you and probably don't will apply for these things and then be guiding. And if you have that appetite to learn, you're... I think you're good to go.
+[1212.8 - 1227.7] Shakeel Dalal: That is absolutely correct. And one of the sad things in my opinion is that very often these boards are undersubscribed. So if this is a thing that you wanna do and you're thinking about putting in an application and you put in an application, you will probably get to serve on the board that you're interested in.
+[1227.8 - 1228.6] Annie Larner: What is the commitment?
+[1229.2 - 1232.8] Shakeel Dalal: The commitment is two to five years depending on which board you serve on.
+
+============================================================
+
+#6 (clip_06) 28:00 to 29:00 - "New board aims to stop city from buying scam tech"
+------------------------------------------------------------
+[1679.6 - 1701.0] Shakeel Dalal: 100% a scam. Longmont was one of the early adopters of this, though, because the city staff that were reviewing it were like, well, you know, this company says it works. It could be great for crime, you know, solving crimes, but it was all garbage. And so, like, the experts who sit on this board would have the opportunity to say, don't don't don't give these people your money. Right? This is, like, technologically impossible what they're proposing. Mhmm.
+[1701.0 - 1703.6] Annie Larner: I thought you said you don't have to be an expert to be on a board.
+[1703.6 - 1729.5] Shakeel Dalal: You don't have to be an expert to be you don't have to be an expert about city government to be on a board. And the... This is... This board is, to your point, interesting insofar as it is actually looking for experts. Right? So they want you to... So in particular, they are looking for people with knowledge about cybersecurity, artificial intelligence, data privacy, technology use ethics. There are other boards that don't require you to have any expertise, for example. So for example, if you wanna be on the water board, you just gotta be a person who's interested in water.
+[1729.5 - 1735.9] Brady Stifle: Do you use water? Do you use water every day? Well, have I got something for you? Oh, jeez.
+[1735.9 - 1739.6] Shakeel Dalal: But but this is a case where they are looking for people with a with a particular background. Okay. Yeah.
+
+============================================================
+
+#7 (clip_07) 40:02 to 41:45 - "City spends resources on Callahan House advisory board"
+------------------------------------------------------------
+[2402.0 - 2402.7] Shakeel Dalal: board that
+[2403.3 - 2410.9] Brady Stifle: maybe doesn't need that. This is why we need video in the studio. Because Annie, I swear to god, like, her sides are gonna fly off. She's just splitting.
+[2410.9 - 2412.5] Annie Larner: Okay. Continue, and then I'll weigh in.
+[2412.5 - 2423.1] Shakeel Dalal: Yeah. Yeah. This board advises the city on what to do with the Callahan House, which is basically an event venue that's owned by the city that was donated to the city by the Callahan family. And I'm pretty sure that the only reason it has a board is because we're obligated to.
+[2423.6 - 2425.6] Brady Stifle: It's a nice space, I guess. I don't know. It is
+[PROPOSED CUT] [2425.6 - 2429.0] Shakeel Dalal: a nice space. Some very good friends of mine got married at the Callahan House. It's beautiful.
+[PROPOSED CUT] [2429.0 - 2430.4] Brady Stifle: You did a photo shoot over there. It's...
+[PROPOSED CUT] [2430.4 - 2434.2] Shakeel Dalal: My dog loves the garden. She loves to sniff around. I love the gardens. It's beautiful. Yeah.
+[PROPOSED CUT] [2434.3 - 2441.8] Annie Larner: What do you think is a better entity or body for holding the Callahan... Callahan House if you even think there's... It's worth preserving?
+[PROPOSED CUT] [2442.0 - 2445.7] Shakeel Dalal: Parks and Rec. Parks and Rec already manages venues for the city that you can rent out.
+[PROPOSED CUT] [2446.3 - 2447.3] Annie Larner: I see. Interesting.
+[PROPOSED CUT] [2448.1 - 2449.1] Brady Stifle: Send your angry email
+[PROPOSED CUT] [2449.1 - 2457.8] Shakeel Dalal: to steal the wall. Historical Society will be... Well, the Historical Society isn't a part of the city. No. No. They're they're not public. Yeah. Right. So the land is owned by the city, and so it's gotta be a city thing.
+[PROPOSED CUT] [2457.8 - 2459.0] Brady Stifle: I see. Gotcha.
+[2459.3 - 2461.9] Annie Larner: That's hilarious. I've just, okay. Fair. Yep.
+[2462.1 - 2464.1] Shakeel Dalal: Tell tell me about your feelings at the Callahan House, Sandy.
+[2464.1 - 2465.5] Brady Stifle: Well... Because your your size...
+[2465.5 - 2505.4] Annie Larner: I'm just cracking up because I feel like the Callahan House is just part of the the vernacular of of Longmont life. Like, you just it's just there. It always has been and it always will be, and it's the place where you go get pictures or your friend has a small wedding or, like, whatever. It's just it's there, and it... It's just unquestionable. I've never taken a moment in my whole life to pause and wonder what value does the Callahan House. It just does and it is and it was and it always will be. It's like a deity and I'm just... And I've... And I thank you for this moment, but it's also tickling me to be like, what is the point of the Callahan? Is this that important? I mean, it's... Yes. It is important, but is it that important? And to your point, it's like I has this on board? Like, what? Yeah.
+[2505.4 - 2505.5] Brady Stifle: On
+
+============================================================
+
+#8 (clip_08) 46:00 to 47:07 - "Ethics complaint includes sidewalk shoveling threat"
+------------------------------------------------------------
+[2759.9 - 2760.4] Shakeel Dalal: policy.
+[2760.7 - 2761.2] Annie Larner: K.
+[2764.8 - 2776.8] Shakeel Dalal: Dan, in this process, also made this weirdly personal by reaching out to Sean and saying that he was so upset by this that he was going to stop shoveling Sean's sister's sidewalk in the winter because they are neighbors.
+[2776.9 - 2778.8] Annie Larner: Yeah. It's amazing.
+[2778.8 - 2781.9] Brady Stifle: I love... Yeah. I love the I love the detail. That's a good one.
+[2782.3 - 2813.8] Shakeel Dalal: So when someone files an ethics complaint like this, the city, again, has to spend resources hiring an independent investigator who researches the conduct as it was and determines whether or not there is a problem or a violation of the city's ethics code and then, makes recommendation to city council. And then they do a hearing at Longmont City Council of the ethics complaint where, like, Dan, the complainant, gets to spend ten minutes talking and then Sean gets ten minutes to respond to the thing and they get to go back and forth.
+[2813.8 - 2814.8] Annie Larner: Back to Judge Judy.
+[2814.8 - 2817.4] Shakeel Dalal: Oh my god. Please listen to the Longmont City Council recap
+[2817.7 - 2819.9] Brady Stifle: episode. Like... We gotta get them on here. Yeah.
+[2819.9 - 2820.2] Shakeel Dalal: Yeah.
+[2820.6 - 2822.1] Brady Stifle: We gotta get them in the new studio.
+[2823.4 - 2827.4] Shakeel Dalal: Yeah. So the... So so the the the... And I will say,
+
+============================================================
+
+#9 (clip_09) 50:25 to 51:24 - "I'm trying to figure out how to truly apologize"
+------------------------------------------------------------
+[3025.3 - 3026.5] Annie Larner: Yeah. Sure. Sure. Sure....
+[3026.5 - 3027.3] Brady Stifle: Back the heat
+[3027.3 - 3029.9] Annie Larner: a little bit. He was wrong, but also settle down, buddy.
+[3030.4 - 3051.1] Shakeel Dalal: Yeah. And so what the city council members decided to institute as the punishment is Sean must issue a written apology to Sean or Sean must issue a written apology to Levi Brown apologizing for his conduct. And I'm just gonna quote London Lyle's article here where she quotes Sean saying, quote, I'm trying to figure out how to truly apologize to Levi.
+[3052.7 - 3055.6] Shakeel Dalal: And so I'm sure this will be an extremely sincere apology.
+[3056.4 - 3056.9] Annie Larner: I'm...
+[3057.7 - 3058.2] Brady Stifle: Yeah.
+[3059.3 - 3062.3] Annie Larner: What's the word? I forgot. It's
+[3062.3 - 3066.0] Brady Stifle: real, man. You don't need to look the guy in the eye. You just, like, write it out. I don't know.
+[3066.0 - 3074.7] Shakeel Dalal: Yeah. I mean, a a lot of Sean's statements basically say, it it makes me suspect that the form of the apology will be, I'm sorry that I said the thing that I did.
+[3074.7 - 3075.8] Annie Larner: Yeah. Right. Exactly.
+[3075.8 - 3078.7] Brady Stifle: Not actually sorry for it, but Yeah. It's too bad I got caught or whatever.
+[3078.7 - 3079.3] Annie Larner: Oh, I mean...
+[3079.3 - 3082.3] Brady Stifle: It's just such a goofy, like, small town politics kind of...
+[3082.3 - 3083.9] Annie Larner: It's definitely some schoolyard stuff.
+[3083.9 - 3084.2] Brady Stifle: Yeah.
+
+============================================================
