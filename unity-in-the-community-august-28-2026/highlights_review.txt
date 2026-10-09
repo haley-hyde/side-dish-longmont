@@ -1,0 +1,245 @@
+SIDEDISH LONGMONT - CLIP SHORTLIST (before rendering)
+============================================================
+
+Episode: Unity in the Community: August 28, 2026
+Claude proposed 9 clip(s), strongest first, from the topics you picked:
+T1 [Must clip] Intro and Welcome from Unity in the Community (0:21 to 1:42)
+T2 [Must clip] Platte River Power Authority and Longmont's Energy Sources (1:42 to 9:12)
+T3 [Must clip] How Longmont Power Rates Are Set (9:12 to 12:04)
+T4 [Must clip] Jalaire McMillan's Campaign for HD19 (12:05 to 20:32)
+T5 [Must clip] Public Safety Tax and Firefighter Staffing Issues (20:32 to 29:42)
+T6 [Must clip] Brighter Star Boulder County Childcare Initiative (29:42 to 39:01)
+T7 [Must clip] LURA and First and Main Transit Center Development (39:00 to 51:18)
+T8 [Must clip] State Rep Karen McCarthy on Water, Healthcare, and Ambulance Billing (51:18 to 60:38)
+T9 [Must clip] Big Ten Boulder County: Five County Commissioners Initiative (60:38 to 73:34)
+T10 [Must clip] Front Range Passenger Rail and RTD Service (73:34 to 84:24)
+
+Before rendering, open highlights.json and delete any clips you don't want.
+You can also change a clip's start_time/end_time (seconds) or its hook
+(the on-screen headline). Proposed internal cuts are listed below but are
+NOT applied by the render script yet.
+
+To fix a misheard word or name in captions: check clips_transcript.txt,
+then correct that word's "punctuated_word" in transcript_words.json.
+
+Save both JSON files into output/unity-in-the-community-august-28-2026/ and run your normal
+pipeline command WITHOUT --review.
+
+============================================================
+
+#1 (clip_01) Rail Service Starting January 2029 at No Additional Cost
+Status: Ready to use
+Time: 76:58 to 77:45 (46.8s)
+Topic: T10. Front Range Passenger Rail and RTD Service
+Hook / headline: Front Range Rail Service Starts January 2029
+Opening line: "I'm really excited about it because it means that we can go to the ballot in November"
+Speakers: Joan Peck, Audrey DeBarros
+Why it works: Major Longmont news: rail service is coming by January 2029 at no additional cost to taxpayers. This is timely, concrete, and directly impacts Longmont residents. The clip includes the key details—when it starts, where it goes, and that it's already funded.
+Editing notes: The clip runs about 47 seconds. Could potentially trim some of the ballot discussion at the start, but it provides useful context. The moment pays off with Audrey's clear statement about January 2029 service.
+Transcript excerpt:
+  "I'm really excited about it because it means that we can go to the, we can go to the ballot in November for, one third of a penny tax increase
+
+Okay.
+
+To, pay for the second and... For... Second and third phases of the front range passenger rail, which is from Union to Colorado Springs and then further.
+
+And then further?
+
+Yes. All the way to Pueblo, hopefully, in Trinidad as the fourth.
+
+So it starts learning and go that far as a coming up communion as well?
+
+It is. And, this is the reason that the tax increase is only for the southern part from Union to Pueblo because the northern part from Union to Fort Collins is already paid for.
+
+K.
+
+So we're paying for that through, legislative action, through,
+
+two senate bills, one eighty four and two thirty, And RTD, which I'm very excited about, is now spending the money that we have put into RTD Longmont
+
+Longmont. Yes.
+
+For twenty years. They are spending it now,
+
+yay, to, finance... Help finance the northern part.
+
+Okay. So what do we get for that? Because people... If you go online, there's a... There's some sand in those gears. I'll tell you what. About
+
+There are sand in those gears, but the sand is being erased, blown away.
+
+Okay.
+
+Clear it up.
+
+What are we?
+
+So what... What's amazing is that due to the partnership between CDOT and RTD, as Joan mentioned, a first phase of rail service will begin by January 2029
+
+Mhmm.
+
+At no additional cost to taxpayers, and that will provide three round trips going from Denver Union Station up to Fort Collins serving the city of Longmont. So that's super exciting that it's just a few years away."
+------------------------------------------------------------
+
+#2 (clip_02) Firefighters Working 96-Hour Shifts Due to Understaffing
+Status: Needs a better cut
+Time: 20:50 to 22:43 (113.3s)
+Topic: T5. Public Safety Tax and Firefighter Staffing Issues
+Hook / headline: Longmont Firefighters Working Four Days Straight
+Opening line: "You know, the biggest thing is I can speak on the fire side, right, from beyond the fire... Fire side. But, the biggest thing is that we're understaffed."
+Speakers: Brady Steffl, Vince Van Binsbergen
+Why it works: Compelling firsthand account from a firefighter explaining the staffing crisis. The 96-hour shifts and concrete numbers (86% call increase, only 13% staffing increase) make this vivid and relatable. Strong support for the public safety tax.
+Editing notes: Runs about 73 seconds, needs trimming. Consider starting at 'We're about to have thirty three thousand hours' or cutting the middle section about call volumes to focus on the mandatory overtime impact. Runs 113s, over the 60s max.
+Transcript excerpt:
+  "You know, the biggest thing is I I can speak on the fire side, right, from beyond the fire... Fire side. But, the biggest thing is that we're understaffed. That's one of the biggest things we can. We... We're about have to have thirty three thousand hours of overtime by the end of the year. And about sixteen, seventeen hundred hour of those hours are manageable. So what that means is, for example, tomorrow, it's my daughter's birthday. I could have to work tomorrow. I don't have a choice. You you have a standard of care within long lines. So... So this is mandatory.... Maintain entirely because we are such understaffed. And and I think it's important to bring this down to the level of the individual firefighter or police officer. How often are you working with mandatory overtime shift? You know, it it varies because it translates to other people are picking another hour, though. Right? So those seventeen hundred hours mandatory, we're still, what, thirty one thousand... We're at thirty one thousand hours of overtime still happening. So people aren't picking up overtime because they're working, but at that, there's a cost. Right? So we're getting back to sleep. We're stressed because the amount of times we work. Again, we do work forty eight hours, at a time. So we could be working on a seventy two hour shift or a ninety six hour shift, which is four day straight. We're going to check, though. You get to sleep at some point during those shifts. Right? We do. But the city is growing, and our call is actually seeing, significantly. So for example, when 2009, we were running around 7,000 calls. Yeah. And now we're running about most of the Virgin Islands. And, sorry, call increase has been about 80... I think it's 86% since 2009. And our staffing has only increased by 13% since 2009."
+------------------------------------------------------------
+
+#3 (clip_03) Surprise $2,000 Ambulance Bills Problem
+Status: Needs a better cut
+Time: 55:51 to 57:00 (69.1s)
+Topic: T8. State Rep Karen McCarthy on Water, Healthcare, and Ambulance Billing
+Hook / headline: Coloradans Getting Surprise $2,000 Ambulance Bills
+Opening line: "That was a ground and ambulance billing reform bill."
+Speakers: Karen McCarthy, Brady Steffl
+Why it works: Relatable problem that could affect any listener. The surprise $2,000 bill is a concrete, shocking detail. Good setup of the problem and the legislative solution that was vetoed.
+Editing notes: About 69 seconds. Could start slightly later to jump right into the problem. The banter about 'toughed it out' adds humor but could be trimmed if needed. Runs 69s, over the 60s max.
+Transcript excerpt:
+  "That was a ground and ambulance billing reform bill. So there are ground ambulance services in our state. When you have health insurance
+
+Mhmm.
+
+And you call 911 and a ambulance shows up, you are under the assumption that your health insurance will cover that cost, if not all, most of it.
+
+Right.
+
+And people in our state are getting sent bills six months, eight months later for $2,000 for
+
+It's an expensive ride. Yeah. Sometimes he'd pay it. Yeah. Other times, maybe he would've just toughed it out.
+
+Right. Driven home. Right.
+
+Driven out.
+
+Yeah. Drag me to the hospital.
+
+Take me. Martin, are you coming home from work soon? Because
+
+So we fix this in,
+
+the private ambulance carrier space
+
+if it's a private company, but we didn't fix it for public ground ambulance. So it's fire departments, you know, the fire chiefs around the state. So we need to fix that. And most... Many, many other states have already fixed this kind of loophole. Yep. Colorado needs to do it, and that's the bill that our governor vetoed."
+------------------------------------------------------------
+
+#4 (clip_04) First and Main Transit Center with 700-Space Garage
+Status: Needs a better cut
+Time: 46:09 to 48:00 (110.6s)
+Topic: T7. LURA and First and Main Transit Center Development
+Hook / headline: First And Main Getting 700-Space Garage By 2027
+Opening line: "Yeah. And I don't think that."
+Speakers: Matthew Popkin
+Why it works: Major downtown development news with concrete details. The 700-space garage, bus rapid transit, and Front Range Community College campus are all significant changes coming to Longmont. Timely development news.
+Editing notes: About 71 seconds, needs trimming. The opening about TIF could be cut to start at 'what that is planned to be.' Also somewhat technical—may need better setup or cut. Runs 111s, over the 60s max.
+Transcript excerpt:
+  "Yeah. And I don't think that. The last thing that carries right into this. So TIF can only be used to invest in public infrastructure improvements. You can think streetscapes. You could think Right. Street lights, utility infrastructures, sewer, draining, stormwater management, sidewalks, streets... Like, all of that. And so now when we think about other public infrastructure when it's a public, project like the 1st And Main Transit Station, what that is planned to be is a five story, I think, 700 ish space parking garage. Right? South of Chia Motors. Mhmm. This... It's gonna have a 1st Floor bus bay for, I think, 10 bus docks or bays there, to support the regional buses that already exist and two new bus rapid transit routes between Older and Longmont. And bus rapid transit, for those who don't know, is more of like an express bus with fewer stops so you can basically get to your destination faster. It's more of a regional connector than it is, kind of a, you know, let's capture every neighborhood street transportation. So that's that's the crux of the first domain transit station. Now there's also gonna be housing and mixed use commercial right around the whole garage there, so you hopefully won't just see a block of a garage. But we know that, it's important to have adequate parking in our downtown. It's also adequate to have at it, sufficient transit access. Right. And then right next to the first and main transit station is Kaufman Street, which, anyone who's been paying attention or walked or biked around or driven around knows all of the work that's just gone into Kaufman between, what is it, Mountain View and 2nd. That's gonna go all the way and finish off to the Greenway to connect that whole corridor into our crown jewel of the Saint Frank Greenway. That's one side. On the other side of 287 is the Front Range Community College feature home just South of 1st Avenue between Boston and 1st, and that's gonna be that's intended to be the permanent home for the Boulder County campus of Front Range Community."
+------------------------------------------------------------
+
+#5 (clip_05) Childcare Crisis and Brighter Star Initiative
+Status: Ready to use
+Time: 32:51 to 33:38 (46.3s)
+Topic: T6. Brighter Star Boulder County Childcare Initiative
+Hook / headline: $10 A Month Could Transform Boulder County Childcare
+Opening line: "And then what does that look like in the pocket of the caregiver?"
+Speakers: Brady Steffl, Kaycee Headrick
+Why it works: Clear, concrete ask ($10/month) with explanation of what it funds. The childcare crisis is relatable to many families. Good breakdown of how the money would be used.
+Editing notes: About 46 seconds. Clean explanation. Could use a bit more setup about the problem to make it land harder, but works as is.
+Transcript excerpt:
+  "And then what does that look like in the pocket of the caregiver?
+
+That's right. So we're gonna ask people to vote for a 2.579 mil, which is, for the typical homeowner in Boulder County, is about a $110 per year or $10 a month. We're asking voters to consent... To consider a $10 a month investment to make childcare access and affordability better in our community. What does this look like for a provider? The way that this mechanism works is that we... If passed, this creates a workforce investment fund. So programs can access funds for things like retention bonuses, hiring bonuses, professional development, substitutes. That in combination with the other merits of the plan, it helps to bolster income for the program that helps, hopefully helps to bolster wages long term and into the future."
+------------------------------------------------------------
+
+#6 (clip_06) The $20 Donation Story
+Status: Needs a better cut
+Time: 14:17 to 15:26 (69s)
+Topic: T4. Jalaire McMillan's Campaign for HD19
+Hook / headline: Why A $20 Donation Changed This Candidate's Campaign
+Opening line: "My favorite door?"
+Speakers: Annie Larner
+Why it works: Heartwarming, relatable story about grassroots democracy. The moment of the friend reaching for the $20 bill is vivid. Good illustration of why small donations matter and bipartisan appeal.
+Editing notes: About 69 seconds. Could trim slightly but the whole story arc is important to the payoff. Works well as told. Runs 69s, over the 60s max.
+Transcript excerpt:
+  "My favorite door? I don't have a favorite door, but I do have a favorite story of my favorite donation. Oh, yeah. So I have a friend who's actually a Republican married to a Democrat. She had told me, you know, we're really excited for you, but we just don't really talk politics. We always vote. And she had said, I'm gonna vote for you because I know your heart, I know you're a good person. No. She joking me. I said, I'll give you one term, and then I'll see what policy you actually pass, and then I might change my mind. But one of the things she said is we're following you. We... We're really excited for you, but we don't we don't give funeral donations. And I said, that's why. Said, I thought it's okay. I said, since running, I've decided I'm actually gonna donate more to candidates. And she said, really? Why? And I said, because if regular people don't donate, only the wealthy get to run for office.
+
+And she's... She kinda looked at me thoughtfully, reached in her pocket, and handed me
+
+a $20 bill. $20? That's all good. You know, I hate Donna. I hate to turn this into money, but it was the sort of thing where for her, I felt like she had caught the vision that I want lots of people to get Right. That democracy can really be and should be grassroots."
+------------------------------------------------------------
+
+#7 (clip_07) Why Three County Commissioners Concentrate Power
+Status: Ready to use
+Time: 65:22 to 65:52 (29.8s)
+Topic: T9. Big Ten Boulder County: Five County Commissioners Initiative
+Hook / headline: With Three Commissioners Two Votes Ends Debate
+Opening line: "With three people making decisions, as soon as two people have a decision, they move on."
+Speakers: Ashley Stolzmann
+Why it works: Clear, simple explanation of the structural problem with three commissioners. The comparison to seven-person city council makes it concrete. Good argument for the Big Ten Boulder County initiative.
+Editing notes: About 30 seconds. Nice, tight clip. Could use more context about what this is for, but the argument itself is clear.
+Transcript excerpt:
+  "With three people making decisions, as soon as two people have a decision, they move on. When I was on city council, we had seven people. If you have two people that have, that opinion, then you start getting more ideas. There could be a difference of opinion. There could be a view that's a little different. Maybe that view doesn't get entertained or won the day, but there's time and space made to hear it out and understand if there's something there that needs to be addressed. So with three people, when two people decide on something, you just move on. So that other idea pretty well gets left behind."
+------------------------------------------------------------
+
+#8 (clip_08) Balancing Affordability, Reliability, and Sustainability
+Status: Ready to use
+Time: 10:52 to 11:31 (39.1s)
+Topic: T2. Platte River Power Authority and Longmont's Energy Sources
+Hook / headline: The Three-Legged Stool of Longmont's Power
+Opening line: "When we think about the three pillars or a three legged stool"
+Speakers: Annie Larner, Brady Steffl
+Why it works: Good metaphor (three-legged stool) and concrete example of reliability (keeping power during storms when others lost it). Mayor explains the tradeoffs in power policy clearly.
+Editing notes: About 39 seconds. Clean clip that explains the challenge of balancing competing priorities. The example of keeping power during storms is a strong closer.
+Transcript excerpt:
+  "When we think about the three pillars or a three legged stool Right. In liability, affordability, and sustainability. Mhmm. So keeping all those in balance is what what we're focusing on. And currently, the... There's a big push at looking at... We need to rethink the affordability factor. So we're looking at that and making sure we're not putting too much on the others, but it helped me with that affordability, as well as the reliability. When they excelled, when the weak winds happened and, you know, neighboring communities lost power for two to three days, we were able to keep on going. No. It's that Well,
+
+I'm saying everybody. We we appreciate the deep dives. Yes. We could go Yeah. Plan to the surface."
+------------------------------------------------------------
+
+#9 (clip_09) Airport Bus Service Starting September 27
+Status: Ready to use
+Time: 83:09 to 83:39 (29.5s)
+Topic: T10. Front Range Passenger Rail and RTD Service
+Hook / headline: Longmont To DIA For $10 Starting This Month
+Opening line: "Another huge investment for Longmont is the start of the airport to Longmont service."
+Speakers: Brady Steffl, Audrey DeBarros
+Why it works: Timely, practical news. Hourly service to DIA for $10 is a great deal and starts very soon (September 27). Useful information for travelers.
+Editing notes: About 29 seconds. Short and sweet with all the key info. Could trim the Wi-Fi banter at the end if needed.
+Transcript excerpt:
+  "Another huge investment for Longmont is the start of the airport to Longmont service. So direct service from Longmont to Dan.
+
+The bus. Yep.
+
+Yeah. Starting September 27.
+
+Okay. How many times a day does that run?
+
+Several. It's an hourly service. Oh, it's early? Yeah. There's multiple Do you know the cost on that one off the top of your head?
+
+$10.
+
+$10?
+
+And a dollar 35 for seniors. So That's a deal.
+
+It is a total deal. Well
+
+Yeah. To get Wi Fi on there and
+
+news coming
+
+Yeah.
+
+From a transportation perspective
+
+to the law.
+
+Well, I'm gonna, we'll do a hard cut right before the ban starts here."
+------------------------------------------------------------

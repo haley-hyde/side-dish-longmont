@@ -1,0 +1,118 @@
+SIDEDISH LONGMONT - TRANSCRIPT FOR EACH PROPOSED CLIP ONLY
+============================================================
+
+This is exactly what a listener hears in each clip. Check it for a
+misheard word or name, and to confirm the clip makes sense on its own.
+To fix a word: edit transcript_words.json and correct its
+"punctuated_word" value.
+
+============================================================
+
+#1 (clip_01) 76:58 to 77:45 - "Front Range Rail Service Starts January 2029"
+------------------------------------------------------------
+[4618.2 - 4626.7] Audrey DeBarros: between CDOT and RTD, as Joan mentioned, a first phase of rail service will begin by January 2029
+[4626.9 - 4627.1] Annie Larner: Mhmm.
+[4627.3 - 4641.9] Audrey DeBarros: At no additional cost to taxpayers, and that will provide three round trips going from Denver Union Station up to Fort Collins serving the city of Longmont. So that's super exciting that it's just a few years away.
+[4642.0 - 4645.0] Brady Steffl: It is. It's felt, internable, I think, to many people.
+[4645.0 - 4645.1] Annie Larner: Yeah.
+[4645.1 - 4650.2] Joan Peck: It's gonna be a... New Year's Day, January 29, where you're going to have 
+[4650.2 - 4653.0] Brady Steffl: So when you wake up and you're maybe a little
+[4653.2 - 4653.7] Joan Peck: Crazy.
+[4653.8 - 4665.1] Brady Steffl: Feeling maybe not like driving in the morning or the afternoon or whatever, you know, the times are running. So through your day, one of those gonna run, and what... What's that schedule looking like down the road?
+
+============================================================
+
+#2 (clip_02) 20:50 to 22:43 - "Longmont Firefighters Working Four Days Straight"
+------------------------------------------------------------
+[1249.6 - 1255.2] Shakeel Dalal: Can you tell us a little bit about... What's the motivation behind this? Why why why are we owning the voters and asking to raise?
+[1255.2 - 1281.8] Vince van Binsbergen: Yeah. So the biggest thing is... You know, the biggest thing is I I can speak from the fire side, right, from beyond the fire... Fire side. But, the biggest thing is that we're understaffed. That's one of the biggest things we can. We... We're about have to have 33,000 hours of overtime by the end of the year, and about 1,600 - 1,700 of those hours are mandatory. So what that means is, for example, tomorrow, it's my daughter's birthday. I could have to work tomorrow. I don't have a choice. You you have a standard of care within long lines. So...
+[1281.8 - 1282.7] Shakeel Dalal: So this is mandatory....
+[1282.8 - 1285.1] Vince van Binsbergen: Mandatory entirely because we are so understaffed.
+[1285.7 - 1293.8] Shakeel Dalal: And and I think it's important to bring this down to the level of the individual firefighter or police officer. How often are you working with mandatory overtime shift?
+[1294.0 - 1324.0] Vince van Binsbergen: You know, it it varies because it translates to other people are picking other hours up, though. Right? So those 1,700 hours mandatory, we're still, what, 31,000... We're at 31,000 hours of overtime still happening. So people aren't picking up overtime because they're working, but at that, there's a cost. Right? So we're getting lack of sleep. We're stressed because the amount of hours we work. Again, we do work 48 hours, at a time. So we could be working on a 72 hour shift or a 96 hour shift, which is four day straight. We're going to check, though.
+[1324.3 - 1326.5] Shakeel Dalal: You get to sleep at some point during those shifts. Right?
+[1326.5 - 1363.2] Vince van Binsbergen: We do. But the city is growing, and our calls are actually increasing, significantly. So for example, when 2009, we were running around 7,000 calls. Yeah. And now we're running about most of 13,000. And, sorry, call increase has been about 80... I think it's 86% since 2009. And our staffing has only increased by 13% since 2009. So, yeah, we do get to sleep, but, you know, we have to balance you're not sleeping good. Even though that you might get a full night rest, you're still... Your body is always doing FTP. So you don't know when that call is saying you're going with those. Once you wake up, you have heart rate.
+
+============================================================
+
+#3 (clip_03) 55:51 to 57:00 - "Coloradans Getting Surprise $2,000 Ambulance Bills"
+------------------------------------------------------------
+[3350.8 - 3351.1] Karen McCormick: it.
+[3351.1 - 3352.1] Brady Steffl: What's that one?
+[3352.7 - 3362.8] Karen McCormick: That was a ground and ambulance billing reform bill. So there are ground ambulance services in our state. When you have health insurance
+[3363.0 - 3363.4] Brady Steffl: Mhmm.
+[3363.5 - 3375.1] Karen McCormick: And you call 911 and a ambulance shows up, you are under the assumption that your health insurance will cover that cost, if not all, most of it.
+[3375.1 - 3375.6] Brady Steffl: Right.
+[3375.9 - 3382.8] Karen McCormick: And people in our state are getting sent bills six months, eight months later for $2,000 for
+[3382.9 - 3388.1] Brady Steffl: It's an expensive ride. Yeah. Sometimes he'd pay it. Yeah. Other times, maybe he would've just toughed it out.
+[3388.1 - 3389.6] Karen McCormick: Right. Driven home. Right.
+[3389.6 - 3390.3] Brady Steffl: Driven out.
+[3390.3 - 3391.7] Karen McCormick: Yeah. Drag me to the hospital.
+[3391.8 - 3393.8] Brady Steffl: Take me. Hon, are you coming home from work soon? Because
+[3393.9 - 3420.2] Karen McCormick: So we fix this in, the private ambulance carrier space if it's a private company, but we didn't fix it for public ground ambulance. So it's fire departments, you know, the fire chiefs around the state. So we need to fix that. And most... Many, many other states have already fixed this kind of loophole. Yep. Colorado needs to do it, and that's the bill that our governor vetoed.
+
+============================================================
+
+#4 (clip_04) 46:09 to 48:00 - "First And Main Getting 700-Space Garage By 2027"
+------------------------------------------------------------
+[2768.9 - 2879.5] Matthew Popkin: Yeah. And I don't think that. The last thing that carries right into this. So TIF can only be used to invest in public infrastructure improvements. You can think streetscapes. You could think Right. Street lights, utility infrastructures, sewer, draining, stormwater management, sidewalks, streets... Like, all of that. And so now when we think about other public infrastructure when it's a public, project like the 1st And Main Transit Station, what that is planned to be is a five story, I think, 700 ish space parking garage. Right? South of Cheese Importers. Mhmm. This... It's gonna have a 1st Floor bus bay for, I think, 10 bus docks or bays there, to support the regional buses that already exist and two new bus rapid transit routes between Older and Longmont. And bus rapid transit, for those who don't know, is more of like an express bus with fewer stops so you can basically get to your destination faster. It's more of a regional connector than it is, kind of a, you know, let's capture every neighborhood street transportation. So that's that's the crux of the First & Main transit station. Now there's also gonna be housing and mixed use commercial right around the whole garage there, so you hopefully won't just see a block of a garage. But we know that, it's important to have adequate parking in our downtown. It's also adequate to have at it, sufficient transit access. Right. And then right next to the first and main transit station is Coffman Street, which, anyone who's been paying attention or walked or biked around or driven around knows all of the work that's just gone into Coffman between, what is it, Mountain View and 2nd. That's gonna go all the way and finish off to the Greenway to connect that whole corridor into our crown jewel of the Saint Vrain Greenway. That's one side. On the other side of 287 is the Front Range Community College feature home just South of 1st Avenue between Boston and 1st, and that's gonna be that's intended to be the permanent home for the Boulder County campus of Front Range Community.
+
+============================================================
+
+#5 (clip_05) 32:51 to 33:38 - "$10 A Month Could Transform Boulder County Childcare"
+------------------------------------------------------------
+[1971.4 - 1971.6] Kaycee Headrick: Yeah.
+[1971.6 - 1973.9] Brady Steffl: And then what does that look like in the pocket of the caregiver?
+[1974.0 - 2017.7] Kaycee Headrick: That's right. So we're gonna ask people to vote for a $2.579 mil, which is, for the typical homeowner in Boulder County, is about a $110 per year or $10 a month. We're asking voters to consider... To consider a $10 a month investment to make childcare access and affordability better in our community. What does this look like for a provider? The way that this mechanism works is that we... If passed, this creates a workforce investment fund. So programs can access funds for things like retention bonuses, hiring bonuses, professional development, substitutes. That in combination with the other merits of the plan, it helps to bolster income for the program that helps, hopefully helps to bolster wages long term and into the future.
+
+============================================================
+
+#6 (clip_06) 14:17 to 15:26 - "Why A $20 Donation Changed This Candidate's Campaign"
+------------------------------------------------------------
+[856.6 - 858.3] Annie Larner: to ask, what was your favorite door?
+[858.6 - 889.4] Jillaire McMillan: My favorite door? I don't have a favorite door, but I do have a favorite story of my favorite donation. Oh, yeah. So I have a friend who's actually a Republican married to a Democrat. She had told me, you know, we're really excited for you, but we just don't really talk politics. We always vote. And she had said, I'm gonna vote for you because I know your heart, I know you're a good person. She chokingly said, I'll give you one term, and then I'll see what policies you actually pass, and then I might change my mind. But one of the things she said is we're following you. We... We're really excited for you, but we
+[889.4 - 889.9] Annie Larners: don't we don't
+[889.9 - 905.4] Jillaire McMillan: give political donations. And I said, that's why. Said, I thought it's okay. I said, since running, I've decided I'm actually gonna donate more to candidates. And she said, really? Why? And I said, because if regular people don't donate, only the wealthy get to run for office.
+[906.6 - 910.4] Annie Larner: And she's... She kinda looked at me thoughtfully, reached in her pocket, and handed me
+[910.4 - 914.0] Jillaire McMillan: a $20 bill. $20? That's all good. You know, I hate Donna. I hate
+[914.0 - 915.2] Annie Larner: to turn this into money, but
+[915.2 - 917.2] AJillaire McMillan: it was the sort of thing where for her, I
+[917.2 - 925.6] Annie Larner: felt like she had caught the vision that I want lots of people to get Right. That democracy can really be and should be grassroots.
+
+============================================================
+
+#7 (clip_07) 65:22 to 65:52 - "With Three Commissioners Two Votes Ends Debate"
+------------------------------------------------------------
+[3922.3 - 3952.1] Ashley Stolzmann: With three people making decisions, as soon as two people have a decision, they move on. When I was on city council, we had seven people. If you have two people that have, that opinion, then you start getting more ideas. There could be a difference of opinion. There could be a view that's a little different. Maybe that view doesn't get entertained or won the day, but there's time and space made to hear it out and understand if there's something there that needs to be addressed. So with three people, when two people decide on something, you just move on. So that other idea pretty well gets left behind.
+[3952.1 - 3952.2] Annie Larner: Because
+
+============================================================
+
+#8 (clip_08) 10:52 to 11:31 - "The Three-Legged Stool of Longmont's Power"
+------------------------------------------------------------
+[652.2 - 686.6] Annie Larner: When we think about the three pillars or a three legged stool Right. In liability, affordability, and sustainability. Mhmm. So keeping all those in balance is what what we're focusing on. And currently, the... There's a big push at looking at... We need to rethink the affordability factor. So we're looking at that and making sure we're not putting too much on the others, but it helped me with that affordability, as well as the reliability. When they excel, when the week winds happened and, you know, neighboring communities lost power for two to three days, we were able to keep on going. No. It's that Well,
+[686.6 - 686.9] Brady Steffl: I'm saying
+[687.4 - 691.3] Brady Steffl: everybody. We we appreciate the deep dives. Yes. We should go back to the surface.
+
+============================================================
+
+#9 (clip_09) 83:09 to 83:39 - "Longmont To DIA For $10 Starting This Month"
+------------------------------------------------------------
+[4989.4 - 4990.1] Brady Steffl: The bus. Yep.
+[4990.1 - 4992.3] Audrey DeBarros: Yeah. Starting September 27.
+[4992.3 - 4994.3] Brady Steffl: Okay. How many times a day does that run?
+[4995.3 - 4998.9] Audrey DeBarros: Several. It's an hourly service. Oh, it's early? Yeah. There's multiple Do
+[4998.9 - 5000.7] Brady Steffl: you know the cost on that one off the top of your head?
+[5000.7 - 5001.3] Audrey DeBarros: $10.
+[5001.3 - 5002.0] Brady Steffl: $10?
+[5002.0 - 5004.6] Audrey DeBarros: And a dollar 35 for seniors. So That's
+[5004.6 - 5005.1] Brady Steffl: a deal.
+[5005.1 - 5006.6] Audrey DeBarros: It is a total deal. Well
+[5006.8 - 5008.6] Brady Steffl: Yeah. To get Wi Fi on there and
+[5008.8 - 5009.6] Audrey DeBarros: news coming
+[5009.9 - 5010.0] Annie Larner: Yeah.
+[5010.1 - 5011.9] Audrey DeBarros: From a transportation perspective
+[5012.0 - 5012.7] Annie Larner: to the law.
+[5012.7 - 5018.9] Brady Steffl: Well, I'm gonna, we'll do a hard cut right before the ban starts here. Yeah. So just wanna say thank you. Yeah.
+
+============================================================

@@ -1,0 +1,121 @@
+ SIDEDISH LONGMONT - TRANSCRIPT FOR EACH PROPOSED CLIP ONLY
+============================================================
+
+This is exactly what a listener hears in each clip. Check it for a
+misheard word or name, and to confirm the clip makes sense on its own.
+To fix a word: edit transcript_words.json and correct its
+"punctuated_word" value.
+
+============================================================
+
+#1 (clip_01) 12:58 to 13:53 - "Boulder County has slots for only 25% of infants"
+------------------------------------------------------------
+[778.0 - 778.4] Annie Larner: Question.
+[778.4 - 792.6] Kaycee Headrick: No. That's that's really, that's that's a really good story,the duct tape for the diaper. I have a a quasi uncle who... That's that's his move. That's his move. I'm like, the diapers aren't hard. It's it's not hard. Of course. It, like, broke and he didn't know what else to do. He's he's resourceful. He pulled the duct tape.
+[792.6 - 832.8] Kaycee Headrick: Yeah. Good. Alright. We love that. Yeah. I'm... 
+Kaycee Headrick: You know, the state of childcare in our community, it's it's not a great one. Right? Like, the adage is is, like, from a parent perspective, if you can find it, can you afford it? And what I mean by that is that for all the infants in our community that need care, we only have licensed childcare slots for twenty five percent of them. We only have licensed childcare slots for about fifty percent of all toddlers in our community that need it. And and that's, again, if you can find it, and then the next big question is, can you afford it? Because for the families who do need full time care Mhmm. They're paying between 20 and $23,000 a year for full time care for their children. Woah. And that's one child. Last year, we spent $37,000 in child care.
+[832.9 - 833.1] Annie Larner: But,
+
+============================================================
+
+#2 (clip_02) 42:07 to 42:59 - "Declining enrollment isn't just birth rates dropping"
+------------------------------------------------------------
+[2526.8 - 2527.1] Annie Larner: future?
+[2527.1 - 2555.4] Kaycee Headrick: Well, I would reframe it a little bit that the declining enrollment isn't just because of birth rate drops. Now that is happening. That is a true thing. But I would also say that, like, people are leaving Boulder County because they can't afford it. The second that you have a child in Boulder County and you're hit with, like, alright, 20,000 a year if you wanna send your baby to full time care or even, like, 15,000 if you wanna send your baby to part time care. Right. Like, that doesn't keep people here. People move back to be around family because it's going to be more affordable for them to be near family.
+[2555.4 - 2563.0] Annie Larner: That's a great counterpoint. Yeah. And everything. And then if Shakeel would hear... Were here, he jumped into a tirade about affordable housing. Totally. You know, starter homes more affordable. It's kind
+[2563.0 - 2578.1] Kaycee Headrick: of all all part of the ball of wax. You got it. Like, this all plays together. And so, like, again, yes, birth rates are down, but there are communities in which, they have a vibrant, young youth population or young family population, and they are not closing schools, and it is more affordable
+
+============================================================
+
+#3 (clip_03) 22:20 to 23:23 - "Boulder County childcare would cost $80 million"
+------------------------------------------------------------
+[1339.4 - 1339.8] Kaycee Headrick: community
+[1339.8 - 1353.7] Annie Larner: who need it. Do you think the future, if it goes in, we'll call it the air quote, right direction, is that we are raising tax dollars and publicly subsidizing early childhood care I think... The way we do schools? I don't know that we need to
+[1353.7 - 1388.5] Kaycee Headrick: do it a 100% like we do schools, but I do believe that there needs to be a public support mechanism because this industry is all but broken. Like, it is just, like, the supply doesn't meet the demand. The teachers and and providers aren't making enough money. They're going out of business. Like, it's a market failure. Right? Like, other industries would look at this and say, like, this is a market failure. And so I think the way that we can help is that we can generate local dollars to help, apply it to the pain points, help apply it to families so that they can... To offset their cost of care. Not so that they pay nothing in this case, but that they can pay what they can afford.
+[1388.5 - 1388.8] Annie Larner: Mhmm.
+[1388.8 - 1402.7] Kaycee Headrick: And it doesn't cut into providers and what they need. Right? And so that's what this would do. It also, like I mentioned, it would help to incentivize providers to open more, slots for infant and toddlers so that they can get the building, so that they can rehab the building.
+[1402.7 - 1402.9] Annie Larner: Because
+
+============================================================
+
+#4 (clip_04) 7:21 to 7:58 - "South Dakota cattle ranch to Colorado childcare"
+------------------------------------------------------------
+[440.7 - 452.7] Kaycee Headrick: I, so I... Yeah. I grew up in South Dakota on a cattle ranch. I'm, like, a really good roper, which is odd skill that doesn't transfer, but it transferred well for my siblings who are still, like, on the ranch....
+[452.7 - 456.6] Annie Larner: Cowgirl vibes from you when you came in, by the way. Really? That's so funny. Yeah. I mean, she's good....
+[456.6 - 457.1] Kaycee Headrick: Or something.
+[457.1 - 462.1] Annie Larner: I was like, this girl, it's the confidence, the grounded, like... Totally. I don't know if that's a good thing. No.
+[462.1 - 467.7] Kaycee Headrick: It's good. Especially in today's... You know, it it it... I... Yeah. We'll, TBD if
+[467.7 - 475.7] Annie Larner: it's good. The only other women who've come into this room with such confidence were the rodeo queens. Remember them? They were grounded and poised and
+[475.7 - 477.5] Kaycee Headrick: loved the rodeo queens. All the queens. Yeah.
+[477.5 - 478.3] Annie Larner: They were fantastic.
+[478.3 - 478.3] Kaycee Headrick: Yeah.
+
+============================================================
+
+#5 (clip_05) 38:35 to 39:50 - "People you depend on depend on childcare"
+------------------------------------------------------------
+[2314.9 - 2315.3] Annie Larner: Totally.
+[2315.3 - 2338.5] Kaycee Headrick: I think 1A helps to build systems that supports women and men alike if they need and depend upon childcare. And, you know, we hear this a lot of folks that aren't as excited about 1A as I am or that, as a lot of folks are, which is that I don't depend on childcare, so why should I pay for other people's, you know, children? And and the adage is, like, you might not depend on childcare, but the people that you depend on depend on childcare. I mean,
+[2338.5 - 2390.2] Annie Larner: it goes back to if you really... And this is, I think, my biggest reframe from this conversation is to look at childcare the way that we look at public education, to look at, like, we look at other infrastructure, our electrice... Providing electricity or firefighters or whatever in terms of, like, a public good service, and it's what makes us a better civilization. So I just come back. Like, why haven't why isn't this a 150 year old institution? Because all these other things are. We've believed in public education for a long time, so we've just had a lot longer to establish it. But it's because women work. You know? So we had a cultural revolution a few decades ago, and now women work, and things are really expensive, and women both... You know, both houses in some cases have to work. And we've just evolved. We've changed. And now we have a new need in our... We have a new public need that we haven't necessarily had before. And it's hard to, like, align
+
+============================================================
+
+#6 (clip_06) 5:59 to 6:39 - "Early childhood officially ends at eight years old"
+------------------------------------------------------------
+[358.7 - 359.1] Annie Larner: seven?
+[359.1 - 374.1] Kaycee Headrick: Everybody has a bit of a different, definition of this colloquially, and, like, parents would probably say, like, when they go to kindergarten, that's, like, early, early childhood is done. But I think that Department of Early Childhood in the state of Colorado defines it as up to eight years old.
+[374.1 - 398.5] Annie Larner: Up to eight. Okay. Yeah. You know, someone told me that when my seven year old turned eight, this was a year ago. Now he he just turned nine, but... And I... And it was it just resonated with me because it made all the sense. I mean, there was so much maturity all of a sudden, so much more independence where it was, like, driven by the child, not as much. And I said, yeah. I think that makes a lot of sense. That's a long haul, seven years Mhmm. For early childhood. You need a lot of extra help.
+[398.5 - 398.9] Kaycee Headrick: Yes.
+
+============================================================
+
+#7 (clip_07) 26:37 to 27:10 - "COVID proved health workers need childcare immediately"
+------------------------------------------------------------
+[1597.0 - 1599.6] Annie Larner: So many kids at our school. Their parents do double shifts
+[1599.8 - 1601.0] Kaycee Headrick: Yes. Into the evening, and
+[1601.0 - 1602.2] Annie Larner: there's nothing, of course.
+[1602.3 - 1628.3] Kaycee Headrick: You know, I always I always reference, like, the COVID pandemic. What had to happen for... Before our health professionals got to go to work? We had to set up child care. And the state issued temporary child care licenses, and they got to work faster than we've ever seen them get to work on, issuing these temporary licenses so that childcare providers could get open because that meant that health professionals could get to work because they weren't going to work if they didn't have access
+[1628.3 - 1630.2] Annie Larner: to care. It's an emergency. We can do it today.
+[1630.2 - 1630.5] Kaycee Headrick: Yes.
+
+============================================================
+
+#8 (clip_08) 34:49 to 35:39 - "They called about Ian but this is Owen"
+------------------------------------------------------------
+[2089.1 - 2089.9] Kaycee Headrick: I remember being like
+[2090.2 - 2090.6] Annie Larner: so disruptive.
+[2090.8 - 2096.8] Kaycee Headrick: I'm gonna get fired. I remember often falls on the mother, by the way. Oh, yes. Like, we could have a whole Side Dish about that. Yes.
+[2096.8 - 2100.6] Annie Larner: Doctor, husband. Yes. You're not staying home when I'm looking for child care.
+[2100.6 - 2138.7] Kaycee Headrick: No. No. And, like, we should... Maybe we could talk about that today too. But all that to say, so so... Yeah. So then so then I... The program that we really were excited about called me and said, we have a spot. And and then I should say too, when I got on the wait list, they told me it was gonna be six months to a year. And three months later, they called me, and I was, like, flabbergasted and so excited. And I was like, yes. We'll take the spot. So then we go in to fill out paperwork, and they're like, so this is Ian. Right? And I'm like, no. No. No. This is Owen. And they were like, oh god. So they had the same last name, but, yes, it was an Ian and Owen. So we took Ian's
+[2138.7 - 2139.1] Annie Larner: spot. Smell.
+[2139.1 - 2139.6] Kaycee Headrick: Oh,
+
+============================================================
+
+#9 (clip_09) 12:16 to 12:58 - "When the diaper broke he grabbed the duct tape"
+------------------------------------------------------------
+[735.5 - 735.6] Kaycee Headrick: cool.
+[735.6 - 760.0] Annie Larner: And I like that too. I mean, I wanted them being around. Mhmm. I liked when a teenager came in and, like, you know, blew up the house and made a lot of mistakes. And when the famous story about uncle Michael, who's just a best friend of my husband's that's been around forever, would take them once a week. And, you know, I came home and he was asleep. The the three year old was asleep and had, like, his diaper had been, like, duct taped to go.
+[761.5 - 765.7] Annie Larner: It is amazing. It's amazing. I was like, he's fine. It's Yeah. He's fine. He's alive.
+[765.7 - 766.6] Kaycee Headrick: It's no problem.
+[766.6 - 778.4] Annie Larner: And and it was good for Michael and it's good for the baby. Like, it does not have to all be perfect, you know. But so it was very much... We were kind of off the reservation with our childcare. It was different. But anyway, to answer your question.
+
+============================================================
+
+#10 (clip_10) 2:31 to 3:46 - "Longmont gave every resident a free porch light in 1912"
+------------------------------------------------------------
+[152.6 - 170.3] Annie Larner: lights in front of them, these sort of like lamp lights that are really cool. And my house had one growing up, my little tri level. And so this is what it says. I've been here. Let's see. Someone wrote back, the pedestal lights are part of a long tradition in Longmont. This was a spokesman for the power and communications guy, Scott Rogchat at the Time... At the time. He said that
+[172.0 - 225.8] Annie Larner: nothing... Let's just say, he went historic on me, noting that when Longmont voters allowed the city to build its first municipally municipally owned power plant, the Lyons Hydroelectric Plant that has operated since 1912, the city council showed its appreciation by authorizing a free porch light for every resident. These pedestal lights, funky, are a descendant of those original porch lights and have added benefit... The added benefit of allowing our electric meter readers to do their job without having to come into the backyard. Oh, I didn't know that. It's also an electric meter. Interesting. City began installing these lights in the sixties, coincidentally, when funk funk music was getting its start and continued to do so until the early nineties. Those lights are called pesto lights. The city has so many, about 9,000 of them. Because in the sixties, they transitioned from powering porch lights to installing these lights along the streets. Blah blah blah, so on and so forth. So that's super interesting. They're owned, maintained, and operated by the city. Have you ever seen these?
+[225.9 - 226.2] Kaycee Headrick: I...
+
+============================================================
+
+#11 (clip_11) 15:02 to 15:32 - "This is what school would cost if it were private"
+------------------------------------------------------------
+[902.1 - 903.3] Annie Larner: into it. Right? Mhmm.
+[903.3 - 906.1] Kaycee Headrick: That doesn't exist for kids between the ages of zero to five years old.
+[906.1 - 909.9] Annie Larner: It's almost like this is what it would look like if school is private. It would just be expensive.
+[909.9 - 932.4] Kaycee Headrick: It would be expensive.... Is expensive. Yes. And I mean, I think... Yeah. Exactly. And I think where we are right now is that your access to quality care and education in our community is contingent upon parents' bank accounts. And so what that means is that some of the lowest income and most vulnerable members of our community who need and rely on childcare, they don't have access to it. So why is it more... I have
+[932.4 - 932.5] Annie Larner: a
+
+============================================================
