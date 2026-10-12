@@ -1,0 +1,157 @@
+SIDEDISH LONGMONT - TRANSCRIPT FOR EACH PROPOSED CLIP ONLY
+============================================================
+
+This is exactly what a listener hears in each clip. Check it for a
+misheard word or name, and to confirm the clip makes sense on its own.
+To fix a word: edit transcript_words.json and correct its
+"punctuated_word" value.
+
+============================================================
+
+#1 (clip_01) 28:39 to 29:27 - "Bartender: People Can't Focus Through Ordering A Drink"
+------------------------------------------------------------
+[1718.5 - 1738.4] Andrea Mann: a grounded, like, normal person. He's been in the industry a long time. And he's... I said, what has changed? What have you seen change in the last eight years with the clientele coming into the Sundowner? He's like, well, it's a lot of what you see normally, like, just people going crazy and, like, I've seen every single bodily fluid you can imagine. But he said, one of the biggest changes he's noticed is attention span. 
+[1738.4 - 1738.6] Matt Crutchfield: Mhmm.
+[1738.6 - 1766.5] Andrea Mann: It was funny that he brought that up as a bartender, and I was like, what? How? And he said, I cannot keep their attention as I'm, like, serving a drink. It's like... And I have to ask them over and over again, what do you want this? What do you want that? Like, they'll turn... They'll order something or then get distracted and turn around. And he has to, like, beg them to just pay attention to finish out the transaction from, like, ordering to receiving to paying. Mhmm. And it's, like, painful sometimes where it's driving him crazy at this moment. Yeah. So Wow. I know. Interesting. Even to the bar.
+[1766.5 - 1767.0] Annie Larner: Yeah.
+
+============================================================
+
+#2 (clip_02) 11:22 to 12:11 - "Writers Group Is Like AA For Writers"
+------------------------------------------------------------
+[682.3 - 686.1] Andrea Mann: Because it sounds like AA for writers. You're not too far off.
+[686.1 - 688.5] Matt Crutchfield: There's a lot of, venting.
+[688.6 - 696.7] Andrea Mann: I've been known to say, hello. My name is Andrea. I haven't written in three weeks. So, yeah. It is it is a lot like that sometimes.
+[697.1 - 698.5] Brady Steffl: And get back on the wagon.
+[698.5 - 721.7] Matt Crutchfield: Yeah. Yeah. Yeah. And and it's for people who've not yet been on the wagon. Yeah. I don't know how far we'll take the metaphor, but, yeah, it's, it's for people who are thinking about writing and maybe they never have, or they dabbled some in writing in high school as their creative writing class. They had this really cool world they built, and that's the last thing they did. And maybe they're retired now, and they're wanting to revisit that or create something else.
+[722.4 - 727.8] Brady Steffl: I just got a text that says author's anonymous from one of these guys. AA, author's anonymous.
+[728.0 - 731.2] Matt Crutchfield: Oh, come on. Rise itself. That's good.
+
+============================================================
+
+#3 (clip_03) 25:41 to 26:41 - "When You Mention AI The Knives Come Out"
+------------------------------------------------------------
+[1540.6 - 1540.8] Annie Larner: talk about it.
+[1540.8 - 1554.4] Andrea Mann: We had this discussion twenty minutes ago. Yeah. There... Well, I'll lead with AI for sure. Yeah. That's a big one. And when you mention AI in the writers group, the knives come out.
+[1554.4 - 1554.9] Annie Larner: Yeah. I bet.
+[1554.9 - 1558.1] Andrea Mann: People have very strong feelings.
+[1558.1 - 1558.5] Annie Larner: Yeah, totally.
+[1558.6 - 1563.4] Anndrea Mann: The other thing we were talking about is just reading reading in general.
+[1563.7 - 1600.1] Matt Crutchfield: Yeah. I think that the thought process, the time spent, the intentional effort that goes into reading, whether it's reading a physical book or even just listening to an audiobook, I feel like our culture is moving away from that. And there's a lot of articles that are like, no one's reading anymore. You know, high school students are graduating without being able to read x level. There's a... And so I think for me, my move to Longmont joining the writing group also coincided with reading a book called Amusing Ourselves to Death by Neil Postman, and it was written during the eighties.
+[1600.2 - 1600.7] Andrea Mann: Interesting.
+[1600.8 - 1601.0] Matt Crutchfield: Yeah.
+
+============================================================
+
+#4 (clip_04) 55:26 to 56:41 - "Kill Your Darlings Works As Life Advice"
+------------------------------------------------------------
+[3325.6 - 3326.1] Annie Larner: darlings.
+[3326.7 - 3327.0] Matt Crutchfield: Yeah.
+[3327.0 - 3364.3] Brady Steffl: That's one of his big things. Kill your darlings. So there's stuff that you're gonna like and you think is beautiful or or, like, the craftiest turn of phrase and you're gonna... It's... You're just shoehorning in and you know that. It's, like, run it through the heart. Like, leave it there. Like, it's kill your darlings. So, don't keep something just because you like it. Look for the best thing. And one of the other takeaways from that book is, you say he wrote, wrote, wrote. He wasn't getting anything. And then finally, one of the most useful pieces of feedback he ever got from an editor, because editors seldom... Like, he's, you know, he's sending to a publisher and then they, you know, they they get all rejection letters. And a rejection letter came back and said final draft equals first draft minus 10%.
+[PROPOSED CUT] [3365.5 - 3365.7] Matt Crutchfield: And, you
+[PROPOSED CUT] [3365.7 - 3373.3] Brady Steffl: know, we're set up 20%. And he said, okay. And he's... He just started doing that. He goes, I need to cut the section. So he's... I mean, he's long winded. Mhmm.
+[PROPOSED CUT] [3373.7 - 3373.9] Matt Crutchfield: I I
+[PROPOSED CUT] [3373.9 - 3381.4] Brady Steffl: mean, often beautifully so, but he's... He is very long winded. And so he he said he started doing that, and then, you know, that worked for him. So you have to just... You have to be something
+[3381.5 - 3384.2] Andrea Mann: You sound like some good metaphors for a lot of things in life.
+[3384.2 - 3385.3] Brady Steffl: Yeah. It's just really
+[3385.4 - 3385.7] Andrea Mann: Probably
+[3386.1 - 3387.0] Matt Crutchfield: kill your darlings.
+[3387.5 - 3387.7] Annie Larner: Yeah.
+[3387.7 - 3389.3] Matt Crutchfield: You have to, like, apply it in a different way.
+[3389.3 - 3393.9] Andrea Mann: So many things, like... Yeah. I mean, anything you're building Yeah. Like, or creating Yeah. In your life.
+[3394.0 - 3398.3] Matt Crutchfield: Yeah. If you think it's really amazing and God's gift to the world, it's probably not.
+[3398.3 - 3399.9] Annie Larner: Yeah. Question it. Yeah. Yeah.
+[3400.0 - 3400.8] Matt Crutchfield: Question it for sure.
+[3400.8 - 3400.9] Brady Steffl: Yeah.
+
+============================================================
+
+#5 (clip_05) 4:16 to 5:10 - "January Coffee Owner Set Up His Own Space Years Ago"
+------------------------------------------------------------
+[256.3 - 257.2] Brady Steffl: Making the deals happen.
+[257.2 - 301.0] Andrea Mann: But that... But as a reminder, everyone saw... I was sure that January Coffee, this couple happens to live in Longmont, and they looked at this store years ago when it was for sale thinking, wow, that would be a great coffee shop. Landline ended up moving in. They hired Landline to do the donuts for their wedding. John actually was, at the time, consulting for Ozo. And so when you set up a coffee shop, you hire, like, an Ampersand Coffee or an Ozo or whatever to come in and do your coffee bar and set it all up and help you with training and the beans and blah blah blah. And John Imig himself set up that coffee bar in landline back in 2021 when they did it when they set it all up. So he kind of, like, set it up for himself, you know, five years ago. And then fast forward, they're the ones who've landed in the space. So it's kind of, like, serendipitous and a sweet story.
+[301.0 - 301.1] Matt Crutchfield: Yeah.
+[301.1 - 302.9] Brady Steffl: I wonder if they'll be open on Sundays.
+[303.5 - 304.4] Andrea Mann: Oh, because, Which
+[304.4 - 305.1] Brady Steffl: landline wasn't.
+[305.1 - 310.1] Andrea Mann: Yeah. Yeah. Landline wasn't. I imagine they'll be open on Sundays, and ironically, they're opening in January.
+
+============================================================
+
+#6 (clip_06) 29:27 to 30:22 - "Books Now Written For Shorter Attention Spans"
+------------------------------------------------------------
+[1766.5 - 1785.8] Annie Larner: Yeah. Even to the bar. Well, I think... I know. Books in general, even the look of the pages has changed because I think... And I'm guilty of this also. I'll... If I open up a book and I see that there's three pages of one paragraph, you know, I might schlog through it, but I'm not happy about that.
+[1787.2 - 1797.1] Annie Larner: And so I know a lot of authors are, you know, breaking things up into chunks and chapters are shorter, the books are shorter, and we don't write like
+[1797.2 - 1798.2] Brady Steffl: Well, it's not the seventeenth...
+[1798.5 - 1801.6] Andrea Mann: Dickens. Well, and... Exactly. Yeah. Or even
+[1801.6 - 1802.0] Annie Larner: even There
+[1802.0 - 1807.5] Brady Steffl: was like a point of pride in writing, like, a multi clause kind of just expansive. It's like
+[1807.7 - 1808.0] Matt Crutchfield: A lot
+[1808.0 - 1808.1] Andrea Mann: of them
+[1808.1 - 1812.1] Matt Crutchfield: will get paid by the word, and so that's why you see so much of that wordiness. Interesting.
+[1812.2 - 1812.7] Andrea Mann: Yeah.
+[1813.1 - 1817.3] Matt Crutchfield: So they would get paid by the word, and so they would get more if it was longer. So they would be like I don't know, man.
+[1817.3 - 1821.8] Andrea Mann: Oh my gosh. Now you get... We'd start with a tweet. The the perfected tweet.
+[1821.8 - 1821.9] Brady Steffl: I
+
+============================================================
+
+#7 (clip_07) 48:57 to 49:54 - "Read What Your Favorite Authors Are Reading"
+------------------------------------------------------------
+[2936.6 - 2936.7] Matt Crutchfield: of
+[2936.7 - 2937.8] Andrea Mann: various things.
+[2937.8 - 2962.1] Matt Crutchfield: Yeah. So I rely on that. New York Times also does, a list, and I realize that I'm, like, saying I use listicles essentially, but they do they do come in handy for me, especially with contemporary stuff, to kinda narrow down. The other thing that I've done is I will go and find... If I find an author I really like, I will use Wikipedia and the Internet to look for what they read. So Oh,
+[2962.1 - 2962.9] Andrea Mann: that's a great idea.
+[2963.1 - 2971.5] Matt Crutchfield: Ursula k Le Guin is one of my favorite writers. And then I've gone and... Okay. What did she what is she given in interviews about, like, what's influential for
+[2971.5 - 2972.0] Andrea Mann: her writing.
+[2972.0 - 2975.7] Annie Larner: Yeah. If you can read what your favorite authors are reading. That's great.
+[2976.0 - 2983.1] Andrea Mann: Yeah. Any parting thoughts about the Longmont Library and the writing community in Longmont specifically?
+[2984.3 - 2993.8] Annie Larner: Yeah. I think, Longmont has a vibrant writing community. So it's not just the Longmont Writers Group, which we should say is very welcoming and
+
+============================================================
+
+#8 (clip_08) 49:54 to 51:06 - "Every Writing Event In Longmont Right Now"
+------------------------------------------------------------
+[2993.5 - 2993.8] Annie Larner: and
+[2993.9 - 2994.0] Matt Crutchfield: Mhmm.
+[2994.2 - 2996.2] Annie Larner: We have people to come and check us out.
+[2996.2 - 2997.1] Brady Steffl: What do you meet?
+[2997.1 - 3000.8] Annie Larner: We meet Monday nights, six to 07:30.
+[3000.8 - 3001.2] Matt Crutchfield: K.
+[3001.2 - 3004.6] Annie Larner: So whenever the library is open on a Monday, we're there.
+[3004.6 - 3011.6] Matt Crutchfield: Yeah. You don't have to register or anything. Like, people just walk in. Just show up. It's fine if you walk in like you don't know where you're going. We'll Yeah. Say hi and...
+[3011.6 - 3014.3] Brady Steffl: It's a bunch of book people. That's just normal. Like a... There are
+[3014.3 - 3014.8] Andrea Mann: a couple of...
+[PROPOSED CUT] [3014.8 - 3021.5] Brady Steffl: No. It's not like I'm not a book person. Oh, it's almost, it's like... I was like, it's not like switching to snow. Everybody's...
+[PROPOSED CUT] [3021.5 - 3021.6] Matt Crutchfield: No.
+[PROPOSED CUT] [3021.6 - 3025.3] Annie Larner: It was someone standing and kind of shifting from foot to foot. I was like, come
+[3025.3 - 3026.4] Andrea Mann: on in. Come on in.
+[3026.4 - 3065.2] Annie Larner: It was just fine. But there's also, at the firehouse every last Friday of the month, there's, open mic so you can go and read something that you've written. Interesting. There's writer's workshop every third Friday at the firehouse with different topics. And then we've also started through the writers group. We like to call it shut up and read... Or shut up and write. So it's at Luna every third Tuesday, and they graciously open it up to the group. And you can get your coffee and sit in the coffee shop and just shut up and write.
+[3065.2 - 3065.5] Brady Steffl: Mhmm.
+
+============================================================
+
+#9 (clip_09) 41:58 to 42:45 - "He Handwrites His First Drafts In A Notebook"
+------------------------------------------------------------
+[2518.2 - 2531.9] Matt Crutchfield: I I I can't say that I am because I don't know exactly their productivity level, but I do handwrite my first drafts. Wow. And so that allows me to kind of be messy
+[2532.1 - 2532.4] Andrea Mann: Mhmm.
+[2533.2 - 2564.0] Matt Crutchfield: And, like, cross things out, circle things, write in the margin, come back to this with an arrow, you know, some expletives maybe if it's going particularly poorly at the time. So I think that does help me get it, like you said, get it out onto paper. The typing, the word processor, the the blinking screen or the blank screen with the blinking cursor does not... I I struggle with the the first draft of that. And so for me, that can be messy in a notebook, and then when I type it, I'm, like, editing it as I type.
+[2564.6 - 2564.8] Annie Larner: I
+
+============================================================
+
+#10 (clip_10) 52:05 to 52:40 - "The Oxford Comma Debate At Writers Group"
+------------------------------------------------------------
+[3125.1 - 3125.2] Brady Steffl: Can
+[3125.2 - 3126.5] Andrea Mann: you start a sentence with and?
+[3126.5 - 3127.0] Brady Steffl: But...
+[3127.6 - 3128.1] Matt Crutchfield: Yes.
+[3128.1 - 3129.1] Annie Larner: Yes. You can.
+[3129.9 - 3138.9] Brady Steffl: You can do... I... Okay. My take is you can do whatever the hell you want. Just be pretty self consistent. Like, just just do that. People figure it out. That's, like, why people ask or
+[3138.9 - 3140.9] Andrea Mann: do not use the Oxford comma. Always.
+[3140.9 - 3144.5] Brady Steffl: I always use the Oxford comma. Always. Always. Always?
+[3144.5 - 3147.0] Andrea Mann: I don't. It's it's repetitive. Right. It's unnecessary.
+[3147.0 - 3151.3] Brady Steffl: Get out of here. I... We've been doing this for seven years. I guess I gotta shut it down. This is
+[3151.3 - 3159.1] Annie Larner: just getting Think of how many millions of paper has been wasted on the Oxford comma collectively. Oh my gosh.
+
+============================================================

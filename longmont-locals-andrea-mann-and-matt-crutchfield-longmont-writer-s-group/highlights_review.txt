@@ -1,0 +1,304 @@
+SIDEDISH LONGMONT - CLIP SHORTLIST (before rendering)
+============================================================
+
+Episode: Longmont Locals: Andrea Mann and Matt Crutchfield, Longmont Writer's Group
+Claude proposed 10 clip(s), strongest first, from the topics you picked:
+T5 [Must clip] What is the Longmont Writers Group? (10:46 to 17:56)
+T9 [Must clip] Threats to writing: AI and declining reading habits (25:41 to 29:27)
+T10 [Must clip] How books have changed: shorter chapters and paragraphs (29:27 to 31:34)
+T14 [Must clip] Writing process: handwriting vs. typing, editing habits (42:45 to 44:04)
+T16 [Must clip] How to pick a good book at the library (46:39 to 49:54)
+T18 [Must clip] Writing advice: rules, style guides, and Stephen King (51:41 to 56:41)
+T3 [Maybe] January Coffee announcement in former Landline space (3:27 to 5:48)
+T6 [Maybe] Children's book writing challenges and illustration (17:56 to 20:58)
+T7 [Maybe] Favorite children's books and audiobook narration (20:58 to 23:57)
+T8 [Maybe] How the writers group functions: support vs. critique (23:57 to 25:41)
+T13 [Maybe] How Matt and Andrea started writing (36:49 to 42:45)
+T17 [Maybe] Longmont writing community events and library love (49:54 to 51:41)
+
+Before rendering, open highlights.json and delete any clips you don't want.
+You can also change a clip's start_time/end_time (seconds) or its hook
+(the on-screen headline). Proposed internal cuts are listed below but are
+NOT applied by the render script yet.
+
+To fix a misheard word or name in captions: check clips_transcript.txt,
+then correct that word's "punctuated_word" in transcript_words.json.
+
+Save both JSON files into output/longmont-locals-andrea-mann-and-matt-crutchfield-longmont-writer-s-group/ and run your normal
+pipeline command WITHOUT --review.
+
+============================================================
+
+#1 (clip_01) Bartender says attention spans now failing during drink orders
+Status: Ready to use
+Time: 28:39 to 29:27 (47.9s)
+Topic: T9. Threats to writing: AI and declining reading habits
+Hook / headline: Bartender: People Can't Focus Through Ordering A Drink
+Opening line: "I sat down with a guy at a wedding last week who is... He's been a bartender at the Sundowner in Boulder for eight years."
+Speakers: Andrea Mann, Matt Crutchfield
+Why it works: Vivid, specific anecdote about declining attention spans that surprises and lands. The bartender's observation that customers can't maintain focus through ordering a drink is both absurd and concerning. Longmont-adjacent (Boulder), timely cultural commentary, and very quotable.
+Editing notes: None needed. Story is complete and tight at 48 seconds.
+Transcript excerpt:
+  "I sat down with a guy at a wedding last week who is... He's been a bartender at the Sundowner in Boulder for eight years. This is, like, one of the last serious dive bars in Boulder on Pearl Street Mall, and it stays open till, like, two. And, like, it is we call the scum downer. Right? It's just awesomely scummy. Anyway, go on. Tell me. And he was a grounded, like, normal person. He's been in the industry a long time. And, he's... I said, what has changed? What have you seen change in the last eight years with the clientele coming into the sundowner? He's like, well, it's a lot of what you see normally, like, just people going crazy and, like, I've seen every single bodily fluid you can imagine. But he said, one of the biggest changes he's noticed is attention span. Mhmm.
+
+Matt Crutchfield: It was
+
+Andrea Mann: funny that he brought that up as a bartender, and I was like, what? How? And he said, I cannot keep their attention as I'm, like, serving a drink. It's like... And I have to ask them over and over again, what do you want this? What do you want that? Like, they'll turn... They'll order something or then get distracted and turn around. And he has to, like, beg them to just pay attention to finish out the transaction from, like, ordering to receiving to paying. Mhmm. And it's, like, painful sometimes where it's driving him crazy at this moment. Yeah. So Wow. I know. Interesting. Even to the bar."
+------------------------------------------------------------
+
+#2 (clip_02) Authors Anonymous: Longmont Writers Group explained
+Status: Ready to use
+Time: 11:22 to 12:11 (48.9s)
+Topic: T5. What is the Longmont Writers Group?
+Hook / headline: Writers Group Is Like AA For Writers
+Opening line: "a collective of people who... Honestly, it's kind of a revolving door of of people who come when their schedules allow."
+Speakers: Matt Crutchfield, Andrea Mann, Annie Larner, Brady Steffl
+Why it works: The Authors Anonymous comparison is memorable and funny. Establishes what the writers group is with warmth and humor. Clear Longmont hook with practical information about a local resource. Andrea's line 'hello, my name is Andrea, I haven't written in three weeks' delivers the promised moment.
+Editing notes: Clean 49-second clip. Could start slightly earlier at 'What is a writers group' (667.4) for more context if needed, but current start works.
+Transcript excerpt:
+  "a collective of people who... Honestly, it's kind of a revolving door of of people who come when their schedules allow. It's a support group, I think, more than anything else.
+
+Andrea Mann: Because it sounds like AA for writers. You're not too far off.
+
+Matt Crutchfield: There's a lot of, venting.
+
+Annie Larner: I've been known to say, hello. My name is Andrea. I haven't written in three weeks. So, yeah. It is it is a lot like that sometimes.
+
+Brady Steffl: And get back on the wagon.
+
+Matt Crutchfield: Yeah. Yeah. Yeah. And and it's for people who've not yet been on the wagon. Yeah. I don't know how far we'll take the metaphor, but, yeah, it's, it's for people who are thinking about writing and maybe they never have, or they dabbled some in writing in high school as their creative writing class. They had this really cool world they built, and that's the last thing they did. And maybe they're retired now, and they're wanting to revisit that or create something else.
+
+Brady Steffl: I just got a text that says author's anonymous from one of these guys. AA, author's anonymous.
+
+Matt Crutchfield: Oh, come on. Rise itself. That's good.
+
+Andrea Mann: Love that."
+------------------------------------------------------------
+
+#3 (clip_03) AI brings out the knives in writers group
+Status: Ready to use
+Time: 25:41 to 26:41 (60s)
+Topic: T9. Threats to writing: AI and declining reading habits
+Hook / headline: When You Mention AI The Knives Come Out
+Opening line: "So what do you guys think are some of the, like, new threats to writing right now?"
+Speakers: Andrea Mann, Annie Larner, Matt Crutchfield
+Why it works: The visceral 'knives come out' line is striking and quotable. Timely topic about AI threatening creative work. Shows passion within the Longmont writing community. Under 60 seconds and delivers on the hook.
+Editing notes: Clean segment, no cuts needed. Duration approximately 60 seconds.
+Transcript excerpt:
+  "So what do you guys think are some of the, like, new threats to writing right now? I mean, I think there's so many, but maybe just pick a a few of your favorite pets' theories and talk about it.
+
+Annie Larner: This discussion twenty minutes ago. Yeah. There... Well, I'll lead with AI for sure. Yeah. That's a big one. And when you mention AI in the writers group, the knives come out.
+
+Andrea Mann: Yeah. I bet.
+
+Annie Larner: People have very strong feelings Yeah. Totally. About that. The other thing we were talking about is just reading reading in general.
+
+Matt Crutchfield: Yeah. I think that the thought process, the time spent, the intentional effort that goes into reading, whether it's reading a physical book or even just listening to an audiobook, I feel like our culture is moving away from that."
+------------------------------------------------------------
+
+#4 (clip_04) Kill your darlings as life advice
+Status: Needs Haley's review
+Time: 55:26 to 56:41 (37.3s)
+Topic: T18. Writing advice: rules, style guides, and Stephen King
+Hook / headline: Kill Your Darlings Works As Life Advice
+Opening line: "That's one of his big things. Kill your darlings."
+Speakers: Brady Steffl, Andrea Mann, Matt Crutchfield, Annie Larner
+Why it works: Stephen King's writing advice becomes broader life wisdom. The 'kill your darlings' phrase is visceral and memorable. Andrea explicitly makes the connection to life beyond writing, and the group runs with it. Quotable, philosophical, and the metaphor lands. 75 seconds needs trimming.
+Editing notes: Needs internal cut to get under 60 seconds. Could remove the middle section about King's rejection letters and the minus 10% formula (3344-3381) to tighten focus on the 'kill your darlings' metaphor and life advice conclusion.
+Proposed cut: remove 55:44 to 56:21 (Remove the tangent about rejection letters and final draft formula to keep focus on 'kill your darlings' and get under 60 seconds)
+Transcript excerpt:
+  "That's one of his big things. Kill your darlings. So there's stuff that you're gonna like and you think is beautiful or or, like, the craftiest turn of phrase and you're gonna... It's... You're just shoehorning in and you know that. It's, like, run it through the heart. Like, leave it there. Like, it's kill your darlings. So, don't keep something just because you like it. Look for the best thing. And one of the other takeaways from that book is, you say he wrote, wrote, wrote. He wasn't getting anything. And then finally, one of the most useful pieces of feedback he ever got from an editor, because editors seldom... Like, he's, you know, he's sending to a publisher and then they, you know, they they get all rejection letters. And a rejection letter came back and said final draft equals first draft minus 10%.
+
+Matt Crutchfield: And, you
+
+Brady Steffl: know, we're set up 20%. And he said, okay. And he's... He just started doing that. He goes, I need to cut the section. So he's... I mean, he's long winded. Mhmm.
+
+Matt Crutchfield: I I
+
+Brady Steffl: mean, often beautifully so, but he's... He is very long winded. And so he he said he started doing that, and then, you know, that worked for him. So you have to just... You have to be something
+
+Andrea Mann: You sound like some good metaphors for a lot of things in life.
+
+Brady Steffl: Yeah. It's just really
+
+Andrea Mann: Probably
+
+Matt Crutchfield: kill your darlings.
+
+Andrea Mann: So many things, like... Yeah. I mean, anything you're building Yeah. Like, or creating Yeah. In your life.
+
+Matt Crutchfield: Yeah. If you think it's really amazing and God's gift to the world, it's probably not.
+
+Annie Larner: Yeah. Question it. Yeah. Yeah.
+
+Matt Crutchfield: Question it for sure."
+------------------------------------------------------------
+
+#5 (clip_05) January Coffee's serendipitous Longmont story
+Status: Ready to use
+Time: 4:16 to 5:10 (53.8s)
+Topic: T3. January Coffee announcement in former Landline space
+Hook / headline: January Coffee Owner Set Up His Own Space Years Ago
+Opening line: "But that... But as a reminder, everyone saw... I was sure that January Coffee, this couple happens to live in Longmont"
+Speakers: Andrea Mann, Brady Steffl
+Why it works: Timely Longmont business news with a genuinely interesting backstory. The serendipity of John Imig setting up the coffee bar for himself years in advance is charming. Evidence of Boulder-to-Longmont movement. 54 seconds, ready to go.
+Editing notes: Clean clip, complete story arc with natural ending about opening in January.
+Transcript excerpt:
+  "But that... But as a reminder, everyone saw... I was sure that January Coffee, this couple happens to live in Longmont, and they looked at this store years ago when it was for sale thinking, wow, that would be a great coffee shop. Landline ended up moving in. They hired Landline to do the donuts for their wedding. John actually was, at the time, consulting for Ozo. And so when you set up a coffee shop, you hire, like, an Ampersand Coffee or an Ozo or whatever to come in and do your coffee bar and set it all up and help you with training and the beans and blah blah blah. And John Imig himself set up that coffee bar in landline back in 2021 when they did it when they set it all up. So he kind of, like, set it up for himself, you know, five years ago. And then fast forward, they're the ones who've landed in the space. So it's kind of, like, serendipitous and a sweet story.
+
+Matt Crutchfield: Yeah.
+
+Brady Steffl: I wonder if they'll be open on Sundays.
+
+Andrea Mann: Oh, because, Which
+
+Brady Steffl: landline wasn't.
+
+Andrea Mann: Yeah. Yeah. Landline wasn't. I imagine they'll be open on Sundays, and ironically, they're opening in January."
+------------------------------------------------------------
+
+#6 (clip_06) Books are changing: shorter chapters, shorter paragraphs
+Status: Ready to use
+Time: 29:27 to 30:22 (55.3s)
+Topic: T10. How books have changed: shorter chapters and paragraphs
+Hook / headline: Books Now Written For Shorter Attention Spans
+Opening line: "Yeah. Even to the bar. Well, I think... I know. Books in general, even the look of the pages has changed"
+Speakers: Annie Larner, Brady Steffl, Andrea Mann, Matt Crutchfield
+Why it works: Follows naturally from the bartender attention span story. Shows how attention spans are literally changing the structure of books. The contrast between Dickens getting paid by the word and modern 'perfected tweet' is stark. Cultural commentary that feels timely.
+Editing notes: 55 seconds, flows well. Could benefit from starting at 'Books in general' to remove 'Even to the bar' callback.
+Transcript excerpt:
+  "Yeah. Even to the bar. Well, I think... I know. Books in general, even the look of the pages has changed because I think... And I'm guilty of this also. I'll... If I open up a book and I see that there's three pages of one paragraph, you know, I might schlog through it, but I'm not happy about that.
+
+Annie Larner: And so I know a lot of authors are, you know, breaking things up into chunks and chapters are shorter, the books are shorter, and we don't write like
+
+Brady Steffl: Well, it's not the seventeenth...
+
+Andrea Mann: Dickens. Well, and... Exactly. Yeah. Or even
+
+Annie Larner: even There
+
+Brady Steffl: was like a point of pride in writing, like, a multi clause kind of just expansive. It's like
+
+Matt Crutchfield: A lot
+
+Andrea Mann: of them
+
+Matt Crutchfield: will get paid by the word, and so that's why you see so much of that wordiness. Interesting.
+
+Andrea Mann: Yeah.
+
+Matt Crutchfield: So they would get paid by the word, and so they would get more if it was longer. So they would be like I don't know, man.
+
+Andrea Mann: Oh my gosh. Now you get... We'd start with a tweet. The the perfected tweet.
+
+Brady Steffl: I think, like,
+
+Andrea Mann: so few characters."
+------------------------------------------------------------
+
+#7 (clip_07) How to pick a good book: follow favorite authors
+Status: Ready to use
+Time: 48:57 to 49:54 (57.1s)
+Topic: T16. How to pick a good book at the library
+Hook / headline: Read What Your Favorite Authors Are Reading
+Opening line: "Yeah. So I rely on that. New York Times also does, a list"
+Speakers: Matt Crutchfield, Andrea Mann, Annie Larner
+Why it works: Practical, actionable advice. The Ursula K. Le Guin example makes it concrete. Applicable beyond just writers - anyone who reads. Under 60 seconds and delivers useful information.
+Editing notes: 57 seconds. Clean clip with useful takeaway. Ends with natural transition to Longmont community.
+Transcript excerpt:
+  "Yeah. So I rely on that. New York Times also does, a list, and I realize that I'm, like, saying I use listicles essentially, but they do they do come in handy for me, especially with contemporary stuff, to kinda narrow down. The other thing that I've done is I will go and find... If I find an author I really like, I will use Wikipedia and the Internet to look for what they read. So Oh,
+
+Andrea Mann: that's a great idea.
+
+Matt Crutchfield: Ursula k Le Guin is one of my favorite writers. And then I've gone and... Okay. What did she what is she given in interviews about, like, what's influential for her writing.
+
+Andrea Mann: her writing.
+
+Annie Larner: Yeah. If you can read what your favorite authors are reading. That's great.
+
+Andrea Mann: Yeah. Any parting thoughts about the Longmont Library and the writing community in Longmont specifically?"
+------------------------------------------------------------
+
+#8 (clip_08) Complete guide to Longmont writing community
+Status: Needs Haley's review
+Time: 49:54 to 51:06 (59.6s)
+Topic: T17. Longmont writing community events and library love
+Hook / headline: Every Writing Event In Longmont Right Now
+Opening line: "Yeah. I think, Longmont has a vibrant writing community."
+Speakers: Annie Larner, Brady Steffl, Matt Crutchfield
+Why it works: Comprehensive list of local writing resources - extremely useful for Longmont audience. Clear times, locations, and formats. 'Shut up and write' is a fun phrase. Strong community/third space content. 72 seconds - needs trimming.
+Editing notes: Needs internal cut. Could remove the self-conscious banter about book people (3014-3026) to focus on the event listings and get under 60 seconds.
+Proposed cut: remove 50:14 to 50:26 (Remove tangent about book people being awkward to tighten focus on event listings and get under 60 seconds)
+Transcript excerpt:
+  "Yeah. I think, Longmont has a vibrant writing community. So it's not just the Longmont Writers Group, which we should say is very welcoming and
+
+Matt Crutchfield: Mhmm.
+
+Annie Larner: We have people to come and check us out.
+
+Brady Steffl: What do you meet?
+
+Annie Larner: We meet Monday nights, six to 07:30.
+
+Matt Crutchfield: K.
+
+Annie Larner: So whenever the library is open on a Monday, we're there.
+
+Matt Crutchfield: Yeah. You don't have to register or anything. Like, people just walk in. Just show up. It's fine if you walk in like you don't know where you're going. We'll Yeah. Say hi and...
+
+Brady Steffl: It's a bunch of book people. That's just normal. Like a... There are
+
+Andrea Mann: a couple of...
+
+Brady Steffl: No. It's not like I'm not a book person. Oh, it's almost, it's like... I was like, it's not like switching to snow. Everybody's...
+
+Matt Crutchfield: No.
+
+Annie Larner: It was someone standing and kind of shifting from foot to foot. I was like, come
+
+Andrea Mann: on in. Come on in.
+
+Annie Larner: It was just fine. But there's also, at the firehouse every last Friday of the month, there's, open mic so you can go and read something that you've written. Interesting. There's writer's workshop every third Friday at the firehouse with different topics. And then we've also started through the writers group. We like to call it shut up and read... Or shut up and write. So it's at Luna every third Tuesday, and they graciously open it up to the group. And you can get your coffee and sit in the coffee shop and just shut up and write."
+------------------------------------------------------------
+
+#9 (clip_09) Handwriting messy first drafts then editing while typing
+Status: Needs a better cut
+Time: 41:58 to 42:45 (46.4s)
+Topic: T14. Writing process: handwriting vs. typing, editing habits
+Hook / headline: He Handwrites His First Drafts In A Notebook
+Opening line: "I I I can't say that I am because I don't know exactly their productivity level, but I do handwrite my first drafts."
+Speakers: Matt Crutchfield, Andrea Mann
+Why it works: Concrete, practical writing advice. The contrast between messy handwritten drafts and clean typing resonates. The blinking cursor metaphor is relatable for anyone who's stared at a blank screen. Under 60 seconds.
+Editing notes: 46 seconds. Opening line is awkward - could start at 'but I do handwrite' (2529.2) for cleaner entry. Otherwise ready.
+Transcript excerpt:
+  "I I I can't say that I am because I don't know exactly their productivity level, but I do handwrite my first drafts. Wow. And so that allows me to kind of be messy
+
+Andrea Mann: Mhmm.
+
+Matt Crutchfield: And, like, cross things out, circle things, write in the margin, come back to this with an arrow, you know, some expletives maybe if it's going particularly poorly at the time. So I think that does help me get it, like you said, get it out onto paper. The typing, the word processor, the the blinking screen or the blank screen with the blinking cursor does not... I I struggle with the the first draft of that. And so for me, that can be messy in a notebook, and then when I type it, I'm, like, editing it as I type."
+------------------------------------------------------------
+
+#10 (clip_10) Oxford comma debate gets passionate
+Status: Ready to use
+Time: 52:05 to 52:40 (35.1s)
+Topic: T18. Writing advice: rules, style guides, and Stephen King
+Hook / headline: The Oxford Comma Debate At Writers Group
+Opening line: "You can do whatever the hell you want. Just be pretty self consistent."
+Speakers: Brady Steffl, Andrea Mann, Annie Larner, Matt Crutchfield
+Why it works: The passionate, playful disagreement is fun. Brady's 'I guess I gotta shut it down' after 7 years is genuinely funny. Annie's line about wasted paper is a good comedic beat. Shows personality and the group dynamic.
+Editing notes: 35 seconds - could be expanded slightly or used as a short teaser. Delivers on the promised Oxford comma debate.
+Transcript excerpt:
+  "You can do whatever the hell you want. Just be pretty self consistent. Like, just just do that. People figure it out. That's, like, why people ask or
+
+Andrea Mann: do not use the Oxford comma. Always.
+
+Brady Steffl: I always use the Oxford comma. Always. Always. Always?
+
+Andrea Mann: I don't. It's it's repetitive. Right. It's unnecessary.
+
+Brady Steffl: Get out of here. I... We've been doing this for seven years. I guess I gotta shut it down. This is
+
+Annie Larner: just getting Think of how many millions of paper has been wasted on the Oxford comma collectively. Oh my gosh.
+
+Matt Crutchfield: Yeah. I I I hear the, like, do it, just be consistent. I've also heard that know the rules and the mechanics of writing, and then you can kind of break them."
+------------------------------------------------------------
