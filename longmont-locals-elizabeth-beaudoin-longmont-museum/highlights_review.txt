@@ -1,0 +1,269 @@
+SIDEDISH LONGMONT - CLIP SHORTLIST (before rendering)
+============================================================
+
+Episode: Longmont Locals: Elizabeth Beaudoin, Longmont Museum
+Claude proposed 10 clip(s), strongest first, from the topics you picked:
+T3 [Must clip] Double murder at the Civic Center in the 1980s (5:11 to 9:30)
+T6 [Must clip] Victorian homes and the architecture of haunted houses (13:27 to 16:00)
+T7 [Must clip] Callahan House haunted by Alice Callahan (16:00 to 19:40)
+T9 [Must clip] Imperial Hotel ghosts and Java Stop newspaper reader (21:05 to 23:39)
+T11 [Must clip] KKK leader's house and exorcism story (25:53 to 37:20)
+T4 [Maybe] Old City Hall and the mean shovel-throwing ghost (9:30 to 12:39)
+T5 [Maybe] Modern ghosts and the nature of hauntings (12:39 to 13:27)
+T8 [Maybe] Shorty the barber ghost with mutton chops (19:40 to 21:05)
+T10 [Maybe] Halloween movie recommendations digression (23:39 to 25:53)
+
+Before rendering, open highlights.json and delete any clips you don't want.
+You can also change a clip's start_time/end_time (seconds) or its hook
+(the on-screen headline). Proposed internal cuts are listed below but are
+NOT applied by the render script yet.
+
+To fix a misheard word or name in captions: check clips_transcript.txt,
+then correct that word's "punctuated_word" in transcript_words.json.
+
+Save both JSON files into output/longmont-locals-elizabeth-beaudoin-longmont-museum/ and run your normal
+pipeline command WITHOUT --review.
+
+============================================================
+
+#1 (clip_01) Double murder at Civic Center - Only two years in prison
+Status: Needs a better cut
+Time: 6:13 to 7:11 (57.2s)
+Topic: T3. Double murder at the Civic Center in the 1980s
+Hook / headline: Longmont Civic Center murderer got two years, earned master's degree in prison
+Opening line: "Woah. Okay. These are always good for, like... I don't wanna be like, yeah. But that that always makes for good ghost story."
+Speakers: Brady Steffl, Elizabeth Beaudoin
+Why it works: Shocking local history with a strong narrative hook. The Civic Center is a familiar Longmont building and the detail about the murderer getting only two years is genuinely surprising. The story is complete enough to work as a standalone teaser.
+Editing notes: This excerpt sets up the double murder but cuts before the shocking two-year sentence detail. Need to extend to include that payoff.
+Transcript excerpt:
+  "Woah. Okay. These are always good for, like... I don't wanna be like, yeah. But that that always makes for good ghost story.
+
+Oh, yeah. Right? I mean, just this alone. There's still a lot of people alive who remember this because this was in the early nineteen eighties. So what happened is you had...
+
+Everyone in this story is, I think, in their early thirties or so, age wise. You had, a young woman who worked for the city of Longmont. She had recently left her husband, had moved out, had entered into a new relationship with a coworker, who also worked for the city. And one day in the middle of the workday, the estranged husband came with a gun. Oh. They went into a conference room. I don't think they knew when they went to the conference room that he was armed. And he was saying all kinds of,
+
+mean things and and and saying
+
+he's If he showed up with a gun, he was probably, yeah, willing to let loose with a few Right.
+
+So phrases. Her, the ex wife, and and her new boyfriend, and the ex husband are all in this conference room. And, he's threatening suicide with the gun, allegedly saying he was threatening suicide with the gun."
+------------------------------------------------------------
+
+#2 (clip_02) Civic Center murderer - Master's degree while serving two years
+Status: Needs a better cut
+Time: 7:39 to 8:46 (67.7s)
+Topic: T3. Double murder at the Civic Center in the 1980s
+Hook / headline: 1980s Civic Center double murderer served two years, got master's at CSU
+Opening line: "The wild thing about this story is, from what I could tell, this gentleman, this murderer, got only two years in prison."
+Speakers: Elizabeth Beaudoin, Brady Steffl
+Why it works: This is the shocking payoff from the double murder story - the detail that he only served two years AND got a master's degree at CSU while incarcerated. Brady's deadpan 'what was his master's in?' at the end is perfect. Strong Longmont history moment that works even without the full setup.
+Editing notes: Could work as is, though it references 'this story' at the start. Listeners will understand it's about a murderer from context. The 60-second limit works perfectly here. Runs 68s, over the 60s max.
+Transcript excerpt:
+  "The wild thing about this story is, from what I could tell, this gentleman, this murderer, got only two years in prison.
+
+Woah.
+
+Yeah. But I guess that was newsworthy enough. I was like, what was wrong in the nineteen eighties? But newsworthy enough that that's that's where the story went in terms of, like, you don't find out what happened to the woman afterward. You know? Did she move out of Longmont? Did she move on?
+
+Mhmm.
+
+But you... What the newspaper continued to cover was, so this gentleman had, gotten early... Not early release, but he had gotten permission to go to CSU, and get his master's degree while he was in prison within, like, a year of being there. So it hadn't been very much time. And then I think he actually got out with, like, parole within, like, two years or something. Wow. He had pled insanity that, his wife leaving him had driven him crazy and just couldn't handle it anymore and that his... He meant to kill himself there, but ended up killing these two
+
+other folks. Pointed the gun the wrong way. That's what happens when you're insane, I guess. Okay. That's weird.
+
+So that might be a reason why the building's haunted.
+
+Do do we... The big question is, do we know what his master's degree was in?"
+------------------------------------------------------------
+
+#3 (clip_03) KKK leader's house exorcised for Irish Catholic family
+Status: Needs Haley's review
+Time: 33:19 to 34:18 (59.3s)
+Topic: T11. KKK leader's house and exorcism story
+Hook / headline: Irish Catholic family exorcised Longmont KKK leader's house before moving in
+Opening line: "the family that the Boulder County Fairgrounds is named after, ended up buying in."
+Speakers: Elizabeth Beaudoin, Brady Steffl
+Why it works: The irony is perfect - an Irish Catholic family buying and exorcising the KKK leader's house. Brady's joke about 'precautionary exorcism' like home maintenance is funny. Strong local history with a satisfying twist.
+Editing notes: Opening is a little weak with the quiz format. Could start at 2011.3 'It's Irish' to jump right into the story, but loses some context about who bought it.
+Transcript excerpt:
+  "the family that the Boulder County Fairgrounds is named after, ended up buying in. Anyone? Anyone? They were important politicians.
+
+The Boulder family? I just I just It's an Irish name.
+
+It's Irish. So they're an Irish family. They pushed it... Purchased this house for a song and... But they knew the history of it. And it was empty for a long time they had it exercised before they moved in.
+
+Oh, so they said, just a little preventative maintenance. You know? We're gonna get... Probably, we should get the floors redone
+
+Mhmm.
+
+Just to have a precautionary exorcism.
+
+And this story, of course, comes from, you know,
+
+Arnold Turner told me this. He has a real estate agent, agency on, Kaufman. Yeah. Yeah. He's... He was... You know, in the... When he moved, he helped move the house. And so there were still people around who remembered that era and said this was a story that he was told. So it's not something from the newspaper.
+
+Did they say that there was any ghost activity? Is that why, in theory, that sat so long? They don't know.
+
+Yeah. I... They certainly would have known who owned that home before. And doctor Charles Andrew was not a healthy person. He had a lot of health issues. He had basically unchecked diabetes that was causing a leaking habit. I think he died in his late forties or early fifties. He died pretty young."
+------------------------------------------------------------
+
+#4 (clip_04) Alice Callahan - First car owner in Longmont
+Status: Needs a better cut
+Time: 16:05 to 17:13 (68.5s)
+Topic: T7. Callahan House haunted by Alice Callahan
+Hook / headline: Callahan House ghost was first person in Longmont to own and drive a car
+Opening line: "Yeah. The Callahan House is thought to be haunted by Alice Callahan."
+Speakers: Elizabeth Beaudoin, Brady Steffl
+Why it works: Great Longmont history - Alice Callahan as a progressive woman who owned the first car in town while her husband had no interest in driving. The ghost story frame makes it engaging, and the historical detail is specific and interesting.
+Editing notes: Clean narrative arc. Could trim the tax/gifting detail to focus on the car story, but it adds context about who Alice was. Runs 69s, over the 60s max.
+Transcript excerpt:
+  "Yeah. The Callahan House is thought to be haunted by Alice Callahan.
+
+Oh, I like the specificity in this one.
+
+Yeah. There's... Well, maybe. Basically, a woman in white has been seen, and there hasn't... Really, the Callahans were the... Well, the Sweenies owned it for, like, two years, and then the Callahans moved in. But they were really the only family there. They only had one child who moved to California. And in the nineteen thirties, during that time in which they would have had to pay lots of taxes on this home if they sold it Mhmm. They gifted it to the city as a meeting space for for groups. So it really didn't transfer any ownership. So Alice makes the most sense. She was definitely, a personality. She was one of the first, if not the first person to have a car in Longmont. Oh, wow. Little garage in the back is... It it looks like a little carriage house that was a purposely built garage, and it was for her car, not her husband's car. Husband had no interest in learning how to drive. He always had a chauffeur. Oh, okay. Car, and she and she learned how to drive it.
+
+Wow. What year would she have gotten a car, roughly?
+
+Oh,
+
+I'm sure it's something Internet. It's, like, nineteen o five or something. It was, like, a Stanley steamer?
+
+Yeah. Steamers. Steamers are cool.
+
+It was pretty early in the... Like, 1900... Somewhere in around
+
+that night."
+------------------------------------------------------------
+
+#5 (clip_05) Java Stop newspaper ghost
+Status: Ready to use
+Time: 22:29 to 22:49 (20.5s)
+Topic: T9. Imperial Hotel ghosts and Java Stop newspaper reader
+Hook / headline: 50-year-old ghost rifles through newspapers at Java Stop then leaves
+Opening line: "in the Java stop, there is a 50 year old man who comes in, rifles through the newspapers, and then leaves."
+Speakers: Elizabeth Beaudoin, Brady Steffl
+Why it works: Charming local ghost story at a familiar Longmont business (Java Stop in the Imperial Hotel). Brady's enthusiastic 'That's a good ghost!' and Ghostbusters reference makes it fun. Short and punchy.
+Editing notes: Very short (20 seconds) but complete. The opening starts mid-sentence; could start at 1317.9 to get Elizabeth saying 'Imperial Hotel, which is where...' for better context, but that might dilute the punch.
+Transcript excerpt:
+  "in the Java stop, there is a 50 year old man who comes in, rifles through the newspapers, and then leaves.
+
+That's a good ghost. Come on. That's a good ghost. That's like the, the ghost at the beginning of Ghostbusters who's, like, looking at the books. You know?
+
+I haven't seen that movie. I just watched that
+
+movie, like, two months ago. It holds up, man. Sigourney Weaver and, all those guys too.
+
+I don't know.
+
+I like Alien, the, you know, the first Alien. These are good ones. Haven't seen."
+------------------------------------------------------------
+
+#6 (clip_06) Why Victorian homes became haunted houses
+Status: Ready to use
+Time: 13:29 to 14:30 (61.6s)
+Topic: T6. Victorian homes and the architecture of haunted houses
+Hook / headline: Victorian homes became spooky when they fell into disrepair mid-century
+Opening line: "We have this image of what a haunted house is, and it kinda looks like the Callahan House."
+Speakers: Elizabeth Beaudoin
+Why it works: Interesting architectural history explanation of why Victorian homes = haunted houses. The professor's joke about being 'haunted by the generations of their parents' is a nice payoff. Educational and engaging.
+Editing notes: Could extend to 899.4 to include the millennial warm milk/warm sand paint joke, but that adds 29 seconds and might dilute the main point. Current cut is cleaner.
+Transcript excerpt:
+  "We have this image of what a haunted house is, and it kinda looks like the Callahan House.
+
+Yeah. It really does. If I was gonna go do a ghost experience, I would want it to be in something like that. I wouldn't wanna go to, like, you know, just a refurbished apartment, and it's just, like, all white on white on white, then there's a couple black appliances or something, and you're like, great.
+
+Yeah.
+
+I don't feel scared in here.
+
+And there's a lot to that. You know, as TV shows and movies, like, scary movies were coming out, Victorian homes were falling into disrepair. Mhmm. There was increased taxation on the rich in the early twentieth century, and a lot of them kind of abandoned their properties. They didn't have the same value that they did in the gilded age in the mid twentieth century. So you have people like Alfred Hitchcock who are taking these homes that were really like their grandparents and were kinda crumbling and everyone had left that style for modernism for that sleek white walls minimalist look. And I had a architecture his... Architectural history professor who joked that that generation was haunted by the generations of their parents."
+------------------------------------------------------------
+
+#7 (clip_07) Shorty the barber ghost with mutton chops
+Status: Needs Haley's review
+Time: 19:40 to 20:32 (51.9s)
+Topic: T8. Shorty the barber ghost with mutton chops
+Hook / headline: Longmont barbershop haunted by Shorty, a 1970s barber with mutton chops
+Opening line: "Okay. I'm liking these specific ones."
+Speakers: Elizabeth Beaudoin, Brady Steffl
+Why it works: Fun ghost story with specific local details - Main Street barbershop with the candy cane pole. Brady's enthusiasm about a ghost with mutton chops instead of 'boring ladies in white gowns' is funny and relatable. Recent history (1970s) makes it feel more real.
+Editing notes: Opening line is weak. Better to start at 1185.5 'Barbershop. I don't know. Business on Main Street.' to jump into the story.
+Transcript excerpt:
+  "Okay. I'm liking these
+
+specific ones. Barbershop. I don't know. Business on Main Street.
+
+Yeah.
+
+Somewhere in that, like, 300, 400 block. It's got a... It's got one of those old fashioned red and blue and white.
+
+The candy cane looking curve.
+
+Yep. Out front, is haunted by Shorty. I forget what his full name is, but his nickname was Shorty. His picture actually hangs right next to the door. So even if they're not open, you can kind of look through the window and peer, and there's, like, pictures of, like, two different men who had worked as barbers there. And Shorty is the one with these, like, mutton chop Oh, yeah. Sideburns. Love it. And so he supposedly haunts that that building.
+
+That's a cool ghost.
+
+Yeah. And he, like, worked there in the seventies. Like, again, it's not that long ago.
+
+That's a cool ghost. I don't know, man. Like, I don't feel like we get a lot of ghosts with mutton chops. Mhmm. They all are like ladies in white gowns. You know? Pretty boring."
+------------------------------------------------------------
+
+#8 (clip_08) KKK in 1920s Longmont - Second highest membership
+Status: Needs a better cut
+Time: 31:45 to 32:35 (50s)
+Topic: T11. KKK leader's house and exorcism story
+Hook / headline: Colorado had second highest KKK membership in 1920s after Indiana
+Opening line: "After Indiana? Mhmm. Wow. Okay."
+Speakers: Elizabeth Beaudoin, Brady Steffl
+Why it works: Important Colorado/Longmont history that many people don't know. The shocking detail about second-highest KKK membership is newsworthy. Brady's observation about how the formula 'translates to today' adds contemporary relevance.
+Editing notes: Opening is weak - starts mid-reaction. Would be better to start earlier to establish the Indiana comparison clearly. The clip references broader context that isn't included.
+Transcript excerpt:
+  "After Indiana? Mhmm. Wow. Okay.
+
+And they could change their message of hatred for whatever community they were in.
+
+So Yeah. That translates to today. That... I mean, that still works. You can just kinda find somebody to punch down on, labeling that, and then that's your that's your formula.
+
+And they were kind of, essentially a secret organization because they they wore the robes. There's supposed to be an anonymity to this, of course, when you're, like, arresting people without due process that, or not arresting, but, like, yeah, torturing or sending... Lighting houses on fire as they did in Denver. That anonymity unhelps. A lot of people... They were criticized at the time of, like, well, if you really believe in what you're doing and saying, why aren't you showing your face? Mhmm. So we don't know a lot about the goings on of the Klan in the nineteen twenties. We have a a few names, and doctor Charles Andrew is one of them. And..."
+------------------------------------------------------------
+
+#9 (clip_09) KKK threatened Jewish business owners in Longmont
+Status: Needs a better cut
+Time: 30:44 to 31:52 (68s)
+Topic: T11. KKK leader's house and exorcism story
+Hook / headline: 1920s KKK sent threatening letters to Jewish residents on Main Street
+Opening line: "And so anyone who was drinking was breaking the law."
+Speakers: Elizabeth Beaudoin, Brady Steffl
+Why it works: Specific Longmont history about the Shy family's clothing store on Main Street receiving KKK threats. The detail about the Klan claiming someone stole their letterhead is darkly absurd. Connects to broader Colorado KKK history.
+Editing notes: Opening starts in the middle of context about Prohibition. The story about the Shy family is strong but embedded in a longer explanation. Would need careful trimming. Runs 68s, over the 60s max.
+Transcript excerpt:
+  "And so anyone who was drinking was breaking the law. And they really felt like not enough was being done to kind of curb what they saw as, illegal activity, which you could argue was drinking. But also, like, for them, they had their own definitions of that. That could just be, like, being a brown person and existing or being a Catholic Right. And being in town. We had, Jewish residents here, who got threatening letters from the Klan. And they were very good at, so this is one really long one thing. The the Shys, they home to clothing store on Main Street. They received this threatening... It was like get... It was like, leave or get it, like... Or or else or something. It was a very short little letter, and it was on Klan letterhead. And, of course, this goes to the newspapers, and it goes out to the media. And the clan's like, oh, no. No. No. Someone must have just stolen. That wasn't us. They they stole, stationary from our offices. Someone... That was someone else. It was, like, totally them. Right? So they're really good at, like, passing on the blame. Anyway, so, Colorado had the second highest Klan membership in the country after Indiana. Yeah.
+
+After Indiana? Mhmm. Wow. Okay.
+
+And they could change their message of hatred for whatever community they were in."
+------------------------------------------------------------
+
+#10 (clip_10) Millennials choosing warm milk paint colors
+Status: Needs Haley's review
+Time: 14:30 to 15:19 (48.5s)
+Topic: T6. Victorian homes and the architecture of haunted houses
+Hook / headline: Each generation reacts against parents' style: millennials choose warm milk paint
+Opening line: "Oh, we all are. We're all haunted by the... Everybody's so reactionary about because even Gen Z now is doing, like, just the craziest color schemes that you've ever seen."
+Speakers: Brady Steffl, Elizabeth Beaudoin
+Why it works: Funny riff on generational design trends. The 'warm milk' and 'warm sand' paint color jokes are relatable and specific. Good comedy moment that connects back to the Victorian haunted house theme.
+Editing notes: This is a digression from the main Longmont ghost tour content. Funny but not essential. Only include if looking for lighter comedy moments.
+Transcript excerpt:
+  "Oh, we all are. We're all haunted by the... Everybody's so reactionary about because even Gen Z now is doing, like, just the craziest color schemes that you've ever seen. And it's because, like, millennials are
+
+like, oh, no, no, no, no. Give me no... I might have to sell this house. Right? We're also worried about it. It's like, let's do,
+
+no. White's too plain. Let's do warm milk. You know? It's like, it's the color shade that somebody would pick. And and then do do warm sand in the bathroom.
+
+You know? It's like, oh, god. So we all do the same grays and whites and stuff. And it is very reactionary, but I think, that that generation... Yeah.
+
+They were reacting to the style that they either had grown up with or had their parents had grown up with and maybe had bad childhoods around, you know, the Victorian childhoods.
+
+Because, like, you think, like, the Addams family, the Munsters, you know, they have Victorian homes."
+------------------------------------------------------------
