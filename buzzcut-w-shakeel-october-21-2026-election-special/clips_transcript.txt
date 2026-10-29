@@ -1,0 +1,133 @@
+SIDEDISH LONGMONT - TRANSCRIPT FOR EACH PROPOSED CLIP ONLY
+============================================================
+
+This is exactly what a listener hears in each clip. Check it for a
+misheard word or name, and to confirm the clip makes sense on its own.
+To fix a word: edit transcript_words.json and correct its
+"punctuated_word" value.
+
+============================================================
+
+#1 (clip_01) 12:25 to 13:08 - "Longmont firefighters work 96-hour mandatory shifts"
+------------------------------------------------------------
+[744.9 - 752.8] Shakeel Dalal: I interviewed a Longmont firefighter who was talking to us about, like, working ninety six hour mandatory shifts because we don't have enough firefighters for shift coverage.
+[753.0 - 763.2] Brady Stuffel: That's brutal. Plus, you're paying overtime on 15 of those hours, and that's time and a half? That that that is correct. Yeah. So you'd be paying for twenty two some... Twenty two and a half?
+[763.5 - 766.0] Shakeel Dalal: Yeah. Right. Overtime is expensive. Right?
+[766.0 - 769.5] Brady Stuffel: Overtime is expensive. Yeah. And if you're paying minimum, I think it's time and a half. So...
+[769.5 - 787.5] Shakeel Dalal: And then, you know, let me ask you the question. When a police officer shows up in a situation where, you know, it's a situation where they might draw their gun, how many hours of sleep would you like that police officer to have had? Enough. How many hours of sleep would you like that firefighter to have had? So that is that is the case for raising this thing.
+
+============================================================
+
+#2 (clip_02) 6:59 to 7:43 - "Front Range train would connect 80% of Colorado"
+------------------------------------------------------------
+[418.7 - 420.3] Brady Stuffel: the front range is so densely packed.
+[420.6 - 435.6] Shakeel Dalal: Absolutely, especially in comparison to the rest of the state. And so as a result, like, once we get up to 10 trains per day, there's actually quite a bit of potential there for people to take the train to the jobs or to go to destinations, right? There's potentially a stop at the the Bronco Stadium. Right?
+[435.6 - 449.5] Annie Larner: And I suppose it just so happens that we get this first and main transit center that was unrelated, sort of related, but unrelated to this where we we have almost station like amenities where some of these other cities, if they were to get... They would need a station at least or something like
+[450.1 - 462.5] Shakeel Dalal: That's absolutely right. Okay. Yeah. I mean, in in the absence of this passing, the original concept for what the stop in Longmont would be was literally like a mobile flight of stairs that a conductor would pick up and put at the...
+[462.5 - 462.6] Annie Larner: And
+
+============================================================
+
+#3 (clip_03) 51:17 to 52:23 - "Why immigrants need to report crimes without fear"
+------------------------------------------------------------
+[3077.1 - 3077.4] Shakeel Dalal: Yeah.
+[3077.4 - 3078.7] Brady Stuffel: Yeah. It's pretty flagrant.
+[3078.8 - 3142.3] Shakeel Dalal: So there's a group called Advanced Colorado that is behind a lot of these. And the reason that this and several of the others that I'm about to discuss having been funded by Advance Colorado are on the ballot is because Republicans are very bad at winning state elections. They're very bad at winning elections to send people to the state legislature. They're very bad at winning statewide elections because they are nominating Looney Tunes. And if we get this far into the episode, I'll discuss some of the Looney Tunes that are on our ballot. But Google will Google... If we don't, Google will tell you. Yep. Just to make the case against this because I think it's worth saying explicitly, the reason why you don't want local police cooperating with ICE is because you want people to have the protection of law. If you are in the country illegally but you are being robbed, you are still being robbed and you want the protection of local police. If you are afraid of being deported, it means that it is now legal for you to be robbed. And that is where gangs come from because those people still need protection. And so gangs will be created in order to protect those people. And Longmont has a history with gangs. And I think the general consensus is that people don't like the gang era of Longmont's history. Let's not do that.
+
+============================================================
+
+#4 (clip_04) 27:23 to 27:55 - "Ranked choice voting explained in 60 seconds"
+------------------------------------------------------------
+[1643.4 - 1644.1] Shakeel Dalal: And so...
+[1644.1 - 1645.5] Annie Larner: Until someone clears 51.
+[1645.5 - 1647.1] Shakeel Dalal: Until someone clears 51%.
+[1647.1 - 1654.3] Annie Larner: Oh, it's interesting. I've... I personally have been hearing about ranked choice, and I still don't think I understood that. So this is partly why this is a tricky ballot issue. It's just confusing.
+[1654.3 - 1675.2] Shakeel Dalal: Yes. Rcv for Longmont game. Rcvforlongmont.org has a bunch of really great explainers for how this works in a way that I think is much more intuitive than trying to do this in an audio only format. Sure. So people who wanna know more about ranked choice voting, I should absolutely go to their website. Also, there's a great video from a YouTuber called CCP gray that's like fifteen years old. That is one of the best explanations of ranked choice voting that's out there.
+
+============================================================
+
+#5 (clip_05) 29:15 to 30:02 - "Childcare costs $20K a year in Boulder County"
+------------------------------------------------------------
+[1754.7 - 1761.3] Brady Stuffel: No. I mean, like, genuinely, if you are making less than that and you're paying $20k a year, you're kinda getting kicked in the teeth.
+[1761.3 - 1763.2] Shakeel Dalal: God forbid you have more than one child.
+[1763.5 - 1775.6] Brady Stuffel: Right? Yeah. No. You just go on, like, the the five year plan so that one's in kindergarten. It's like, well, how many can we get... You know, how many years do we have where we can still... So we have to pay for one at a time. That is insane. Yeah. It's such an insane amount of money.
+[1775.6 - 1785.2] Shakeel Dalal: And the less you make, the more of a subsidy that you would get. For comparison, the average household income in Longmont is about $86,000 countywide, I believe it's about $96,000. So... A quarter
+[1785.2 - 1797.0] Brady Stuffel: of your your household income roughly would go, and that's not even... That that would be pretax 86. Yeah. Yeah. I mean, that's what we... So, like, a third of your your take home income is going to child care.
+[1797.0 - 1802.2] Shakeel Dalal: And this and this is why people are dropping out of the workforce because, for some people, it just doesn't make sense to go to work
+
+============================================================
+
+#6 (clip_06) 43:13 to 44:05 - "Tax cut that raises billions for Colorado schools"
+------------------------------------------------------------
+[2593.4 - 2598.4] Brady Stuffel: You would tax the living bejesus out of people making millions of dollars.
+[2598.8 - 2627.1] Shakeel Dalal: So what amendment 87 says is that it will lower taxes on every Coloradan making less than $1,000,000 a year, and it will raise income taxes on every Colorado making more than $1,000,000 a year. Now you would think that most people make less than $1,000,000, and that is true. But it turns out that people who make more than $1,000,000 in income have so much money that even though you are reducing taxes on most people, this is gonna raise $2,700,000,000 per year.
+[2627.1 - 2630.3] Brady Stuffel: This is why marginal tax rates are extremely effective. Yeah.
+[2630.9 - 2636.0] Shakeel Dalal: And this money, according to amendment 87, is going to be set aside for education and Medicaid uses.
+[2637.1 - 2645.2] Brady Stuffel: It's hard to argue with the spend on the ballot, unless the same thing happens that happened in Longmont in like 2019 or whatever, and there's a big flood and they have to...
+
+============================================================
+
+#7 (clip_07) 71:06 to 71:38 - "Proposition would allow gender inspections of kids"
+------------------------------------------------------------
+[4265.9 - 4266.3] Shakeel Dalal: very......
+[4266.3 - 4267.7] Brady Stuffel: All nuance from the system.
+[4267.7 - 4275.8] Shakeel Dalal: Yes. This removes all nuance from the system. And one of the things that's been pointed out is that one of the things that 134 allows is for sports leagues to do gender inspections.
+[4276.1 - 4277.7] Brady Stuffel: Which is unbelievable.
+[4278.7 - 4289.5] Shakeel Dalal: Yes. How would you feel about a kid at yours... A teacher at your kid's school inspecting your kid's gender? Doesn't specify methods. It doesn't specify frequency. It doesn't specify bar. It's stupid. It doesn't belong in the ballot.
+[4289.5 - 4293.6] Annie Larner: I have so many really good sexist jokes going through my head right now. I'll refrain.
+[4294.3 - 4295.7] Shakeel Dalal: It's your show. You can do anything. Yeah.
+[4295.7 - 4298.0] Annie Larner: No. No. No. They're good. I gotta refine them anyway.
+
+============================================================
+
+#8 (clip_08) 64:39 to 65:51 - "I'm voting no on something I believe in"
+------------------------------------------------------------
+[3878.8 - 3880.1] Brady Stuffel: What's the... Yeah. What's going on there?
+[3880.1 - 3897.0] Shakeel Dalal: The context behind this is, again, stupid national politics interfering with doing the right thing on a policy level. You may recall earlier in the Trump administration that Donald Trump decided that he couldn't win elections, and so he demanded that Republicans across the country redistrict in order to make it easier for them to win elections in the house.
+[PROPOSED CUT] [3898.3 - 3923.5] Shakeel Dalal: As a result of that, a bunch of Democratic states retaliated by doing the exact same thing on the other side. I hate what Trump did. I hate what happened in California in response to this. I hate what happened in North Carolina in response to this. What I don't want us to do is I don't want... I want I want gerrymandering to be illegal everywhere, not just here. Because the problem is that, unfortunately, if just one side disarms, it means that the other side have... Has every incentive to maximize the......
+[3923.9 - 3925.9] Annie Larner: Arms race. It's the arms race.
+[3926.0 - 3926.4] Shakeel Dalal: Yes. This is
+[3926.4 - 3929.3] Annie Larner: why we must keep doing dangerous AI for the same reason.
+[3929.3 - 3933.2] Shakeel Dalal: Yes. It's it's... Yes. It's the exact same stupid argument that I hate that I'm making.
+[3934.0 - 3938.1] Brady Stuffel: I mean, it doesn't make the game theory any different. It doesn't change the outcome
+[3938.1 - 3951.3] Annie Larner: of that. So just summarize what you're saying. You're saying you are in favor in general as a policy for Colorado to do this because you think it's better and fair and better for democracy, but you're gonna vote against it because you want us to keep participating in all the nonsense. I wanna...... Be able to participate
+
+============================================================
+
+#9 (clip_09) 77:22 to 78:27 - "Why this Democrat is voting for a Republican DA"
+------------------------------------------------------------
+[4641.5 - 4653.3] Shakeel Dalal: In my opinion, she is mostly running for AG because she wants to be on the news, which is generally the criticism of her when she was secretary of state. She got to spend a lot of time being on MSNBC talking about how she's fighting Donald Trump.
+[4653.8 - 4661.9] Brady Stuffel: And... She's definitely at the top of the website at the state, whatever. I mean, she's there. I've seen her. And I honestly think that she
+[4661.9 - 4679.5] Shakeel Dalal: is running for... So if you look at her website, why is she running for attorney general? What is her own case for saying that she wants to be attorney general? I think it's that she wants to sue Donald Trump a lot, which I understand. Phil Weiser talks about this, our current attorney general who is now running for governor and it's going to be the next governor. He talks about suing Donald Trump all the time.
+[4679.5 - 4680.2] Brady Stuffel: And I get...
+[4680.2 - 4680.5] Shakeel Dalal: Is there
+[4680.5 - 4681.4] Brady Stuffel: a point to that?
+[4681.4 - 4707.0] Shakeel Dalal: It... Yes. It is authentically part of the attorney general's job is to sue the federal government because sometimes states and the federal government disagree. That's fine. That's a real part of the job. It's not most of the job. I think it's the only thing that she is interested in. So here's a quote from Jenna's website about what she will do as attorney general. Okay. Quote, as attorney general, Jenna will invest in programs that prevent crime before they happen, improve mental health, and reduce recidivism. I don't know what that means.
+
+============================================================
+
+#10 (clip_10) 31:31 to 32:25 - "Boulder County's billion-dollar budget run by 3 people"
+------------------------------------------------------------
+[1891.0 - 1891.2] Shakeel Dalal: people
+[1891.2 - 1893.8] Brady Stuffel: to five people. Why? What's the deal?
+[1894.5 - 1896.6] Shakeel Dalal: So the city of Longmont has a five......
+[1896.6 - 1897.5] Annie Larner: Bigger tent.
+[1897.7 - 1902.0] Shakeel Dalal: So so the city of Longmont has a $500,000,000 budget and has seven city council members.
+[1903.3 - 1916.4] Shakeel Dalal: Boulder County has a $1,000,000,000 budget and is run by three people. Just three people. Three people. And simultaneously, one of the risks of only having three people run an organization of that size is that,
+[1917.8 - 1929.1] Shakeel Dalal: two of them have to agree to do anything. And one of the things that I don't love about the way the Boulder County commissioners have worked in the past few years is that the three people who we have serving as Boulder County commissioners hate each other.
+[1930.3 - 1931.3] Annie Larner: Three is a crowd.
+[1932.6 - 1944.3] Shakeel Dalal: It it it's truly problematic. Like, it has resulted in worse governance at the county level. Okay. And I think there is a real advantage to making sure that you have a bigger group of people so that at least some of them can work together appropriately.
+
+============================================================
+
+#11 (clip_11) 75:17 to 76:02 - "Why I vote no on every judge retention"
+------------------------------------------------------------
+[4517.1 - 4524.5] Shakeel Dalal: My philosophy on these, which is extremely immature and I don't vote on anything else this way, is I just vote no. I vote no on all of them because... I know a lot of people who
+[4524.5 - 4524.9] Brady Stuffel: do that.
+[4525.0 - 4541.1] Shakeel Dalal: I do that too. I vote no because on the off chance that someone out there is running a campaign against one of these people that I can't find or frankly can't be bothered to research because there's too much friggin' stuff on this ballot, I'm gonna I'm gonna throw my hat in on that one because I believe in term limits. Mhmm. Interesting.
+[4541.2 - 4542.0] Brady Stuffel: Yeah. We've seen
+[4542.5 - 4542.9] Annie Larner: k.
+[4543.0 - 4545.4] Brady Stuffel: What happens when people are pointed to it.
+[4545.4 - 4561.8] Shakeel Dalal: I wanna call one other race out. So for all for all the people who are running for stuff, honestly, I don't think there's a lot of value in me talking about John Hickenlooper because people have their own partisan biases, whatever. There is one race where I think it is worth people looking past their partisan bias. And so I'm gonna call that one out explicitly. And this is for state attorney general.
+
+============================================================

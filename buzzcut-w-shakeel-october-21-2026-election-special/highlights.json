@@ -1,0 +1,268 @@
+{
+  "clips": [
+    {
+      "rank": 1,
+      "topic_number": 4,
+      "topic_title": "Longmont public safety sales tax (3A)",
+      "title": "Firefighters working 96-hour mandatory shifts",
+      "hook": "Longmont firefighters work 96-hour mandatory shifts",
+      "start_time": 744.9,
+      "end_time": 787.5,
+      "duration": 42.6,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel"
+      ],
+      "transcript_excerpt": "I interviewed a Longmont firefighter who was talking to us about, like, working ninety six hour mandatory shifts because we don't have enough firefighters for shift coverage.\n[753.0 - 763.2] Brady Stuffel (Speaker 0): That's brutal. Plus, you're paying overtime on 15 of those hours, and that's time and a half? That that that is correct. Yeah. So you'd be paying for twenty two some... Twenty two and a half?\n[763.5 - 766.0] Shakeel Dalal (Speaker 2): Yeah. Right. Overtime is expensive. Right?\n[766.0 - 769.5] Brady Stuffel (Speaker 0): Overtime is expensive. Yeah. And if you're paying minimum, I think it's time and a half. So...\n[769.5 - 787.5] Shakeel Dalal (Speaker 2): And then, you know, let me ask you the question. When a police officer shows up in a situation where, you know, it's a situation where they might draw their gun, how many hours of sleep would you like that police officer to have had? Enough. How many hours of sleep would you like that firefighter to have had? So that is that is the case for raising this thing.",
+      "opening_line": "I interviewed a Longmont firefighter who was talking to us about, like, working ninety six hour mandatory shifts because we don't have enough firefighters for shift coverage.",
+      "why_it_works": "This is a timely Longmont moment about ballot measure 3A that has strong human interest. The 96-hour mandatory shift detail is shocking and memorable, and Shakeel closes with a powerful rhetorical question about safety. The clip is self-contained with clear stakes for voters.",
+      "edit_notes": "Clean continuous cut. The opening references a prior episode but the clip still makes sense. The overtime math in the middle adds concrete detail about costs.",
+      "proposed_cuts": [],
+      "status": "ready_to_use",
+      "selection_reason": "This is a timely Longmont moment about ballot measure 3A that has strong human interest. The 96-hour mandatory shift detail is shocking and memorable, and Shakeel closes with a powerful rhetorical question about safety. The clip is self-contained with clear stakes for voters.",
+      "social_angle": "timely_longmont",
+      "clip_id": "clip_01"
+    },
+    {
+      "rank": 2,
+      "topic_number": 3,
+      "topic_title": "Front Range Passenger Rail (Issue 7A)",
+      "title": "Train connecting 80% of Colorado's population",
+      "hook": "Front Range train would connect 80% of Colorado",
+      "start_time": 418.7,
+      "end_time": 462.5,
+      "duration": 43.8,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel",
+        "Annie Larner"
+      ],
+      "transcript_excerpt": "And so as a result, like, once we get up to 10 trains per day, there's actually quite a bit of potential there for people to take the train to the jobs or to go to destinations, right? There's potentially a stop at the the Bronco Stadium. Right?\n[435.6 - 449.5] Annie Larner (Speaker 1): And I suppose it just so happens that we get this first and main transit center that was unrelated, sort of related, but unrelated to this where we we have almost station like amenities where some of these other cities, if they were to get... They would need a station at least or something like\n[450.1 - 462.5] Shakeel Dalal (Speaker 2): That's absolutely right. Okay. Yeah. I mean, in in the absence of this passing, the original concept for what the stop in Longmont would be was literally like a mobile flight of stairs that a conductor would pick up and put at the...",
+      "opening_line": "And so as a result, like, once we get up to 10 trains per day, there's actually quite a bit of potential there for people to take the train to the jobs or to go to destinations, right?",
+      "why_it_works": "Timely ballot measure 7A for Longmont. The contrast between proper stations and 'a mobile flight of stairs' is memorable and visual. However, it doesn't include the 80% population statistic mentioned in the mapping notes.",
+      "edit_notes": "The 80% stat appears earlier (418.7) but this segment is the better contained moment. Consider starting at 418.7 to capture: 'if this train goes all the way from Colorado Springs to Fort Collins, then the cities that will be in the collection area for this train will be 80% of the population of Colorado' then cutting to the stairs bit.",
+      "proposed_cuts": [],
+      "status": "needs_better_cut",
+      "selection_reason": "Timely ballot measure 7A for Longmont. The contrast between proper stations and 'a mobile flight of stairs' is memorable and visual. However, it doesn't include the 80% population statistic mentioned in the mapping notes.",
+      "social_angle": "timely_longmont",
+      "clip_id": "clip_02"
+    },
+    {
+      "rank": 3,
+      "topic_number": 11,
+      "topic_title": "Immigration enforcement (Amendment 81)",
+      "title": "How blocking crime reporting creates gangs",
+      "hook": "Why immigrants need to report crimes without fear",
+      "start_time": 3077.1,
+      "end_time": 3142.5,
+      "duration": 65.4,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel"
+      ],
+      "transcript_excerpt": "So here's a quote from Jenna's website about what she will do as attorney general. Okay. Quote, as attorney general, Jenna will invest in programs that prevent crime before they happen, improve mental health, and reduce recidivism. I don't know what that means.\n[4707.0 - 4712.6] Brady Stuffel (Speaker 0): So, minority report is the first one. Yeah. Prevent crime before they happen.",
+      "opening_line": "It... Yes. It is authentically part of the attorney general's job is to sue the federal government because sometimes states and the federal government disagree.",
+      "why_it_works": "This addresses Amendment 81 on immigration enforcement with a clear local connection to Longmont's gang history. The argument is logical and complete: if immigrants fear deportation they won't report crimes, creating conditions for gangs.",
+      "edit_notes": "Need to find the actual segment at 3142 seconds about gangs. The transcript excerpt provided is from the wrong timestamp (4707 area, which is about attorney general race). Will need to use the correct portion around 3077-3142. Runs 65s, over the 60s max.",
+      "proposed_cuts": [],
+      "status": "needs_better_cut",
+      "selection_reason": "This addresses Amendment 81 on immigration enforcement with a clear local connection to Longmont's gang history. The argument is logical and complete: if immigrants fear deportation they won't report crimes, creating conditions for gangs.",
+      "social_angle": "other",
+      "clip_id": "clip_03"
+    },
+    {
+      "rank": 4,
+      "topic_number": 6,
+      "topic_title": "Longmont ranked choice voting (3C and 3D)",
+      "title": "How ranked choice voting actually works",
+      "hook": "Ranked choice voting explained in 60 seconds",
+      "start_time": 1643.4,
+      "end_time": 1675.2,
+      "duration": 31.8,
+      "speakers": [
+        "Shakeel Dalal",
+        "Annie Larner"
+      ],
+      "transcript_excerpt": "And so the first round of tabulation, let's say there are three people running for one seat, the person, so they'll tabulate all the votes. And if one person gets 51% of the first choice votes, election over a winner is designated. If that threshold is not cleared, the person who got the least first choice votes is eliminated. And then the first choice... And then the votes of everyone who voted for that person as their first choice go to their second choice.\n[1642.4 - 1642.9] Annie Larner (Speaker 1): Mhmm.\n[1643.4 - 1644.1] Shakeel Dalal (Speaker 2): And so...\n[1644.1 - 1645.5] Annie Larner (Speaker 1): Until someone clears 51.\n[1645.5 - 1647.1] Shakeel Dalal (Speaker 2): Until someone clears 51%.\n[1647.1 - 1654.3] Annie Larner (Speaker 1): Oh, it's interesting. I've... I personally have been hearing about ranked choice, and I still don't think I understood that. So this is partly why this is a tricky ballot issue. It's just confusing.\n[1654.3 - 1675.2] Shakeel Dalal (Speaker 2): Yes. Rcv for Longmont game. Rcvforlongmont.org has a bunch of really great explainers for how this works in a way that I think is much more intuitive than trying to do this in an audio only format. Sure. So people who wanna know more about ranked choice voting, I should absolutely go to their website. Also, there's a great video from a YouTuber called CCP gray that's like fifteen years old. That is one of the best explanations of ranked choice voting that's out there.",
+      "opening_line": "And so the first round of tabulation, let's say there are three people running for one seat, the person, so they'll tabulate all the votes.",
+      "why_it_works": "Timely Longmont ballot measure 3C. Annie's genuine confusion ('I still don't think I understood that') makes this relatable. Shakeel gives a clear explanation with a concrete example. The resource recommendations at the end are useful.",
+      "edit_notes": "This is mid-explanation and needs setup. Better to start earlier where Shakeel begins the explanation, around 1601 where he says 'And so this gets into the guts of how ranked choice voting works.' May need internal cut to get under 60 seconds.",
+      "proposed_cuts": [],
+      "status": "needs_better_cut",
+      "selection_reason": "Timely Longmont ballot measure 3C. Annie's genuine confusion ('I still don't think I understood that') makes this relatable. Shakeel gives a clear explanation with a concrete example. The resource recommendations at the end are useful.",
+      "social_angle": "timely_longmont",
+      "clip_id": "clip_04"
+    },
+    {
+      "rank": 5,
+      "topic_number": 7,
+      "topic_title": "Boulder County childcare subsidy (1A)",
+      "title": "Childcare costs a third of household income",
+      "hook": "Childcare costs $20K a year in Boulder County",
+      "start_time": 1754.7,
+      "end_time": 1802.2,
+      "duration": 47.5,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel"
+      ],
+      "transcript_excerpt": "What this does is it will increase property taxes by roughly $100 per year for the average home in Longmont. And in exchange, it will subsidize childcare for families earning up to $150,000 per year in annual income. Yeah. It... It's a sizable benefit. So...\n[1754.7 - 1761.3] Brady Stuffel (Speaker 0): No. I mean, like, genuinely, if you are making less than that and you're paying $20 a year, you're kinda getting kicked in the teeth.\n[1761.3 - 1763.2] Shakeel Dalal (Speaker 2): God forbid you have more than one child.\n[1763.5 - 1775.6] Brady Stuffel (Speaker 0): Right? Yeah. No. You just go on, like, the the five year plan so that one's in kindergarten. It's like, well, how many can we get... You know, how many years do we have where we can still... So we have to pay for one at a time. That is insane. Yeah. It's such an insane amount of money.\n[1775.6 - 1785.2] Shakeel Dalal (Speaker 2): And the less you make, the more of a subsidy that you would get. For comparison, the average household income in Longmont is about $86,000 countywide, I believe it's about 96,000. So... A quarter\n[1785.2 - 1797.0] Brady Stuffel (Speaker 0): of your your household income roughly would go, and that's not even... That that would be pretax 86. Yeah. Yeah. I mean, that's what we... So, like, a third of your your take home income is going to child care.\n[1797.0 - 1802.2] Shakeel Dalal (Speaker 2): And this and this is why people are dropping out of the workforce because, for some people, it just doesn't make sense to go to work",
+      "opening_line": "What this does is it will increase property taxes by roughly $100 per year for the average home in Longmont.",
+      "why_it_works": "Timely Boulder County ballot measure 1A with strong human interest. The math is clear and shocking: $20K annual childcare cost becomes a third of take-home income. Brady's 'five year plan' joke lands the absurdity. Ends with clear consequence: people dropping out of workforce.",
+      "edit_notes": "Clean continuous segment. Has all the context needed. The $20K figure is mentioned in passing as '$20 a year' which is clearly a verbal slip for $20,000.",
+      "proposed_cuts": [],
+      "status": "ready_to_use",
+      "selection_reason": "Timely Boulder County ballot measure 1A with strong human interest. The math is clear and shocking: $20K annual childcare cost becomes a third of take-home income. Brady's 'five year plan' joke lands the absurdity. Ends with clear consequence: people dropping out of workforce.",
+      "social_angle": "timely_longmont",
+      "clip_id": "clip_05"
+    },
+    {
+      "rank": 6,
+      "topic_number": 9,
+      "topic_title": "Progressive income tax (Amendment 87 and Prop 136)",
+      "title": "Progressive tax raises $2.7B despite cutting most people's taxes",
+      "hook": "Tax cut that raises billions for Colorado schools",
+      "start_time": 2593.4,
+      "end_time": 2645.2,
+      "duration": 51.8,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel"
+      ],
+      "transcript_excerpt": "You would tax the living bejesus out of people making millions of dollars.\n[2598.8 - 2627.1] Shakeel Dalal (Speaker 2): So what amendment 87 says is that it will lower taxes on every Coloradan making less than $1,000,000 a year, and it will raise income taxes on every Colorado making more than $1,000,000 a year. Now you would think that most people make less than $1,000,000, and that is true. But it turns out that people who make more than $1,000,000 in income have so much money that even though you are reducing taxes on most people, this is gonna raise $2,700,000,000 per year.\n[2627.1 - 2630.3] Brady Stuffel (Speaker 0): This is why marginal tax rates are extremely effective. Yeah.\n[2630.9 - 2636.0] Shakeel Dalal (Speaker 2): And this money, according to amendment 87, is going to be set aside for education and Medicaid uses.\n[2637.1 - 2645.2] Brady Stuffel (Speaker 0): It's hard to argue with the spend on the ballot, unless the same thing happens that happened in Longmont in like 2019 or whatever, and there's a big flood and they have to...",
+      "opening_line": "You would tax the living bejesus out of people making millions of dollars.",
+      "why_it_works": "Timely state ballot measure with a counterintuitive and memorable premise: cutting taxes on 99% of people still raises $2.7 billion. The numbers are clear and the education funding destination is stated. Brady's comment validates the effectiveness.",
+      "edit_notes": "Opening line is Brady finishing a thought about 1950s tax rates. Could start at 2598.8 with 'So what amendment 87 says...' for cleaner entry, but the current opening is punchy and works as audio clickbait.",
+      "proposed_cuts": [],
+      "status": "ready_to_use",
+      "selection_reason": "Timely state ballot measure with a counterintuitive and memorable premise: cutting taxes on 99% of people still raises $2.7 billion. The numbers are clear and the education funding destination is stated. Brady's comment validates the effectiveness.",
+      "social_angle": "other",
+      "clip_id": "clip_06"
+    },
+    {
+      "rank": 7,
+      "topic_number": 18,
+      "topic_title": "Child trafficking, transgender sports, and gender-affirming care (Props 133-135)",
+      "title": "Sports leagues doing gender inspections",
+      "hook": "Proposition would allow gender inspections of kids",
+      "start_time": 4266.3,
+      "end_time": 4298,
+      "duration": 31.7,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel",
+        "Annie Larner"
+      ],
+      "transcript_excerpt": "Yes. This removes all nuance from the system. And one of the things that's been pointed out is that one of the things that one thirty four allows is for sports leagues to do gender inspections.\n[4276.1 - 4277.7] Brady Stuffel (Speaker 0): Which is unbelievable.\n[4278.7 - 4289.5] Shakeel Dalal (Speaker 2): Yes. How would you feel about a kid at yours... A teacher at your kid's school inspecting your kid's gender? Doesn't specify methods. It doesn't specify frequency. It doesn't specify bar. It's stupid. It doesn't belong in the ballot.\n[4289.5 - 4293.6] Annie Larner (Speaker 1): I have so many really good sexist jokes going through my head right now. I'll refrain.\n[4294.3 - 4295.7] Shakeel Dalal (Speaker 2): It's your show. You can do anything. Yeah.\n[4295.7 - 4298.0] Annie Larner (Speaker 1): No. No. No. They're good. I gotta refine them anyway.",
+      "opening_line": "Yes. This removes all nuance from the system.",
+      "why_it_works": "Statewide ballot measure with an absurd and memorable detail. Shakeel's question about teachers inspecting kids' gender is visceral and the lack of specified methods/frequency makes it worse. Annie's reaction adds levity. However, opening needs context.",
+      "edit_notes": "Needs better opening that establishes this is about Proposition 134 on transgender youth in sports. Should probably start earlier around 4206 where Shakeel introduces the proposition, then potentially cut to this moment.",
+      "proposed_cuts": [],
+      "status": "needs_better_cut",
+      "selection_reason": "Statewide ballot measure with an absurd and memorable detail. Shakeel's question about teachers inspecting kids' gender is visceral and the lack of specified methods/frequency makes it worse. Annie's reaction adds levity. However, opening needs context.",
+      "social_angle": "other",
+      "clip_id": "clip_07"
+    },
+    {
+      "rank": 8,
+      "topic_number": 16,
+      "topic_title": "Congressional redistricting ban (Amendment 86)",
+      "title": "Voting against something I philosophically support",
+      "hook": "I'm voting no on something I believe in",
+      "start_time": 3878.8,
+      "end_time": 3951.3,
+      "duration": 46,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel",
+        "Annie Larner"
+      ],
+      "transcript_excerpt": "Amendment 86, congressional redistricting. This is one that it pains me to be against. It truly pains me to be against this. Mhmm. So amendment 86 makes it illegal to do redistricting in the middle of of of like a... So redistrict... Congressional redistricting happens at census cycles. Yep. And amendment 86 would bar redistricting between census cycles. Mhmm. This is intended to discourage gerrymandering, and I hate gerrymandering. And I wish that I could vote yes for this, but I have to vote no for this.\n[3878.8 - 3880.1] Brady Stuffel (Speaker 0): What's the... Yeah. What's going on there?\n[3880.1 - 3897.0] Shakeel Dalal (Speaker 2): The context behind this is, again, stupid national politics interfering with doing the right thing on a policy level. You may recall earlier in the Trump administration that Donald Trump decided that he couldn't win elections, and so he demanded that Republicans across the country redistrict in order to make it easier for them to win elections in the house.\n[3898.3 - 3923.5] Shakeel Dalal (Speaker 2): As a result of that, a bunch of Democratic states retaliated by doing the exact same thing on the other side. I hate what Trump did. I hate what happened in California in response to this. I hate what happened in North Carolina in response to this. What I don't want us to do is I don't want... I want I want gerrymandering to be illegal everywhere, not just here. Because the problem is that, unfortunately, if just one side disarms, it means that the other side have... Has every incentive to maximize the......\n[3923.9 - 3925.9] Annie Larner (Speaker 1): Arms race. It's the arms race.\n[3926.0 - 3926.4] Shakeel Dalal (Speaker 2): Yes.",
+      "opening_line": "Amendment 86, congressional redistricting. This is one that it pains me to be against.",
+      "why_it_works": "This is a surprising and honest moment about the painful tension between principles and strategy. Shakeel clearly hates gerrymandering but explains the arms race problem. The debate with Annie that follows is engaging. At 73 seconds it's too long.",
+      "edit_notes": "Needs to be trimmed to 60 seconds. Could cut from 3897 to 3923 (the Trump backstory) and go straight to 'I hate gerrymandering... if just one side disarms' conclusion.",
+      "proposed_cuts": [
+        {
+          "start_time": 3897,
+          "end_time": 3923.5,
+          "reason": "Remove Trump administration backstory to focus on the core dilemma and get under 60 seconds"
+        }
+      ],
+      "status": "needs_better_cut",
+      "selection_reason": "This is a surprising and honest moment about the painful tension between principles and strategy. Shakeel clearly hates gerrymandering but explains the arms race problem. The debate with Annie that follows is engaging. At 73 seconds it's too long.",
+      "social_angle": "other",
+      "clip_id": "clip_08"
+    },
+    {
+      "rank": 9,
+      "topic_number": 21,
+      "topic_title": "State Attorney General race: Griswold vs. Allen",
+      "title": "Republican DA who prosecuted Club Q as hate crime",
+      "hook": "Why this Democrat is voting for a Republican DA",
+      "start_time": 4641.5,
+      "end_time": 4707,
+      "duration": 65.5,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel"
+      ],
+      "transcript_excerpt": "In my opinion, she is mostly running for AG because she wants to be on the news, which is generally the criticism of her when she was secretary of state. She got to spend a lot of time being on MSNBC talking about how she's fighting Donald Trump.\n[4653.8 - 4661.9] Brady Stuffel (Speaker 0): And... She's definitely at the top of the website at the state, whatever. I mean, she's there. I've seen her. And I honestly think that she\n[4661.9 - 4679.5] Shakeel Dalal (Speaker 2): is running for... So if you look at her website, why is she running for attorney general? What is her own case for saying that she wants to be attorney general? I think it's that she wants to sue Donald Trump a lot, which I understand. Phil Weiser talks about this, our current attorney general who is now running for governor and it's going to be the next governor. He talks about suing Donald Trump all the time.\n[4679.5 - 4680.2] Brady Stuffel (Speaker 0): And I get...\n[4680.2 - 4680.5] Shakeel Dalal (Speaker 2): Is there\n[4680.5 - 4681.4] Brady Stuffel (Speaker 0): a point to that?\n[4681.4 - 4707.0] Shakeel Dalal (Speaker 2): It... Yes. It is authentically part of the attorney general's job is to sue the federal government because sometimes states and the federal government disagree. That's fine. That's a real part of the job. It's not most of the job. I think it's the only thing that she is interested in. So here's a quote from Jenna's website about what she will do as attorney general. Okay. Quote, as attorney general, Jenna will invest in programs that prevent crime before they happen, improve mental health, and reduce recidivism. I don't know what that means.",
+      "opening_line": "In my opinion, she is mostly running for AG because she wants to be on the news, which is generally the criticism of her when she was secretary of state.",
+      "why_it_works": "This is the statewide race Shakeel flagged as worth looking past partisan bias. The case against Griswold is sharp. However, this excerpt doesn't include the Club Q detail from the hook or the case FOR Allen that makes this compelling.",
+      "edit_notes": "Need to find the segment around 4717-4810 where Shakeel discusses Michael Allen prosecuting Club Q as a hate crime, saying he'd prosecute ICE agents who break the law, etc. That's the actual strong moment. Runs 66s, over the 60s max.",
+      "proposed_cuts": [],
+      "status": "needs_better_cut",
+      "selection_reason": "This is the statewide race Shakeel flagged as worth looking past partisan bias. The case against Griswold is sharp. However, this excerpt doesn't include the Club Q detail from the hook or the case FOR Allen that makes this compelling.",
+      "social_angle": "timely_longmont",
+      "clip_id": "clip_09"
+    },
+    {
+      "rank": 10,
+      "topic_number": 8,
+      "topic_title": "Boulder County commissioner expansion (200 and 201)",
+      "title": "Three commissioners run a billion-dollar budget",
+      "hook": "Boulder County's billion-dollar budget run by 3 people",
+      "start_time": 1891.2,
+      "end_time": 1944.5,
+      "duration": 53.3,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel",
+        "Annie Larner"
+      ],
+      "transcript_excerpt": "Next, Boulder County question 200. So this is to expand the board of the Boulder County Commissioners from three people\n[1891.2 - 1893.8] Brady Stuffel (Speaker 0): to five people. Why? What's the deal?\n[1894.5 - 1896.6] Shakeel Dalal (Speaker 2): So the city of Longmont has a five......\n[1896.6 - 1897.5] Annie Larner (Speaker 1): Bigger tent.\n[1897.7 - 1902.0] Shakeel Dalal (Speaker 2): So so the city of Longmont has a $500,000,000 budget and has seven city council members.\n[1903.3 - 1916.4] Shakeel Dalal (Speaker 2): Boulder County has a $1,000,000,000 budget and is run by three people. Just three people. Three people. And simultaneously, one of the risks of only having three people run an organization of that size is that,\n[1917.8 - 1929.1] Shakeel Dalal (Speaker 2): two of them have to agree to do anything. And one of the things that I don't love about the way the Boulder County commissioners have worked in the past few years is that the three people who we have serving as Boulder County commissioners hate each other.\n[1930.3 - 1931.3] Annie Larner (Speaker 1): Three is a crowd.\n[1932.6 - 1944.3] Shakeel Dalal (Speaker 2): It it it's truly problematic. Like, it has resulted in worse governance at the county level. Okay. And I think there is a real advantage to making sure that you have a bigger group of people so that at least some of them can work together appropriately.",
+      "opening_line": "Next, Boulder County question 200. So this is to expand the board of the Boulder County Commissioners from three people",
+      "why_it_works": "County ballot measure with a stark, memorable comparison: Longmont's $500M budget has 7 people, Boulder County's $1B budget has 3 people who hate each other. The dysfunction detail makes it more than just numbers. Clean, complete argument.",
+      "edit_notes": "Continuous clean cut. Annie's 'three is a crowd' is a nice button. Under 60 seconds.",
+      "proposed_cuts": [],
+      "status": "ready_to_use",
+      "selection_reason": "County ballot measure with a stark, memorable comparison: Longmont's $500M budget has 7 people, Boulder County's $1B budget has 3 people who hate each other. The dysfunction detail makes it more than just numbers. Clean, complete argument.",
+      "social_angle": "timely_longmont",
+      "clip_id": "clip_10"
+    },
+    {
+      "rank": 11,
+      "topic_number": 20,
+      "topic_title": "Judicial retention votes",
+      "title": "Voting no on all judges because of term limits",
+      "hook": "Why I vote no on every judge retention",
+      "start_time": 4516.5,
+      "end_time": 4561.8,
+      "duration": 45.3,
+      "speakers": [
+        "Shakeel Dalal",
+        "Brady Stuffel",
+        "Annie Larner"
+      ],
+      "transcript_excerpt": "The... So in an article for the Colorado Sun talking about exactly this conversation that we're having, one of the people who helps organize that panel said that they think that the process is effective because for the most part, the judges who would fail the evaluation process just don't... Just get past the bar? They they just resign before the... Before this process would start.\n[4515.5 - 4516.3] Brady Stuffel (Speaker 0): I see. Okay.\n[4517.1 - 4524.5] Shakeel Dalal (Speaker 2): My philosophy on these, which is extremely immature and I don't vote on anything else this way, is I just vote no. I vote no on all of them because... I know a lot of people who\n[4524.5 - 4524.9] Brady Stuffel (Speaker 0): do that.\n[4525.0 - 4541.1] Shakeel Dalal (Speaker 2): I do that too. I vote no because on the off chance that someone out there is running a campaign against one of these people that I can't find or frankly can't be bothered to research because there's too much friggin' stuff on this ballot, I'm gonna I'm gonna throw my hat in on that one because I believe in term limits. Mhmm. Interesting.\n[4541.2 - 4542.0] Brady Stuffel (Speaker 0): Yeah. We've seen\n[4542.5 - 4542.9] Annie Larner (Speaker 1): k.\n[4543.0 - 4545.4] Brady Stuffel (Speaker 0): What happens when people are pointed to it.\n[4545.4 - 4561.8] Shakeel Dalal (Speaker 2): I wanna call one other race out. So for all for all the people who are running for stuff, honestly, I don't think there's a lot of value in me talking about John Hickenlooper because people have their own partisan biases, whatever. There is one race where I think it is worth people looking past their partisan bias. And so I'm gonna call that one out explicitly. And this is for state attorney general.",
+      "opening_line": "The... So in an article for the Colorado Sun talking about exactly this conversation that we're having, one of the people who helps organize that panel said that they think that the process is effective",
+      "why_it_works": "This is a relatable confession about the most opaque part of the ballot. Shakeel admits his 'extremely immature' blanket no-vote strategy based on term limits, and both Brady and Annie relate. It's honest and could reassure listeners who struggle with judicial retention.",
+      "edit_notes": "The opening is mid-conversation. Should start at 4517.1 with 'My philosophy on these, which is extremely immature...' The ending transitions to attorney general which is fine but could be trimmed at 4541 after 'term limits.'",
+      "proposed_cuts": [],
+      "status": "needs_better_cut",
+      "selection_reason": "This is a relatable confession about the most opaque part of the ballot. Shakeel admits his 'extremely immature' blanket no-vote strategy based on term limits, and both Brady and Annie relate. It's honest and could reassure listeners who struggle with judicial retention.",
+      "social_angle": "other",
+      "clip_id": "clip_11"
+    }
+  ]
+}
